@@ -1,0 +1,617 @@
+Using mode Qwen2.5-3B
+
+
+claim_0:
+The song recorded by Fergie that was produced by Polow da Don and was followed by Life Goes On was M.I.L.F.$.
+
+Sub-claims:
+1. Fergie recorded the song M.I.L.F.$.
+2. Polow da Don produced the song M.I.L.F.$.
+3. After M.I.L.F.$, Fergie released the song Life Goes On.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_1:
+Stephen King wrote the novel that the movie directed by Stanley Kubrick that was sampled in the album "Where Blood and Fire Bring Rest" was based on.
+
+Sub-claims:
+1. Stephen King wrote a novel.
+2. The novel was adapted into a movie directed by Stanley Kubrick.
+3. The movie was sampled in an album titled "Where Blood and Fire Bring Rest."
+4. The album's sample was from the movie directed by Stanley Kubrick.
+
+Reasoning Chain:
+1 → 2 → 3 → 4
+============================================================
+
+claim_2:
+Greater Swiss Mountain Dog and Harrier are both dog breeds.
+
+Sub-claims:
+1. Greater Swiss Mountain Dog is a dog breed.
+2. Harrier is a dog breed.
+
+Reasoning Chain:
+1 → 2
+============================================================
+
+claim_3:
+No One's Gonna Love You appeared in the Ruben Fleischer film Zombieland.
+
+Sub-claims:
+1. No One's Gonna Love You is a song.
+2. Ruben Fleischer directed Zombieland.
+3. Zombieland contains the song No One's Gonna Love You.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_4:
+Before I Go to Sleep stars an Australian actress, producer and occasional singer.
+
+Sub-claims:
+1. Before I Go to Sleep is a film.
+2. The lead actress in Before I Go to Sleep is Australian.
+3. The lead actress is also a producer.
+4. The lead actress occasionally sings.
+
+Reasoning Chain:
+1 → 2 → 3 → 4
+============================================================
+
+claim_5:
+Marko Dmitrović  is a player in the La Liga league.
+
+Sub-claims:
+1. Marko Dmitrović plays professional football.
+2. La Liga is a top-level professional football league in Spain.
+3. Marko Dmitrović is associated with a team participating in La Liga.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_6:
+Eatza Pizza and Your Pie were not founded in the same state .
+
+Sub-claims:
+1. Eatza Pizza was not founded in California.
+2. Your Pie was not founded in California.
+3. Eatza Pizza and Your Pie are not both from California.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_7:
+Carnegie Hall Tower is located in the same city as Staten Island.
+
+Sub-claims:
+1. Carnegie Hall Tower is in New York City.
+2. Staten Island is in New York City.
+
+Reasoning Chain:
+1 → 2
+============================================================
+
+claim_8:
+The star of the Irish film directed by Paddy Breathnach played Marcus Agrippa in the HBO drama series "Rome".
+
+Sub-claims:
+1. The star of an Irish film directed by Paddy Breathnach is named Marcus Agrippa.
+2. Marcus Agrippa appeared in the HBO drama series "Rome".
+
+Reasoning Chain:
+1 → 2
+============================================================
+
+claim_9:
+Gregg Rolie and Rob Tyner, are not a keyboardist.
+
+Sub-claims:
+1. Gregg Rolie is not a keyboardist.
+2. Rob Tyner is not a keyboardist.
+
+Reasoning Chain:
+1 → 2
+============================================================
+
+claim_10:
+"Clydebuilt" is on the south bank of the River Clyde.
+
+Sub-claims:
+1. "Clydebuilt" is a name.
+2. "Clydebuilt" refers to a location.
+3. The location of "Clydebuilt" is on the south bank of the River Clyde.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_11:
+Jack McFarland is the best known role of the host of the 64th Annual Tony Awards .
+
+Sub-claims:
+1. Jack McFarland hosted the 64th Annual Tony Awards.
+2. Jack McFarland is the host of the 64th Annual Tony Awards.
+3. Jack McFarland is the best known role of the host of the 64th Annual Tony Awards.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_12:
+Martin O'Neill replaced the manager of the Aston Villa that began at Aston Villa Football Club.
+
+Sub-claims:
+1. Martin O'Neill is a person.
+2. Aston Villa Football Club has a manager.
+3. The manager of Aston Villa Football Club was replaced by Martin O'Neill.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_13:
+The 2014 All-Pac-12 Conference football team featured players from the team led by second-year head coach Mark Helfrich, who led his team to the conference title.
+
+Sub-claims:
+1. The 2014 All-Pac-12 Conference football team was selected.
+2. Mark Helfrich was the head coach of a Pac-12 team in 2014.
+3. Mark Helfrich's team won the conference title in 2014.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_14:
+The historical Nimavar school in the Nimavar Bazaar, or bazar, is located in Iran.
+
+Sub-claims:
+1. Nimavar school exists historically.
+2. Nimavar school is situated in the Nimavar Bazaar.
+3. Nimavar Bazaar is in Iran.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_15:
+Elzie Crisler Segar created the character of whom Captain Strong is a parody.
+
+Sub-claims:
+1. Elzie Crisler Segar created comic strips.
+2. Captain Strong is a character in comic strips.
+3. Captain Strong is a parody of another character.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_16:
+The prison holding one of the two arrestees in the 18 September 2014 counter-terrorism raid opened in the year 2001.
+
+Sub-claims:
+1. The prison was opened in 2001.
+2. One of the arrestees was held in that prison.
+3. The 18 September 2014 counter-terrorism raid involved two arrestees.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_17:
+The Kentucky Department of Corrections is headquarted along the Kentucky River.
+
+Sub-claims:
+1. The Kentucky Department of Corrections exists.
+2. The Kentucky Department of Corrections has headquarters.
+3. The headquarters of the Kentucky Department of Corrections is located along the Kentucky River.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_18:
+Stephanie Caroline March is the American actress that stars in the movie "Innocesnce" and is best known for her role as Alexandra Cabot in a long-running NBC series.
+
+Sub-claims:
+1. Stephanie Caroline March is an American actress.
+2. Stephanie Caroline March stars in the movie "Innocence".
+3. Stephanie Caroline March is best known for her role as Alexandra Cabot.
+4. Alexandra Cabot appears in a long-running NBC series.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_19:
+The person who has a wider scope of profession between José Echegaray and Graham Swift is José Echegaray.
+
+Sub-claims:
+1. José Echegaray has more than one profession.
+2. Graham Swift has only one profession.
+3. José Echegaray's professions are more diverse than Graham Swift's.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_20:
+Sian Gibson co-wrote the British sitcom Peter Kay's Car Share, set around a supermarket and car share scheme.
+
+Sub-claims:
+1. Sian Gibson co-wrote a British sitcom.
+2. The British sitcom is named Peter Kay's Car Share.
+3. Peter Kay's Car Share revolves around a supermarket and car share scheme.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_21:
+Smith worked on the series The Handmaid's Tale that is based on a novel by Margaret Atwood.
+
+Sub-claims:
+1. Smith created The Handmaid's Tale.
+2. The Handmaid's Tale is a television series.
+3. Margaret Atwood wrote the novel The Handmaid's Tale.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_22:
+The Potomac River runs along the neighborhood where Ashley Estates Kavanaugh's wedding was held.
+
+Sub-claims:
+1. The Potomac River exists.
+2. Ashley Estates is located near the Potomac River.
+3. Ashley Estates hosted Kavanaugh's wedding.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_23:
+The Swan of Catania was taught by the Italian composer Giovanni Furno.
+
+Sub-claims:
+1. The Swan of Catania is a musician.
+2. Giovanni Furno is an Italian composer.
+3. The Swan of Catania studied under Giovanni Furno.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_24:
+Jimmy Garcia lost by unanimous decision to a professional boxer that challenged for the WBO lightweight title in 1995.
+
+Sub-claims:
+1. Jimmy Garcia participated in a boxing match.
+2. The match was contested for the WBO lightweight title.
+3. A professional boxer challenged for the WBO lightweight title.
+4. The match ended with an unanimous decision.
+5. Jimmy Garcia lost the match.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → 5
+============================================================
+
+claim_25:
+The French singer-songwriter, musician, actress and model, who's live album is Divinidylle Tour, was born on 22 December 1972.
+
+Sub-claims:
+1. The person is a French singer-songwriter, musician, actress, and model.
+2. The person's live album is titled "Divinidylle Tour."
+3. The person was born on 22 December 1972.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_26:
+Superdrag and Collective Soul are both rock bands.
+
+Sub-claims:
+1. Superdrag is a rock band.
+2. Collective Soul is a rock band.
+
+Reasoning Chain:
+1 → 2
+============================================================
+
+claim_27:
+The Burlington Mall is a large, two-story, indoor shopping mall complex located off Route 3 and Route 128 in Burlington, Massachusetts, the mall is one of many shopping venues in the Middlesex County area, including Square One Mall, a 115 store shopping mall located along US Route 1 (Broadway) between Main Street and Essex Street in Saugus, Massachusetts.
+
+Sub-claims:
+1. Burlington Mall is located off Route 3 and Route 128 in Burlington, Massachusetts.
+2. Burlington Mall is a two-story, indoor shopping mall complex.
+3. Burlington Mall is part of the shopping venue network in Middlesex County.
+4. Square One Mall is located along US Route 1 (Broadway) in Saugus, Massachusetts.
+5. Square One Mall has 115 stores.
+6. Square One Mall is situated between Main Street and Essex Street in Saugus, Massachusetts.
+
+Reasoning Chain:
+1 → 3 → 4 → 6
+============================================================
+
+claim_28:
+Pablo Jose Ozuna is the cousin of a Dominican professional baseball left fielder who made his MLB debut in 2013.
+
+Sub-claims:
+1. Pablo Jose Ozuna has a relative who is a Dominican professional baseball player.
+2. The relative is a left fielder.
+3. The relative made their MLB debut in 2013.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_29:
+Judge Aaron Persky rendered the verdict in People v. Turner case  filed in Santa Clara County Superior Court.
+
+Sub-claims:
+1. Judge Aaron Persky presided over the trial.
+2. The trial was for People v. Turner.
+3. The case was filed in Santa Clara County Superior Court.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_30:
+Both the Battle of Saipan and the Battle of Manila were fought by American forces.
+
+Sub-claims:
+1. The Battle of Saipan involved American forces.
+2. The Battle of Manila involved American forces.
+
+Reasoning Chain:
+1 → 2
+============================================================
+
+claim_31:
+There is fruit juice in both a Fizz and a Painkiller cocktail.
+
+Sub-claims:
+1. A Fizz cocktail contains fruit juice.
+2. A Painkiller cocktail contains fruit juice.
+
+Reasoning Chain:
+1 → 2
+============================================================
+
+claim_32:
+Arthur Noss was a gunner for the commader during the two European theatre battles Battle of Britain and the Battle of Malta in WWII.
+
+Sub-claims:
+1. Arthur Noss served during World War II.
+2. Arthur Noss was a gunner.
+3. Arthur Noss served under a commander.
+4. Arthur Noss participated in the Battle of Britain.
+5. Arthur Noss participated in the Battle of Malta.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → 5
+============================================================
+
+claim_33:
+Poor old Lu, and not Shudder to Think, is a band that is  considered "one of the most accomplished and creative American bands of the '90s".
+
+Sub-claims:
+1. Poor old Lu, and not Shudder to Think, is a band.
+2. Poor old Lu, and not Shudder to Think, is from America.
+3. Poor old Lu, and not Shudder to Think, is from the '90s.
+4. Poor old Lu, and not Shudder to Think, is considered accomplished.
+5. Poor old Lu, and not Shudder to Think, is considered creative.
+6. Poor old Lu, and not Shudder to Think, is one of the most accomplished and creative American bands of the '90s.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → 5 → 6
+============================================================
+
+claim_34:
+Vladimir Igorevich Arnold died after Georg Cantor.
+
+Sub-claims:
+1. Vladimir Igorevich Arnold died in 2010.
+2. Georg Cantor died in 1918.
+3. 2010 is after 1918.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_35:
+The South African record producer DJ Maphorisa collaborated with a contemporary Canadian Rapper on the song "One Dance".
+
+Sub-claims:
+1. DJ Maphorisa is a South African record producer.
+2. The song "One Dance" features a contemporary Canadian rapper.
+3. DJ Maphorisa collaborated with a contemporary Canadian rapper on "One Dance".
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_36:
+British band The Wanted's third album includes a song with a title about Barbadian superstar Rihanna.
+
+Sub-claims:
+1. British band The Wanted exists.
+2. The Wanted has released at least one album.
+3. The Wanted's third album contains a song.
+4. The song on The Wanted's third album is titled after Rihanna.
+5. Rihanna is a Barbadian superstar.
+
+Reasoning Chain:
+1 → 2 → 3 → 4
+============================================================
+
+claim_37:
+Reimar Horten helped initially design the Gotha Go 229 and later died in Argentina in 1994.
+
+Sub-claims:
+1. Reimar Horten initially designed the Gotha Go 229.
+2. Reimar Horten later died in Argentina.
+3. Reimar Horten died in 1994.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_38:
+The high security prison holding one of the two arrestees in the 18 September 2014 counter-terrorism raid opened in the year 2001.
+
+Sub-claims:
+1. The high security prison was opened in 2001.
+2. One of the arrestees was held in the high security prison.
+3. The 18 September 2014 counter-terrorism raid involved two arrestees.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_39:
+Qutebrowser uses DuckDuckGo to emphasize returning the best results.
+
+Sub-claims:
+1. Qutebrowser employs DuckDuckGo as its default search engine.
+2. DuckDuckGo prioritizes returning the best search results.
+3. Qutebrowser utilizes these prioritized results.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_40:
+Carrie Coon plays Margo Dunne in a 2014 film set in Missouri.
+
+Sub-claims:
+1. Carrie Coon acts in a film.
+2. The film is set in Missouri.
+3. Margo Dunne is a character in the film.
+4. The film was released in 2014.
+
+Reasoning Chain:
+1 → 2 → 3 → 4
+============================================================
+
+claim_41:
+Jacob "Jack" Kevorkian is best known for publicly championing a terminal patient's right to die via physician-assisted suicide, not Christy Canyon.
+
+Sub-claims:
+1. Jacob "Jack" Kevorkian is associated with physician-assisted suicide.
+2. Jacob "Jack" Kevorkian is known for supporting a terminal patient's right to die.
+3. Christy Canyon is not associated with physician-assisted suicide.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_42:
+Underfist: Halloween Bash was going to be the setup for a new series spin-off but the contract expired with a cable and television station that was launched on October 1, 19962 by  Betty Cohen.
+
+Sub-claims:
+1. Halloween Bash was planned as a setup for a new series spin-off.
+2. A contract existed between Halloween Bash and a cable and television station.
+3. The cable and television station was launched on October 1, 1996.
+4. The cable and television station was launched by Betty Cohen.
+
+Reasoning Chain:
+1 → 2 → 3 → 4
+============================================================
+
+claim_43:
+The song by English indie rock band Florence and the Machine written by Florence Welch and Francis "Eg" White and released in 2011 in named after the painting which was completed in 1938.
+
+Sub-claims:
+1. Florence and the Machine is an English indie rock band.
+2. Florence Welch and Francis "Eg" White wrote a song.
+3. The song was released in 2011.
+4. The song's name is inspired by a painting.
+5. The painting was completed in 1938.
+
+Reasoning Chain:
+1 → 4
+4 → 5
+============================================================
+
+claim_44:
+Zamalek Sporting Club Centennial was a friendly match against professional football club that plays in La Liga.
+
+Sub-claims:
+1. Zamalek Sporting Club Centennial was a friendly match.
+2. The match was played between Zamalek Sporting Club and a professional football club.
+3. The professional football club plays in La Liga.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_45:
+Carvedilol is a non-selective betablocker used to treat congestive heart failure.
+
+Sub-claims:
+1. Carvedilol is a medication.
+2. Carvedilol is classified as a betablocker.
+3. Betablockers are used to treat heart conditions.
+4. Congestive heart failure is a condition of the heart.
+
+Reasoning Chain:
+1 → 2 → 3 → 4
+============================================================
+
+claim_46:
+The first Russian composer to make a lasting impression internationally was Pyotr Ilyich Tchaikovsky not Alessandro Scarlatti.
+
+Sub-claims:
+1. Pyotr Ilyich Tchaikovsky was a Russian composer.
+2. Pyotr Ilyich Tchaikovsky made a lasting international impression.
+3. Alessandro Scarlatti was not a Russian composer.
+4. Pyotr Ilyich Tchaikovsky is the first Russian composer to make a lasting international impression.
+
+Reasoning Chain:
+1 → 2 → 3 → 4
+============================================================
+
+claim_47:
+Robert A. Iger, the former president of ABC television is a high ranking officer in the same company as Christine Mccarthy.
+
+Sub-claims:
+1. Robert A. Iger was the former president of ABC television.
+2. Christine McCarthy is currently employed by ABC television.
+3. Robert A. Iger and Christine McCarthy work for the same company.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+
+claim_48:
+The international arms smuggler who was the subject of the 2014 documentary film "The Notorious Mr. Bout" was born in the year 1967.
+
+Sub-claims:
+1. The subject of the 2014 documentary film "The Notorious Mr. Bout" is an international arms smuggler.
+2. The international arms smuggler was born in 1967.
+
+Reasoning Chain:
+1 → 2
+============================================================
+
+claim_49:
+Nell Gwyn, the long-time mistress of King Charles II of England occupied a townhouse in Pall Mall, London.
+
+Sub-claims:
+1. Nell Gwyn was a mistress of King Charles II of England.
+2. Nell Gwyn occupied a townhouse.
+3. The townhouse was located in Pall Mall, London.
+
+Reasoning Chain:
+1 → 2 → 3
+============================================================
+

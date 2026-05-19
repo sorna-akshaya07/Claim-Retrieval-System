@@ -1,0 +1,1273 @@
+Qwen3-32b
+
+claim_id: claim_0
+claim: The song recorded by Fergie that was produced by Polow da Don and was followed by Life Goes On was M.I.L.F.$.
+
+Sub-claims:
+1. Fergie recorded a song that was produced by Polow da Don.
+2. The song produced by Polow da Don and recorded by Fergie was followed by "Life Goes On."
+3. The song produced by Polow da Don and recorded by Fergie was "M.I.L.F.$."
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_1
+claim: Stephen King wrote the novel that the movie directed by Stanley Kubrick that was sampled in the album "Where Blood and Fire Bring Rest" was based on.
+
+Sub-claims:
+1. The album "Where Blood and Fire Bring Rest" samples a movie.
+2. The movie sampled in the album was directed by Stanley Kubrick.
+3. The movie directed by Stanley Kubrick was based on a novel.
+4. Stephen King wrote the novel that the movie was based on.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_2
+claim: Greater Swiss Mountain Dog and Harrier are both dog breeds.
+
+Sub-claims:
+1. The Greater Swiss Mountain Dog is a dog breed.
+2. The Harrier is a dog breed.
+3. Both the Greater Swiss Mountain Dog and the Harrier are dog breeds.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_3
+claim: No One's Gonna Love You appeared in the Ruben Fleischer film Zombieland.
+
+Sub-claims:
+1. No One's Gonna Love You is a song.
+2. The song No One's Gonna Love You was featured in a film directed by Ruben Fleischer.
+3. The film in question is Zombieland.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_4
+claim: Before I Go to Sleep stars an Australian actress, producer and occasional singer.
+
+Sub-claims:
+1. Before I Go to Sleep is a film or television production.
+2. An Australian actress, producer, and occasional singer is involved in the production.
+3. The Australian actress, producer, and occasional singer is the star of Before I Go to Sleep.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_5
+claim: Marko Dmitrović  is a player in the La Liga league.
+
+Sub-claims:
+1. Marko Dmitrović plays for a football club.
+2. The football club he plays for is part of the La Liga league.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_6
+claim: Eatza Pizza and Your Pie were not founded in the same state .
+
+Sub-claims:
+1. Eatza Pizza was founded in Colorado.
+2. Your Pie was founded in Georgia.
+3. Colorado and Georgia are different states.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_7
+claim: Carnegie Hall Tower is located in the same city as Staten Island.
+
+Sub-claims:
+1. Carnegie Hall Tower is located in New York City.
+2. Staten Island is located in New York City.
+3. Both Carnegie Hall Tower and Staten Island are situated in the same city.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_8
+claim: The star of the Irish film directed by Paddy Breathnach played Marcus Agrippa in the HBO drama series "Rome".
+
+Sub-claims:
+1. Paddy Breathnach directed an Irish film.
+2. The star of that Irish film played Marcus Agrippa in the HBO drama series "Rome".
+3. The HBO drama series "Rome" features a character named Marcus Agrippa.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_9
+claim: Gregg Rolie and Rob Tyner, are not a keyboardist.
+
+Sub-claims:
+1. Gregg Rolie is not a keyboardist.
+2. Rob Tyner is not a keyboardist.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_10
+claim: "Clydebuilt" is on the south bank of the River Clyde.
+
+Sub-claims:
+1. "Clydebuilt" refers to a specific location.
+2. This location is situated on the River Clyde.
+3. The location is specifically on the south bank of the River Clyde.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_11
+claim: Jack McFarland is the best known role of the host of the 64th Annual Tony Awards .
+
+Sub-claims:
+1. Jack McFarland is a character.
+2. The host of the 64th Annual Tony Awards portrayed Jack McFarland.
+3. Jack McFarland is the best-known role of the host of the 64th Annual Tony Awards.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_12
+claim: Martin O'Neill replaced the manager of the Aston Villa that began at Aston Villa Football Club.
+
+Sub-claims:
+1. Martin O'Neill was involved in a managerial change at Aston Villa.
+2. The manager who began at Aston Villa Football Club was replaced.
+3. Martin O'Neill was the one who replaced that manager.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_13
+claim: The 2014 All-Pac-12 Conference football team featured players from the team led by second-year head coach Mark Helfrich, who led his team to the conference title.
+
+Sub-claims:
+1. The 2014 All-Pac-12 Conference football team included players from the University of Oregon.
+2. The University of Oregon was led by second-year head coach Mark Helfrich in 2014.
+3. Mark Helfrich led the University of Oregon to the Pac-12 Conference title in 2014.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_14
+claim: The historical Nimavar school in the Nimavar Bazaar, or bazar, is located in Iran.
+
+Sub-claims:
+1. There is a historical school known as the Nimavar school.
+2. The Nimavar school is located in an area called Nimavar Bazaar or bazar.
+3. Nimavar Bazaar is located in Iran.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_15
+claim: Elzie Crisler Segar created the character of whom Captain Strong is a parody.
+
+Sub-claims:
+1. Elzie Crisler Segar created a character.
+2. Captain Strong is a parody of that character.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_16
+claim: The prison holding one of the two arrestees in the 18 September 2014 counter-terrorism raid opened in the year 2001.
+
+Sub-claims:
+1. There was a counter-terrorism raid on 18 September 2014.
+2. Two individuals were arrested during this raid.
+3. One of the arrestees is being held in a prison.
+4. The prison where one arrestee is being held was opened in the year 2001.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_17
+claim: The Kentucky Department of Corrections is headquarted along the Kentucky River.
+
+Sub-claims:
+1. The Kentucky Department of Corrections has a headquarters location.
+2. The headquarters of the Kentucky Department of Corrections is located along a river.
+3. The river along which the headquarters is located is the Kentucky River.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_18
+claim: Stephanie Caroline March is the American actress that stars in the movie "Innocesnce" and is best known for her role as Alexandra Cabot in a long-running NBC series.
+
+Sub-claims:
+1. Stephanie Caroline March is an American actress.
+2. She stars in the movie "Innocence."
+3. She is best known for her role as Alexandra Cabot in a long-running NBC series.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_19
+claim: The person who has a wider scope of profession between José Echegaray and Graham Swift is José Echegaray.
+
+Sub-claims:
+1. José Echegaray and Graham Swift are both professionals in their respective fields.
+2. The scope of José Echegaray's profession is broader than that of Graham Swift.
+3. Therefore, the person with the wider scope of profession is José Echegaray.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_20
+claim: Sian Gibson co-wrote the British sitcom Peter Kay's Car Share, set around a supermarket and car share scheme.
+
+Sub-claims:
+1. Sian Gibson is a writer.
+2. The British sitcom Peter Kay's Car Share was written by Sian Gibson.
+3. Peter Kay's Car Share is a British sitcom.
+4. The sitcom Peter Kay's Car Share is set around a supermarket and car share scheme.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_21
+claim: Smith worked on the series The Handmaid's Tale that is based on a novel by Margaret Atwood.
+
+Sub-claims:
+1. Smith worked on the series The Handmaid's Tale.
+2. The Handmaid's Tale is based on a novel by Margaret Atwood.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_22
+claim: The Potomac River runs along the neighborhood where Ashley Estates Kavanaugh's wedding was held.
+
+Sub-claims:
+1. Ashley Estates is a neighborhood where Kavanaugh's wedding was held.
+2. Kavanaugh's wedding was held in a neighborhood located near the Potomac River.
+3. The Potomac River runs along the neighborhood of Ashley Estates.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_23
+claim: The Swan of Catania was taught by the Italian composer Giovanni Furno.
+
+Sub-claims:
+1. Giovanni Furno was an Italian composer.
+2. Giovanni Furno taught someone known as the Swan of Catania.
+3. The Swan of Catania is a person who was taught by an Italian composer.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_24
+claim: Jimmy Garcia lost by unanimous decision to a professional boxer that challenged for the WBO lightweight title in 1995.
+
+Sub-claims:
+1. Jimmy Garcia lost a boxing match.
+2. The match was decided by unanimous decision.
+3. Jimmy Garcia's opponent was a professional boxer.
+4. The opponent challenged for the WBO lightweight title.
+5. The challenge for the WBO lightweight title occurred in 1995.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → 5 → Final Claim
+============================================================
+
+claim_id: claim_25
+claim: The French singer-songwriter, musician, actress and model, who's live album is Divinidylle Tour, was born on 22 December 1972.
+
+Sub-claims:
+1. The person in question is a French singer-songwriter, musician, actress, and model.
+2. The person released a live album titled Divinidylle Tour.
+3. The person was born on 22 December 1972.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_26
+claim: Superdrag and Collective Soul are both rock bands.
+
+Sub-claims:
+1. Superdrag is a rock band.
+2. Collective Soul is a rock band.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_27
+claim: The Burlington Mall is a large, two-story, indoor shopping mall complex located off Route 3 and Route 128 in Burlington, Massachusetts, the mall is one of many shopping venues in the Middlesex County area, including Square One Mall, a 115 store shopping mall located along US Route 1 (Broadway) between Main Street and Essex Street in Saugus, Massachusetts.
+
+Sub-claims:
+1. The Burlington Mall is a large, two-story, indoor shopping mall complex.
+2. The Burlington Mall is located off Route 3 and Route 128 in Burlington, Massachusetts.
+3. The Burlington Mall is one of many shopping venues in the Middlesex County area.
+4. Square One Mall is a 115 store shopping mall located along US Route 1 (Broadway) between Main Street and Essex Street in Saugus, Massachusetts.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_28
+claim: Pablo Jose Ozuna is the cousin of a Dominican professional baseball left fielder who made his MLB debut in 2013.
+
+Sub-claims:
+1. Pablo Jose Ozuna has a cousin who is a professional baseball player from the Dominican Republic.
+2. This cousin plays the position of left fielder.
+3. This cousin made his Major League Baseball (MLB) debut in 2013.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_29
+claim: Judge Aaron Persky rendered the verdict in People v. Turner case  filed in Santa Clara County Superior Court.
+
+Sub-claims:
+1. Judge Aaron Persky is a judge in Santa Clara County Superior Court.
+2. The People v. Turner case was filed in Santa Clara County Superior Court.
+3. Judge Aaron Persky rendered the verdict in the People v. Turner case.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_30
+claim: Both the Battle of Saipan and the Battle of Manila were fought by American forces.
+
+Sub-claims:
+1. The Battle of Saipan was fought by American forces.
+2. The Battle of Manila was fought by American forces.
+3. Both battles were fought by American forces.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_31
+claim: There is fruit juice in both a Fizz and a Painkiller cocktail.
+
+Sub-claims:
+1. A Fizz cocktail contains fruit juice.
+2. A Painkiller cocktail contains fruit juice.
+3. Both the Fizz and the Painkiller are cocktails.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_32
+claim: Arthur Noss was a gunner for the commader during the two European theatre battles Battle of Britain and the Battle of Malta in WWII.
+
+Sub-claims:
+1. Arthur Noss served as a gunner during World War II.
+2. He was assigned to support the commander during battles in the European theatre.
+3. He participated in the Battle of Britain.
+4. He participated in the Battle of Malta.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_33
+claim: Poor old Lu, and not Shudder to Think, is a band that is  considered "one of the most accomplished and creative American bands of the '90s".
+
+Sub-claims:
+1. Lu is a band that is considered "one of the most accomplished and creative American bands of the '90s".
+2. Shudder to Think is not the band being referred to as "one of the most accomplished and creative American bands of the '90s".
+3. The statement is emphasizing that it is Lu, rather than Shudder to Think, that holds this distinction.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_34
+claim: Vladimir Igorevich Arnold died after Georg Cantor.
+
+Sub-claims:
+1. Georg Cantor died before Vladimir Igorevich Arnold.
+2. Vladimir Igorevich Arnold died at some point in time.
+3. The death of Vladimir Igorevich Arnold occurred after the death of Georg Cantor.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_35
+claim: The South African record producer DJ Maphorisa collaborated with a contemporary Canadian Rapper on the song "One Dance".
+
+Sub-claims:
+1. DJ Maphorisa is a South African record producer.
+2. DJ Maphorisa collaborated on the song "One Dance".
+3. The collaborator on "One Dance" is a contemporary Canadian rapper.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_36
+claim: British band The Wanted's third album includes a song with a title about Barbadian superstar Rihanna.
+
+Sub-claims:
+1. British band The Wanted has released a third album.
+2. The third album by The Wanted contains a song.
+3. The song has a title that references Barbadian superstar Rihanna.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_37
+claim: Reimar Horten helped initially design the Gotha Go 229 and later died in Argentina in 1994.
+
+Sub-claims:
+1. Reimar Horten helped initially design the Gotha Go 229.
+2. Reimar Horten later died in Argentina.
+3. Reimar Horten died in 1994.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_38
+claim: The high security prison holding one of the two arrestees in the 18 September 2014 counter-terrorism raid opened in the year 2001.
+
+Sub-claims:
+1. A counter-terrorism raid occurred on 18 September 2014.
+2. Two individuals were arrested during the raid.
+3. One of the arrested individuals is being held in a high security prison.
+4. The high security prison has been in operation since the year 2001.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_39
+claim: Qutebrowser uses DuckDuckGo to emphasize returning the best results.
+
+Sub-claims:
+1. Qutebrowser is a web browser.
+2. Qutebrowser uses DuckDuckGo as its default search engine.
+3. DuckDuckGo is known for emphasizing privacy and returning accurate search results.
+4. Using DuckDuckGo aligns with the goal of returning the best results.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_40
+claim: Carrie Coon plays Margo Dunne in a 2014 film set in Missouri.
+
+Sub-claims:
+1. Carrie Coon is an actress.
+2. Carrie Coon portrayed the character Margo Dunne in a film.
+3. The film in which Carrie Coon played Margo Dunne was released in 2014.
+4. The film is set in the state of Missouri.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_41
+claim: Jacob "Jack" Kevorkian is best known for publicly championing a terminal patient's right to die via physician-assisted suicide, not Christy Canyon.
+
+Sub-claims:
+1. Jacob "Jack" Kevorkian is best known for publicly championing a terminal patient's right to die via physician-assisted suicide.
+2. Christy Canyon is not best known for publicly championing a terminal patient's right to die via physician-assisted suicide.
+3. Jacob "Jack" Kevorkian's primary public association is with physician-assisted suicide, not with Christy Canyon.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_42
+claim: Underfist: Halloween Bash was going to be the setup for a new series spin-off but the contract expired with a cable and television station that was launched on October 1, 19962 by  Betty Cohen.
+
+Sub-claims:
+1. Underfist: Halloween Bash was intended to serve as the setup for a new series spin-off.
+2. A contract existed between the producers and a cable and television station.
+3. The contract expired.
+4. The cable and television station was launched on October 1, 1996, by Betty Cohen.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_43
+claim: The song by English indie rock band Florence and the Machine written by Florence Welch and Francis "Eg" White and released in 2011 in named after the painting which was completed in 1938.
+
+Sub-claims:
+1. Florence and the Machine is an English indie rock band.
+2. The song was written by Florence Welch and Francis "Eg" White.
+3. The song was released in 2011.
+4. The song is named after a painting.
+5. The painting was completed in 1938.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → 5 → Final Claim
+============================================================
+
+claim_id: claim_44
+claim: Zamalek Sporting Club Centennial was a friendly match against professional football club that plays in La Liga.
+
+Sub-claims:
+1. Zamalek Sporting Club Centennial was a friendly match.
+2. The opposing team was a professional football club.
+3. The opposing team plays in La Liga.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_45
+claim: Carvedilol is a non-selective betablocker used to treat congestive heart failure.
+
+Sub-claims:
+1. Carvedilol is a type of beta blocker.
+2. Carvedilol is non-selective in its action.
+3. Carvedilol is prescribed for the treatment of congestive heart failure.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_46
+claim: The first Russian composer to make a lasting impression internationally was Pyotr Ilyich Tchaikovsky not Alessandro Scarlatti.
+
+Sub-claims:
+1. Pyotr Ilyich Tchaikovsky was a Russian composer.
+2. Tchaikovsky gained international recognition for his compositions.
+3. Alessandro Scarlatti was also a Russian composer.
+4. Scarlatti did not achieve the same level of international recognition as Tchaikovsky.
+5. Tchaikovsky's international impact preceded or was more significant than Scarlatti's.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → 5 → Final Claim
+============================================================
+
+claim_id: claim_47
+claim: Robert A. Iger, the former president of ABC television is a high ranking officer in the same company as Christine Mccarthy.
+
+Sub-claims:
+1. Robert A. Iger was the former president of ABC television.
+2. Christine McCarthy is a high-ranking officer in ABC television.
+3. Robert A. Iger and Christine McCarthy are both associated with ABC television.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_48
+claim: The international arms smuggler who was the subject of the 2014 documentary film "The Notorious Mr. Bout" was born in the year 1967.
+
+Sub-claims:
+1. The 2014 documentary film "The Notorious Mr. Bout" features an international arms smuggler as its subject.
+2. The subject of the documentary is known as Mr. Bout.
+3. Mr. Bout was born in the year 1967.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_49
+claim: Nell Gwyn, the long-time mistress of King Charles II of England occupied a townhouse in Pall Mall, London.
+
+Sub-claims:
+1. Nell Gwyn was the long-time mistress of King Charles II of England.
+2. Nell Gwyn occupied a townhouse in Pall Mall, London.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_50
+claim: There are five books in the text composed by the founder Nyaya school of Hindu philosophy, which is used in the development of Indian logic.
+
+Sub-claims:
+1. The founder of the Nyaya school of Hindu philosophy composed a text.
+2. This text contains five books.
+3. The text is used in the development of Indian logic.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_51
+claim: This American football coach, who led 2013 Boise State Broncos football team, is currently serving as head coach at the University of Washington.
+
+Sub-claims:
+1. The individual in question is an American football coach.
+2. This coach led the 2013 Boise State Broncos football team.
+3. This coach is currently serving as the head coach at the University of Washington.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_52
+claim: Barton Mine was halted by a natural disaster not Camlaren Mine.
+
+Sub-claims:
+1. Barton Mine was halted.
+2. The halt at Barton Mine was caused by a natural disaster.
+3. Camlaren Mine was not responsible for halting Barton Mine.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_53
+claim: The product lithium-ion tank is being built at a 107,000 acre industrial park for Tesla Motors.
+
+Sub-claims:
+1. The product lithium-ion tank is being built.
+2. The location for building the lithium-ion tank is a 107,000 acre industrial park.
+3. The industrial park is designated for Tesla Motors.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_54
+claim: David Knox is the former Chief Executive Officer and Managing Director of a company owned predominantly by nationals of Australia.
+
+Sub-claims:
+1. David Knox held the position of Chief Executive Officer at a company.
+2. David Knox also held the position of Managing Director at the same company.
+3. The company in question is predominantly owned by nationals of Australia.
+4. David Knox is no longer employed in these roles at the company.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_55
+claim: The movie "100 Million BC" continues the urban myth of an experiment allegedly carried out at the Philadelphia Naval Shipyard.
+
+Sub-claims:
+1. There is an urban myth about an experiment that allegedly took place at the Philadelphia Naval Shipyard.
+2. The movie "100 Million BC" references or portrays this urban myth.
+3. The movie contributes to the continuation of the urban myth.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_56
+claim: The film that Chun Woo-hee acted in 2016 was of the horror genre.
+
+Sub-claims:
+1. Chun Woo-hee acted in a film in 2016.
+2. The film in which Chun Woo-hee acted in 2016 belongs to a specific genre.
+3. The genre of the film in which Chun Woo-hee acted in 2016 is horror.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_57
+claim: Before Dennis Wayne joined Dennis Wayne's Dancers, his ballet company was based in New York City.
+
+Sub-claims:
+1. Dennis Wayne was part of a ballet company before joining Dennis Wayne's Dancers.
+2. The ballet company Dennis Wayne was part of was based in New York City.
+3. Dennis Wayne joined Dennis Wayne's Dancers after being part of this ballet company.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_58
+claim: Maria Esther Andion Bueno, not Jimmy Connors, is the player that is from Brazil.
+
+Sub-claims:
+1. Maria Esther Andion Bueno is a player.
+2. Maria Esther Andion Bueno is from Brazil.
+3. Jimmy Connors is not from Brazil.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_59
+claim: Northwestern University and Middlebury College are both private schools.
+
+Sub-claims:
+1. Northwestern University is a private school.
+2. Middlebury College is a private school.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_60
+claim: John O'Hara and Rabindranath Tagore are not the same nationality.
+
+Sub-claims:
+1. John O'Hara was an American author.
+2. Rabindranath Tagore was an Indian author.
+3. American and Indian are different nationalities.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_61
+claim: French people are referring to African ancestry or Afro-Caribbean when they use the term banlieues.
+
+Sub-claims:
+1. The term "banlieues" is used in France.
+2. The term "banlieues" is associated with African ancestry or Afro-Caribbean communities.
+3. French people use the term "banlieues" to refer specifically to African ancestry or Afro-Caribbean populations.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_62
+claim: The by-election of a constituency represented in the House of Commons of the UK Parliament since 2010 by David Rutley was held on 30 September 1971.
+
+Sub-claims:
+1. David Rutley has represented a constituency in the House of Commons of the UK Parliament since 2010.
+2. A by-election was held for this constituency on 30 September 1971.
+3. The by-election in question pertains to the same constituency that David Rutley has represented since 2010.
+
+Reasoning Chain:
+1 → 3 → 2 → Final Claim
+============================================================
+
+claim_id: claim_63
+claim: Miami was the city where the second bowl game to air on all the "big four" television networks played.
+
+Sub-claims:
+1. A bowl game was played in Miami.
+2. This bowl game was broadcast on all four major television networks.
+3. This was the second bowl game in history to be broadcast on all four major television networks.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_64
+claim: The American actor who acted in the role of Spock in The City on the Edge of Forever was born March 26, 1931.
+
+Sub-claims:
+1. The American actor who played Spock in The City on the Edge of Forever is Leonard Nimoy.
+2. Leonard Nimoy was born on March 26, 1931.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_65
+claim: Polka dance music inspired the band, "The Kabalas".
+
+Sub-claims:
+1. The band "The Kabalas" was influenced by certain types of music.
+2. Polka dance music is a genre that can influence musical styles.
+3. The influence on "The Kabalas" specifically came from polka dance music.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_66
+claim: Howard University Hospital and Providence Hospital are both located in Washington, D.C.
+
+Sub-claims:
+1. Howard University Hospital is located in Washington, D.C.
+2. Providence Hospital is located in Washington, D.C.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_67
+claim: Talking Heads, an American rock band that was "one of the most critically acclaimed bands of the 80's" is featured in KSPN's AAA format.
+
+Sub-claims:
+1. Talking Heads is an American rock band.
+2. Talking Heads was one of the most critically acclaimed bands of the 80's.
+3. KSPN has an AAA format.
+4. Talking Heads is featured in KSPN's AAA format.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_68
+claim: Water is always in a trap to prevent the passage of anything from either direction, even sewer gases.
+
+Sub-claims:
+1. Water forms a barrier that prevents movement.
+2. The trap is designed to hold water in place.
+3. The purpose of the trap is to block the passage of anything, including sewer gases, from either direction.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_69
+claim: "Simple Song #3" is the lead single from a 2015 Italian comedy film set in the Swiss Alps.
+
+Sub-claims:
+1. "Simple Song #3" is a lead single.
+2. "Simple Song #3" is associated with a 2015 Italian comedy film.
+3. The 2015 Italian comedy film is set in the Swiss Alps.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_70
+claim: Forgotten Voices of the Great War is part of the oral archive at a British national museum organisation founded in 1917.
+
+Sub-claims:
+1. Forgotten Voices of the Great War is an oral archive.
+2. The oral archive is located at a British national museum organisation.
+3. The British national museum organisation was founded in 1917.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_71
+claim: The actor who played Colonel Sherman T. Potter in "M*A*S*H" played Seldom Jackson in "Kentucky Jones".
+
+Sub-claims:
+1. The actor who played Colonel Sherman T. Potter in "M*A*S*H" is Robert D. "Bob" Gunton.
+2. Robert D. "Bob" Gunton played Seldom Jackson in "Kentucky Jones".
+3. Therefore, the actor who played Colonel Sherman T. Potter in "M*A*S*H" played Seldom Jackson in "Kentucky Jones".
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_72
+claim: Lord William Bentinck is British.
+
+Sub-claims:
+1. Lord William Bentinck was a member of the British nobility.
+2. Members of the British nobility are British citizens.
+3. Lord William Bentinck held British citizenship.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_73
+claim: John Landis and Gore Verbinski have the profession of director in common.
+
+Sub-claims:
+1. John Landis is a director.
+2. Gore Verbinski is a director.
+3. John Landis and Gore Verbinski share the same profession.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_74
+claim: Age of Chance and Vector were both a rock band.
+
+Sub-claims:
+1. Age of Chance was a rock band.
+2. Vector was a rock band.
+3. Age of Chance and Vector were both rock bands.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_75
+claim: Broadbent Arena and Freedom Hall are landmarks of Louisville.
+
+Sub-claims:
+1. Broadbent Arena is a notable structure in Louisville.
+2. Freedom Hall is a notable structure in Louisville.
+3. Notable structures in Louisville are considered landmarks.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_76
+claim: Clarence Nash is the voice actor who plays the voice of the cartoon character that is most famous for his semi-intelligible speech and his mischievous and temperamental personality.
+
+Sub-claims:
+1. Clarence Nash provided the voice for a famous cartoon character.
+2. The cartoon character is known for his semi-intelligible speech.
+3. The cartoon character is known for his mischievous and temperamental personality.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_77
+claim: The population of the city at which the transmitter of WLLZ-LP was placed is 143,372.
+
+Sub-claims:
+1. WLLZ-LP has a transmitter located in a specific city.
+2. The city where the transmitter is located has a defined population.
+3. The population of that city is 143,372.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_78
+claim: Thomas Loren Friedman has won more Pulitzer Prizes than Colson Whitehead.
+
+Sub-claims:
+1. Thomas Loren Friedman has won multiple Pulitzer Prizes.
+2. Colson Whitehead has also won multiple Pulitzer Prizes.
+3. Thomas Loren Friedman has won more Pulitzer Prizes than Colson Whitehead.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_79
+claim: The actress that plays Kaylee Frye in the series "Firefly" also stars with Alan Dale in a sci-fi tv film released in 2011.
+
+Sub-claims:
+1. The character Kaylee Frye appears in the series "Firefly."
+2. An actress plays the character Kaylee Frye in "Firefly."
+3. That same actress also appears in a sci-fi TV film released in 2011.
+4. In that 2011 sci-fi TV film, the actress stars alongside Alan Dale.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_80
+claim: Angelo Francesco Lavignino scored a 1965 English-language Spanish-Swiss co-produced film that was directed by and also starred Orson Welles.
+
+Sub-claims:
+1. Angelo Francesco Lavignino scored a film.
+2. The film was produced in 1965 as an English-language Spanish-Swiss co-production.
+3. The film was directed by Orson Welles.
+4. Orson Welles also starred in the film.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_81
+claim: The american sitcom with 247 episodes that Jeff Mooring appeared in was Jeff Mooring.
+
+Sub-claims:
+1. Jeff Mooring appeared in an American sitcom with 247 episodes.
+2. The American sitcom with 247 episodes that Jeff Mooring appeared in is named "The Jeffersons."
+3. Jeff Mooring is not the name of the sitcom.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_82
+claim: Doloroso, Mississippi rests on the US highway that runs 1400 mi.
+
+Sub-claims:
+1. Doloroso, Mississippi is located along a US highway.
+2. The US highway that Doloroso, Mississippi is located along has a total length of 1400 miles.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_83
+claim: Hawaii v. Office of Hawaiian Affairs, 556 U.S. 163 (2009), was U.S. case about the former crown lands of the Hawaiian monarchy, the Court, in an opinion by Samuel Anthony Alito Jr. an Associate Justice of the Supreme Court of the United States who served on the court since January 31, 2006.
+
+Sub-claims:
+1. Hawaii v. Office of Hawaiian Affairs, 556 U.S. 163 (2009), was a U.S. Supreme Court case.
+2. The case dealt with the former crown lands of the Hawaiian monarchy.
+3. The Court issued an opinion in the case authored by Samuel Anthony Alito Jr.
+4. Samuel Anthony Alito Jr. is an Associate Justice of the Supreme Court of the United States.
+5. Samuel Anthony Alito Jr. has served on the Supreme Court since January 31, 2006.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → 5 → Final Claim
+============================================================
+
+claim_id: claim_84
+claim: The father of Pietro de' Medici was the Duke of Tuscany from 1537 until 1569.
+
+Sub-claims:
+1. Pietro de' Medici had a father.
+2. The father of Pietro de' Medici held the title of Duke of Tuscany.
+3. The father of Pietro de' Medici held the title of Duke of Tuscany from 1537 until 1569.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_85
+claim: Brett Herron's team competes in the Pro14 and the European Rugby Champions Cup.
+
+Sub-claims:
+1. Brett Herron is part of a team.
+2. The team competes in the Pro14.
+3. The team also competes in the European Rugby Champions Cup.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_86
+claim: In the Battle of the Little Bighorn the Uncle of Henry Armstrong Reed and youngest brother of a US Army Lt Colonel and a two-time Medal of Honor Recipient got killed along with his brothers and his nephew.
+
+Sub-claims:
+1. In the Battle of the Little Bighorn, a man who was the uncle of Henry Armstrong Reed was killed.
+2. This man was also the youngest brother of a US Army Lt Colonel.
+3. The US Army Lt Colonel was a two-time Medal of Honor recipient.
+4. The man who was the uncle of Henry Armstrong Reed was killed along with his brothers and his nephew.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_87
+claim: Four operas are among the artist who composed The Prelude for Clarinet in B-flat major best known works.
+
+Sub-claims:
+1. The artist who composed The Prelude for Clarinet in B-flat major has several well-known works.
+2. Among these works, four are operas.
+3. These four operas are considered the best known of the artist's compositions.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_88
+claim: Inglis Barracks bombing was the first IRA attack in England since a bombing thats purpose was to kill Prime Minister Margaret Thatcher.
+
+Sub-claims:
+1. The Inglis Barracks bombing was an attack carried out by the IRA.
+2. The Inglis Barracks bombing occurred in England.
+3. The Inglis Barracks bombing was the first IRA attack in England after a previous attack that aimed to kill Prime Minister Margaret Thatcher.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_89
+claim: 17 December 1998 is the birthdate of this Norwegian professional footballer who plays as an attacking midfielder and who broke the record for the youngest player that has ever played in the Norwegian top league.
+
+Sub-claims:
+1. This person is a Norwegian professional footballer.
+2. This person plays as an attacking midfielder.
+3. This person was born on 17 December 1998.
+4. This person broke the record for the youngest player to ever play in the Norwegian top league.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → Final Claim
+============================================================
+
+claim_id: claim_90
+claim: David Breashears and Richard Bass both share the profession of mountaineer.
+
+Sub-claims:
+1. David Breashears is a mountaineer.
+2. Richard Bass is a mountaineer.
+3. David Breashears and Richard Bass share the same profession.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_91
+claim: Pleiospilos is a flowering plant, Pueraria is not.
+
+Sub-claims:
+1. Pleiospilos is a flowering plant.
+2. Pueraria is not a flowering plant.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_92
+claim: Irving Wallace and Muriel Spark were writers in different countries.
+
+Sub-claims:
+1. Irving Wallace was a writer.
+2. Muriel Spark was a writer.
+3. Irving Wallace and Muriel Spark were from different countries.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_93
+claim: According to the 2011 census the population of the city where Royal Wahingdoh F.C. are based is 143,007.
+
+Sub-claims:
+1. Royal Wahingdoh F.C. is based in a city.
+2. The 2011 census recorded the population of that city.
+3. The population of the city, according to the 2011 census, was 143,007.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_94
+claim: The composer of the ballet L'Île Enchantée has composed 13 major orchestral works.
+
+Sub-claims:
+1. The ballet L'Île Enchantée has a composer.
+2. The composer of L'Île Enchantée has composed other orchestral works.
+3. The total number of major orchestral works composed by the composer of L'Île Enchantée is 13.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_95
+claim: Danny Jones and Aleksi Sihvonen are both vocalist.
+
+Sub-claims:
+1. Danny Jones is a vocalist.
+2. Aleksi Sihvonen is a vocalist.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_96
+claim: Dum Dum Motijheel College is located in Kolkata, the capital of West Bengal.
+
+Sub-claims:
+1. Dum Dum Motijheel College is located in Kolkata.
+2. Kolkata is the capital of West Bengal.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_97
+claim: Extras, is a British sitcom about extras working in television, film, and theater.  The series was co-produced by the BBC and HBO and was created, written, and directed by Ricky Dene Gervais, an English comedian, actor, writer, producer, director, singer, and musician, born on June 25, 1961.
+
+Sub-claims:
+1. Extras is a British sitcom.
+2. The sitcom focuses on extras working in television, film, and theater.
+3. The series was co-produced by the BBC and HBO.
+4. Ricky Dene Gervais created, wrote, and directed the series.
+5. Ricky Dene Gervais is an English comedian, actor, writer, producer, director, singer, and musician.
+6. Ricky Dene Gervais was born on June 25, 1961.
+
+Reasoning Chain:
+1 → 2 → 3 → 4 → 5 → 6 → Final Claim
+============================================================
+
+claim_id: claim_98
+claim: The Nashville Tribute Band is a tribute to a band originally known as the Grizzly River Boys.
+
+Sub-claims:
+1. The Nashville Tribute Band is a tribute to another band.
+2. The band being honored was originally known as the Grizzly River Boys.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_99
+claim: The writer particularly discussed the Koch family about their political activities in his book Dark Money.
+
+Sub-claims:
+1. The writer wrote a book titled Dark Money.
+2. The book includes a discussion about the Koch family.
+3. The discussion focuses on the Koch family's political activities.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_100
+claim: Spawn, a fictional character who Mustafa Shakir has expressed interest in playing, was created by Todd McFarlane.
+
+Sub-claims:
+1. Mustafa Shakir has expressed interest in playing a character named Spawn.
+2. Spawn is a fictional character.
+3. Todd McFarlane created the character Spawn.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_101
+claim: Jimmy Rooney was on the Australia national soccer team and was a member of the1974 World Cup squad.
+
+Sub-claims:
+1. Jimmy Rooney played soccer for the Australia national team.
+2. Jimmy Rooney was part of the 1974 World Cup squad.
+3. The 1974 World Cup squad is part of the Australia national soccer team.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_102
+claim: The largest lake in New Hampshire sits nine vertical feet lower than Lake Kanasatka.
+
+Sub-claims:
+1. The largest lake in New Hampshire is Lake Winnipesaukee.
+2. Lake Winnipesaukee sits nine vertical feet lower than Lake Kanasatka.
+
+Reasoning Chain:
+1 → 2 → Final Claim
+============================================================
+
+claim_id: claim_103
+claim: Bill Lewis was the head coach of the Georgia Tech football team that finished the regular season with the same record as the 1981 team.
+
+Sub-claims:
+1. Bill Lewis was the head coach of the Georgia Tech football team.
+2. The Georgia Tech football team finished the regular season with a certain win-loss record.
+3. The 1981 Georgia Tech football team had the same win-loss record as the team coached by Bill Lewis.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+
+claim_id: claim_104
+claim: The plant Chaerophyllum can be found in various places across the world but the Cryptanthus cannot.
+
+Sub-claims:
+1. The plant Chaerophyllum can be found in various places across the world.
+2. The plant Cryptanthus cannot be found in various places across the world.
+3. The plant Chaerophyllum and the plant Cryptanthus have different global distributions.
+
+Reasoning Chain:
+1 → 2 → 3 → Final Claim
+============================================================
+

@@ -11,15 +11,46 @@ Two decomposition pipelines were implemented:
    - Output: output_newqwen(1).txt
 
 Step 2 (Retrieval):
-  
 
-- Claims and previously generated subclaims are extracted from output1.txt.
-- Dense retrieval is performed using the BAAI/bge-small-en-v1.5 embedding model and FAISS similarity indexing.
-- Relevant Wikipedia passages are retrieved for each subclaim.
-- Similarity scores are generated and classified as Highly Relevant, Relevant, or Irrelevant.
+## Stage 1 - Dense Retrieval
 
-File:
-retrieval_claim.py
+- Wikipedia passage collection
+- Manual entity title retrieval
+- BGE embedding generation
+- FAISS dense retrieval
+- Top-50 passage retrieval
 
+Model Used:
+- BAAI/bge-small-en-v1.5
+File Name:
+- stage1_dense_retrieval.py
 Output:
-retrieval_output.txt
+- stage1_output.txt
+
+---
+
+## Stage 2 - Reranking
+
+- Cross-encoder reranking
+- Passage relevance scoring
+- Label generation
+
+Labels:
+- Highly Relevant
+- Relevant
+- Irrelevant
+
+Model Used:
+- BAAI/bge-reranker-base
+File name:
+- stage2_reranker.py
+Output:
+- stage2_output.txt
+
+
+## Files
+
+- stage1_dense_retrieval.py
+- stage2_reranker.py
+- stage1_output.txt
+- stage2_output.txt

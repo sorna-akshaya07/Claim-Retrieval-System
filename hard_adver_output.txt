@@ -1,0 +1,2835 @@
+
+====================================================================================================
+
+CLAIM ID: claim_0
+CLAIM: The song recorded by Fergie that was produced by Polow da Don and was followed by Life Goes On was M.I.L.F.$.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Fergie recorded a song that was produced by Polow da Don.
+
+PASSAGE 1:
+
+Fergie performed "You Already Know" and "Love is Pain" live for the first time during her Rock in Rio Lisboa performance on May 20, 2016. Interludes with new songs "Just Like You" and "Hungry" were also used, while the latter had its video snippet uploaded to Fergie's Instagram account that same day. A new teaser titled "Hungry (1st Byte)" was uploaded to Fergie's Vevo channel on June 9, 2016, being followed by "Hungry (2nd Byte)" on June 22, which also confirmed the rumored album title. A few days later it was officially announced that a new song titled "M.I.L.F. $" would be released; produced by Polow da Don, it was made available for purchase on July 1, 2016. Fergie was inspired to write the empowering song after becoming a mother. On November 11, 2016, Fergie released the third single from the record, "Life Goes On". In a Facebook Live Q&A, Fergie announced that the album was to be released in January 2017, however it was delayed and was rescheduled to be released in the first quarter of 2017. During the live chat, she stated: "[I've] put blood, sweat and tears into this album and there's personal stuff, there's pop stuff, hip-hop stuff, throwback stuff – I always like a little throwback – some reggae, R&B, ballads, fun, silly, all of the above. [...] So it's kind of, I'm going to use the word 'cornucopia' again because it's Thanksgiving time."
+
+RETRIEVAL SCORE: 0.7338
+RERANK SCORE: 5.0241
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+"M.I.L.F. $" (pronounced "MILF Money") is a song recorded by American singer Fergie for her second solo studio album, Double Dutchess (2017). It debuted at number 34 on the US Billboard Hot 100 with 65,000 in first-week sales.
+
+RETRIEVAL SCORE: 0.7162
+RERANK SCORE: 5.0107
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+"Life Goes On" is a song recorded by American singer Fergie for her second studio album, Double Dutchess (2017). It was released as a single on November 11, 2016, by Retrofuture Productions and BMG. The song serves as the second single from Fergie's  second studio album, following "M.I.L.F. $". "Life Goes On" was written by Fergie, Tristan Prettyman, Keith Harris and Toby Gad.
+
+RETRIEVAL SCORE: 0.7888
+RERANK SCORE: 2.0257
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The song produced by Polow da Don and recorded by Fergie was followed by "Life Goes On."
+
+PASSAGE 1:
+
+"Life Goes On" is a song recorded by American singer Fergie for her second studio album, Double Dutchess (2017). It was released as a single on November 11, 2016, by Retrofuture Productions and BMG. The song serves as the second single from Fergie's  second studio album, following "M.I.L.F. $". "Life Goes On" was written by Fergie, Tristan Prettyman, Keith Harris and Toby Gad.
+
+RETRIEVAL SCORE: 0.7979
+RERANK SCORE: 7.7384
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Double Dutchess is the second studio album by American singer Fergie. It was released on September 22, 2017. The album is the singer's first to be released under her own imprint, Dutchess Music, in a partnership with Retrofuture Productions and BMG Rights Management, and first since her solo debut, The Dutchess (2006). Promotion for the album began with the release of the album's first single "M.I.L.F. $" in July 2016, followed by the release of "Life Goes On" in November that same year. "You Already Know" was released as the third single on September 12, 2017. The album includes collaborations with Nicki Minaj, YG, Rick Ross, and Fergie's son Axl Jack.
+
+RETRIEVAL SCORE: 0.6834
+RERANK SCORE: 5.9732
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Jamal Fincher Jones (born October 15, 1977 or 1978), known professionally as Polow da Don, is an American record producer and rapper from Atlanta, Georgia. He began his career as a recording artist in the late 1990s, leaving college to pursue a career with the short-lived hip hop group Jim Crow. They signed with Epic Records in 1999 and  released two albums—Crow's Nest (1999) and Right Quick (2001)—before being dropped from the label.
+
+RETRIEVAL SCORE: 0.6885
+RERANK SCORE: 4.1042
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The song produced by Polow da Don and recorded by Fergie was "M.I.L.F.$."
+
+PASSAGE 1:
+
+"M.I.L.F. $" (pronounced "MILF Money") is a song recorded by American singer Fergie for her second solo studio album, Double Dutchess (2017). It debuted at number 34 on the US Billboard Hot 100 with 65,000 in first-week sales.
+
+RETRIEVAL SCORE: 0.7404
+RERANK SCORE: 8.9965
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+"Life Goes On" is a song recorded by American singer Fergie for her second studio album, Double Dutchess (2017). It was released as a single on November 11, 2016, by Retrofuture Productions and BMG. The song serves as the second single from Fergie's  second studio album, following "M.I.L.F. $". "Life Goes On" was written by Fergie, Tristan Prettyman, Keith Harris and Toby Gad.
+
+RETRIEVAL SCORE: 0.7838
+RERANK SCORE: 5.8709
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Fergie was first expected to release "You Already Know", a song featuring Nicki Minaj, as the third single from Double Dutchess. In an unexpected move, "Life Goes On" was released instead. It was meant to showcase a more vulnerable side to the record after “L.A. Love (La La)” and “M.I.L.F. $”, two uptempo tracks. Some critics commented on how the song was unintentionally topical, in that its release coincided with the week that Donald Trump was elected as the 45th President of the United States.
+
+RETRIEVAL SCORE: 0.7132
+RERANK SCORE: 3.8879
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+As a child, Fergie starred on the children's television series Kids Incorporated from 1984 to 1989, and voiced Sally Brown in two Peanuts television specials and in The Charlie Brown and Snoopy Show (1984–1986). She later co-founded the girl group Wild Orchid, performing on two of the group's albums. Fergie then joined the Black Eyed Peas in 2002, from which she achieved her commercial breakthrough and with whom she recorded four albums. Her debut solo album, The Dutchess (2006), peaked at number two on the US Billboard 200 and spawned the Billboard Hot 100 number-one singles "Big Girls Don't Cry", "Glamorous" and "London Bridge", as well as the top-five singles "Clumsy" and "Fergalicious". Her second solo album, Double Dutchess (2017)—accompanied by a namesake film subtitled Seeing Double—peaked at number 19 on the Billboard 200 and spawned the top 40 singles "L.A. Love (La La)" and "M.I.L.F. $".
+
+RETRIEVAL SCORE: 0.6712
+RERANK SCORE: 3.6543
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 5:
+
+Jamal Fincher Jones (born October 15, 1977 or 1978), known professionally as Polow da Don, is an American record producer and rapper from Atlanta, Georgia. He began his career as a recording artist in the late 1990s, leaving college to pursue a career with the short-lived hip hop group Jim Crow. They signed with Epic Records in 1999 and  released two albums—Crow's Nest (1999) and Right Quick (2001)—before being dropped from the label.
+
+RETRIEVAL SCORE: 0.6859
+RERANK SCORE: 3.3895
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 6:
+
+Many critics noted how the single was a change in genre from Fergie's previous single, M.I.L.F. $, with Rap-Up calling it more "Top 40-ready". Samantha Benitz of Hollywood Life praised Fergie's strong vocals and "swag filled persona". Hugh McIntyre of Forbes referred to the song as "existing somewhere in between lounge fodder and the dancefloor, perhaps not perfect for either, but still welcome none the less", and also claimed that Fergie's fanbase was "as patient as any pop star could expect over the years when it comes to solo music from the singer", referring to the delayed release of her long-awaited second album.
+
+RETRIEVAL SCORE: 0.6606
+RERANK SCORE: 2.5440
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_1
+CLAIM: Stephen King wrote the novel that the movie directed by Stanley Kubrick that was sampled in the album "Where Blood and Fire Bring Rest" was based on.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The album "Where Blood and Fire Bring Rest" samples a movie.
+
+PASSAGE 1:
+
+Where Blood and Fire Bring Rest is the third studio album by American metalcore band Zao on Solid State/Tooth & Nail. It was the first album to feature vocalist Dan Weyandt after the departure of Shawn Jonas along with new bassists/guitarists, Russ Cogdell and Brett Detar, which is the only album to feature Detar. The album contains a sample from the film The Shining at the end of "Lies of Serpents, A River of Tears", as well as a sample from the horror film The Prophecy during the intro to "Ravage Ritual". It is often considered among the greatest metalcore albums ever made.
+
+RETRIEVAL SCORE: 0.6981
+RERANK SCORE: 10.2731
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The movie sampled in the album was directed by Stanley Kubrick.
+
+PASSAGE 1:
+
+The Shining is a 1980 psychological horror film produced and directed by Stanley Kubrick and co-written with novelist Diane Johnson. It is based on Stephen King's 1977 novel and stars Jack Nicholson, Shelley Duvall, Danny Lloyd and Scatman Crothers. The film presents the descent into insanity of a recovering alcoholic and aspiring novelist who takes a job as winter caretaker for a mountain resort hotel with his wife and clairvoyant son.
+
+RETRIEVAL SCORE: 0.7114
+RERANK SCORE: 1.9330
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Stanley Kubrick (1928–1999) was an American filmmaker and photographer. He directed thirteen feature films and  three short documentaries over the course of his career. His work as a director, spanning diverse genres, is regarded as highly influential.
+
+RETRIEVAL SCORE: 0.6723
+RERANK SCORE: 0.8003
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Where Blood and Fire Bring Rest is the third studio album by American metalcore band Zao on Solid State/Tooth & Nail. It was the first album to feature vocalist Dan Weyandt after the departure of Shawn Jonas along with new bassists/guitarists, Russ Cogdell and Brett Detar, which is the only album to feature Detar. The album contains a sample from the film The Shining at the end of "Lies of Serpents, A River of Tears", as well as a sample from the horror film The Prophecy during the intro to "Ravage Ritual". It is often considered among the greatest metalcore albums ever made.
+
+RETRIEVAL SCORE: 0.6940
+RERANK SCORE: 0.5663
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The movie directed by Stanley Kubrick was based on a novel.
+
+PASSAGE 1:
+
+His debut, Carrie (1974), established him in horror and Different Seasons (1982), a collection of four novellas, was his first major departure from the genre. Among the films adapted from King's fiction are Carrie (1976), The Shining (1980), The Dead Zone (1983), Stand by Me (1986), Misery (1990), The Shawshank Redemption (1994), Dolores Claiborne (1995), The Green Mile (1999), It (2017), The Life of Chuck (2024) and The Long Walk (2025). He has published under the pseudonym Richard Bachman and has co-written works with other authors, notably his friend Peter Straub and sons Joe Hill and Owen King. He has also written nonfiction, notably Danse Macabre (1981) and On Writing: A Memoir of the Craft (2000).
+
+RETRIEVAL SCORE: 0.6677
+RERANK SCORE: 7.2724
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The Shining is a 1980 psychological horror film produced and directed by Stanley Kubrick and co-written with novelist Diane Johnson. It is based on Stephen King's 1977 novel and stars Jack Nicholson, Shelley Duvall, Danny Lloyd and Scatman Crothers. The film presents the descent into insanity of a recovering alcoholic and aspiring novelist who takes a job as winter caretaker for a mountain resort hotel with his wife and clairvoyant son.
+
+RETRIEVAL SCORE: 0.7205
+RERANK SCORE: 5.3048
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Kubrick made his directorial debut in 1951 with the documentary short Day of the Fight, followed by Flying Padre later that year. In 1953, he directed his first feature film, Fear and Desire. The anti-war allegory's themes reappeared in his later films. His next works were the film noir pictures Killer's Kiss (1955) and The Killing (1956). Critic Roger Ebert praised The Killing and retrospectively called it Kubrick's "first mature feature". Kubrick then directed two Hollywood films starring Kirk Douglas: Paths of Glory (1957) and Spartacus (1960). The latter won the Golden Globe Award for Best Motion Picture – Drama. His next film was Lolita (1962), an adaptation of Vladimir Nabokov's novel of the same name. It was nominated for the Academy Award for Best Adapted Screenplay. His 1964 film, the Cold War satire Dr. Strangelove featuring Peter Sellers and George C. Scott, received the BAFTA Award for Best Film. Along with The Killing, it remains the highest rated film directed by Kubrick according to Rotten Tomatoes.
+
+RETRIEVAL SCORE: 0.6816
+RERANK SCORE: 3.7181
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Stephen King wrote the novel that the movie was based on.
+
+PASSAGE 1:
+
+His debut, Carrie (1974), established him in horror and Different Seasons (1982), a collection of four novellas, was his first major departure from the genre. Among the films adapted from King's fiction are Carrie (1976), The Shining (1980), The Dead Zone (1983), Stand by Me (1986), Misery (1990), The Shawshank Redemption (1994), Dolores Claiborne (1995), The Green Mile (1999), It (2017), The Life of Chuck (2024) and The Long Walk (2025). He has published under the pseudonym Richard Bachman and has co-written works with other authors, notably his friend Peter Straub and sons Joe Hill and Owen King. He has also written nonfiction, notably Danse Macabre (1981) and On Writing: A Memoir of the Craft (2000).
+
+RETRIEVAL SCORE: 0.6650
+RERANK SCORE: 4.4001
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The Shining is a 1977 horror novel by American author Stephen King. It is King's third published novel and first hardcover bestseller; its success firmly established King as a preeminent author in the horror genre. The setting and characters are influenced by King's personal experiences, including both his visit to The Stanley Hotel in 1974 and his struggle with alcoholism. The novel was adapted into a 1980 film and a 1997 miniseries. The book was followed by a sequel, Doctor Sleep, published in 2013, which in turn was adapted into a 2019 film.
+
+RETRIEVAL SCORE: 0.7455
+RERANK SCORE: 4.1751
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+The Shining is a 1980 psychological horror film produced and directed by Stanley Kubrick and co-written with novelist Diane Johnson. It is based on Stephen King's 1977 novel and stars Jack Nicholson, Shelley Duvall, Danny Lloyd and Scatman Crothers. The film presents the descent into insanity of a recovering alcoholic and aspiring novelist who takes a job as winter caretaker for a mountain resort hotel with his wife and clairvoyant son.
+
+RETRIEVAL SCORE: 0.7043
+RERANK SCORE: 4.1443
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+Stephen King is an American author of contemporary horror, thriller, science fiction, and fantasy. His books have sold more than 400 million copies, and many of them have been adapted into feature films, television movies, and comic books. King has published 67 novels/novellas, including seven under the pen name Richard Bachman, and five nonfiction books. He has written more than 200 short stories, most of which have been compiled in book collections. Many of his works are set in his home state of Maine.
+
+RETRIEVAL SCORE: 0.6830
+RERANK SCORE: 4.0404
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_2
+CLAIM: Greater Swiss Mountain Dog and Harrier are both dog breeds.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Greater Swiss Mountain Dog is a dog breed.
+
+PASSAGE 1:
+
+The Greater Swiss Mountain Dog (German: Grosser Schweizer Sennenhund or French: Grand Bouvier Suisse) is a dog breed which was developed in the Swiss Alps. The name Sennenhund refers to people called Senn or Senner, dairymen and herders in the Swiss Alps. Greater Swiss Mountain Dogs are almost certainly the result of indigenous dogs mating with large mastiff-type dogs brought to Switzerland by foreign settlers. It was assumed to have almost died out by the late 19th century, since its work was being done by other breeds or machines, but was rediscovered in the early 1900s.
+
+RETRIEVAL SCORE: 0.7894
+RERANK SCORE: 10.3056
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The Greater Swiss Mountain Dog is happy with an enthusiastic nature and strong affinity to people and children. This breed is sociable, active, calm and dignified. While the breed does need exercise, they do not need a vast space. The breed often stands close to their owners, rarely straying far away without checking in.
+
+RETRIEVAL SCORE: 0.7689
+RERANK SCORE: 4.7487
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+The Greater Swiss Mountain Dog is a draft and drover breed that performs well very mountainous regions. Its popularity as a draft dog led to the nickname "the poor man's horse".
+
+RETRIEVAL SCORE: 0.7888
+RERANK SCORE: 4.2933
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+In addition to the three breeds mentioned in the previous section, Greater Swiss Mountain Dogs are related to other mountain dogs: Boxers, Bullmastiffs, Doberman Pinschers, Great Danes, Great Pyrenees, Komondors, Kuvaszes and mastiffs. The breed probably contributed to the development of the St. Bernard and the Rottweiler.
+
+RETRIEVAL SCORE: 0.8178
+RERANK SCORE: 4.2415
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 5:
+
+The Greater Swiss Mountain Dog is considered the oldest of the Swiss breeds. It is the largest of the four Sennenhund breeds; all four have the same colors and markings, but are different sizes.
+
+RETRIEVAL SCORE: 0.7954
+RERANK SCORE: 3.9506
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 6:
+
+Grosser Schweizer Sennenhund, Greater Swiss Mountain Dog
+
+RETRIEVAL SCORE: 0.6999
+RERANK SCORE: 3.4430
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 7:
+
+There are a number of Greater Swiss that have been noted in the media. Network, owned by Sun Microsystems CEO, Scott McNealy, served as their mascot. Mouse, a Greater Swiss Mountain Dog living in Austin, TX served as the mascot of Keep Austin Dog Friendly. Oscar the Grouch, a Greater Swiss Mountain Dog, was featured in the front page of The Wall Street Journal  as he prepared to compete at the Westminster Dog Show. According to the AKC, Greater Swiss Mountain Dogs are 88th in popularity as a breed.
+
+RETRIEVAL SCORE: 0.7722
+RERANK SCORE: 2.6638
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 8:
+
+The origin of the Greater Swiss Mountain Dog is not known. Beginning in 1515, the remote valleys of Switzerland were more or less isolated from world history for three centuries. Specific dog breeds were created by inbreeding, and puppies were given to neighbors and family members.
+
+RETRIEVAL SCORE: 0.7404
+RERANK SCORE: 2.0413
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Harrier is a dog breed.
+
+PASSAGE 1:
+
+The Harrier is similar to the English Foxhound, but smaller. Harriers stand between 19 and 21 inches (48-53cms) at the shoulder, and adults weigh between 45 and 65 lbs (20-30kgs). They do shed, have short hair and hanging ears, and come in a variety of color patterns. A humorous description of a Harrier is that of "a Beagle on steroids",  despite its resemblance to an English Foxhound.  It is a muscular hunting hound with a small, hard coat. It has large bones for stamina and strength.  The Harrier is slightly longer than tall, with a level topline. The tail is medium-length, carried high, but is not curled over the back. The skull is broad with a strong square muzzle. The rounded ears are pendant, and the eyes are either brown or hazel. The wide nose is black. The expression is mellow when the dog is relaxed and alert when he is excited. The teeth should meet in a scissors or level bite. The feet are tight and cat-like, and the front toes may turn inward.
+
+RETRIEVAL SCORE: 0.7118
+RERANK SCORE: 4.4388
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The Harrier is a medium-sized  dog breed of the  hound class,
+
+RETRIEVAL SCORE: 0.7820
+RERANK SCORE: 3.8545
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+The Harrier is  cheerful, sweet-tempered,  tolerant of people, and it is excellent with children. This pack dog is good with other dogs, but should be supervised with non-canine pets unless it is raised with them from puppyhood. It prefers life in a pack with people, dogs, or both. This active dog likes to go exploring, sniffing, and trailing, so be sure to keep it on a leash or in a safe enclosed area. Some Harriers like to bay.
+
+RETRIEVAL SCORE: 0.7270
+RERANK SCORE: 2.0076
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Both the Greater Swiss Mountain Dog and the Harrier are dog breeds.
+
+PASSAGE 1:
+
+The Greater Swiss Mountain Dog (German: Grosser Schweizer Sennenhund or French: Grand Bouvier Suisse) is a dog breed which was developed in the Swiss Alps. The name Sennenhund refers to people called Senn or Senner, dairymen and herders in the Swiss Alps. Greater Swiss Mountain Dogs are almost certainly the result of indigenous dogs mating with large mastiff-type dogs brought to Switzerland by foreign settlers. It was assumed to have almost died out by the late 19th century, since its work was being done by other breeds or machines, but was rediscovered in the early 1900s.
+
+RETRIEVAL SCORE: 0.7727
+RERANK SCORE: 10.3006
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The Harrier is similar to the English Foxhound, but smaller. Harriers stand between 19 and 21 inches (48-53cms) at the shoulder, and adults weigh between 45 and 65 lbs (20-30kgs). They do shed, have short hair and hanging ears, and come in a variety of color patterns. A humorous description of a Harrier is that of "a Beagle on steroids",  despite its resemblance to an English Foxhound.  It is a muscular hunting hound with a small, hard coat. It has large bones for stamina and strength.  The Harrier is slightly longer than tall, with a level topline. The tail is medium-length, carried high, but is not curled over the back. The skull is broad with a strong square muzzle. The rounded ears are pendant, and the eyes are either brown or hazel. The wide nose is black. The expression is mellow when the dog is relaxed and alert when he is excited. The teeth should meet in a scissors or level bite. The feet are tight and cat-like, and the front toes may turn inward.
+
+RETRIEVAL SCORE: 0.7107
+RERANK SCORE: 6.6717
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+The Harrier is  cheerful, sweet-tempered,  tolerant of people, and it is excellent with children. This pack dog is good with other dogs, but should be supervised with non-canine pets unless it is raised with them from puppyhood. It prefers life in a pack with people, dogs, or both. This active dog likes to go exploring, sniffing, and trailing, so be sure to keep it on a leash or in a safe enclosed area. Some Harriers like to bay.
+
+RETRIEVAL SCORE: 0.7263
+RERANK SCORE: 6.1789
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+In addition to the three breeds mentioned in the previous section, Greater Swiss Mountain Dogs are related to other mountain dogs: Boxers, Bullmastiffs, Doberman Pinschers, Great Danes, Great Pyrenees, Komondors, Kuvaszes and mastiffs. The breed probably contributed to the development of the St. Bernard and the Rottweiler.
+
+RETRIEVAL SCORE: 0.8098
+RERANK SCORE: 5.0772
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 5:
+
+The Greater Swiss Mountain Dog is considered the oldest of the Swiss breeds. It is the largest of the four Sennenhund breeds; all four have the same colors and markings, but are different sizes.
+
+RETRIEVAL SCORE: 0.7883
+RERANK SCORE: 5.0156
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 6:
+
+The Harrier requires daily exercise, such as long vigorous walks or runs. Without appropriate exercise, the Harrier can become hyperactive, overweight and/or destructive. While this dog was bred to run and work all day long and cannot be satisfied by a completely sedentary lifestyle, they adapt very well to the average home.
+
+RETRIEVAL SCORE: 0.7068
+RERANK SCORE: 4.5156
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 7:
+
+The Greater Swiss Mountain Dog is happy with an enthusiastic nature and strong affinity to people and children. This breed is sociable, active, calm and dignified. While the breed does need exercise, they do not need a vast space. The breed often stands close to their owners, rarely straying far away without checking in.
+
+RETRIEVAL SCORE: 0.7525
+RERANK SCORE: 4.3573
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 8:
+
+In any case, today's Harrier is between the Beagle and English Foxhound in size and was developed primarily to hunt hares, though the breed has also been used in fox hunting. The name, "Harrier", reveals the breed's specialty - compare "harehound". The Harrier has a long history of popularity as a working pack-dog in England.
+
+RETRIEVAL SCORE: 0.7358
+RERANK SCORE: 4.2498
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 9:
+
+The Harrier is a medium-sized  dog breed of the  hound class,
+
+RETRIEVAL SCORE: 0.7752
+RERANK SCORE: 4.1563
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 10:
+
+Sources have widely conflicting stories about the origins of this breed. According to one, the earliest Harrier types were crossed with Bloodhounds, the Talbot Hound, and even the Basset Hound. According to another, the breed was probably developed from crosses of the English Foxhound with Fox Terrier and Greyhound. Yet another regards the Harrier as simply a bred-down version of the English Foxhound.
+
+RETRIEVAL SCORE: 0.7552
+RERANK SCORE: 2.8574
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_3
+CLAIM: No One's Gonna Love You appeared in the Ruben Fleischer film Zombieland.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: No One's Gonna Love You is a song.
+
+PASSAGE 1:
+
+"No One's Gonna Love You" is a song by American rock group Band of Horses. It was released in February 2008 as the second single from their second album, Cease to Begin. In February 2011, three years after the single's original release, the song charted in Denmark. This was due to the band's performance of the song on the Danish talkshow Det Nye Talkshow - med Anders Lund Madsen. The song reached number 22 in the Danish Charts. The song has been used in several TV programmes, such as Chuck, One Tree Hill and Numb3rs, as well as appearing in the film Zombieland and Prom.
+
+RETRIEVAL SCORE: 0.7869
+RERANK SCORE: 9.0078
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Band of Horses toured Europe and North America in 2007, prior to the release of their second album. Joe Arnone was no longer part of the band, which now toured as a six-piece band following the addition of Matt Gentling (Archers of Loaf – bass), Robin Peringer (Modest Mouse, Carissa's Wierd – guitar) and Ryan Monroe (keyboards) to the line up. The album, Cease to Begin, was recorded in Asheville, North Carolina and produced by Phil Ek. It was released by Sub Pop Records on October 9, 2007. The album features the core trio of Ben Bridwell, Creighton Barrett and Rob Hampton, with keyboards played by Ryan Monroe. Cease to Begin gave Band of Horses their first hit in the U.S. by reaching number 35 on the Billboard 200 and was also a hit in Norway, Denmark, France and Sweden. It was voted ninth best album of 2007 by Paste magazine and 47th best by Rolling Stone. The single "No One's Gonna Love You" gave Band of Horses their first European hit single, reaching number 22 in Denmark.
+
+RETRIEVAL SCORE: 0.6057
+RERANK SCORE: 1.0046
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The song No One's Gonna Love You was featured in a film directed by Ruben Fleischer.
+
+PASSAGE 1:
+
+"No One's Gonna Love You" is a song by American rock group Band of Horses. It was released in February 2008 as the second single from their second album, Cease to Begin. In February 2011, three years after the single's original release, the song charted in Denmark. This was due to the band's performance of the song on the Danish talkshow Det Nye Talkshow - med Anders Lund Madsen. The song reached number 22 in the Danish Charts. The song has been used in several TV programmes, such as Chuck, One Tree Hill and Numb3rs, as well as appearing in the film Zombieland and Prom.
+
+RETRIEVAL SCORE: 0.7656
+RERANK SCORE: 8.2949
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Zombieland is a 2009 American post-apocalyptic zombie comedy film directed by Ruben Fleischer, in his directorial debut, and written by Rhett Reese and Paul Wernick. It stars Woody Harrelson, Jesse Eisenberg, Emma Stone, Abigail Breslin and Bill Murray. In the film, four survivors of a zombie apocalypse, Tallahassee (Harrelson), Columbus (Eisenberg), Wichita (Stone) and Little Rock (Breslin) make their way on an extended cross-country road trip to find a sanctuary free from a virus that turns people into zombies.
+
+RETRIEVAL SCORE: 0.6390
+RERANK SCORE: 6.6879
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Ruben Samuel Fleischer (; born October 31, 1974) is an American film director, film producer, television producer, music video director, and commercial director. He is best known as the director of Zombieland (2009), his first feature film, and its sequel Zombieland: Double Tap (2019). He has also directed the films 30 Minutes or Less, Gangster Squad, Uncharted, and 2018's Venom featuring the Marvel Comics character of the same name. Prior to features, he directed television commercials for such brands as Cisco, Eurostar, ESPN, and Burger King, and music videos for artists such as M.I.A., Electric Six, DJ Format and Gold Chains.
+
+RETRIEVAL SCORE: 0.6665
+RERANK SCORE: 5.2782
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The film in question is Zombieland.
+
+PASSAGE 1:
+
+Zombieland is a 2009 American post-apocalyptic zombie comedy film directed by Ruben Fleischer, in his directorial debut, and written by Rhett Reese and Paul Wernick. It stars Woody Harrelson, Jesse Eisenberg, Emma Stone, Abigail Breslin and Bill Murray. In the film, four survivors of a zombie apocalypse, Tallahassee (Harrelson), Columbus (Eisenberg), Wichita (Stone) and Little Rock (Breslin) make their way on an extended cross-country road trip to find a sanctuary free from a virus that turns people into zombies.
+
+RETRIEVAL SCORE: 0.6894
+RERANK SCORE: 6.1664
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Ruben Samuel Fleischer (; born October 31, 1974) is an American film director, film producer, television producer, music video director, and commercial director. He is best known as the director of Zombieland (2009), his first feature film, and its sequel Zombieland: Double Tap (2019). He has also directed the films 30 Minutes or Less, Gangster Squad, Uncharted, and 2018's Venom featuring the Marvel Comics character of the same name. Prior to features, he directed television commercials for such brands as Cisco, Eurostar, ESPN, and Burger King, and music videos for artists such as M.I.A., Electric Six, DJ Format and Gold Chains.
+
+RETRIEVAL SCORE: 0.6871
+RERANK SCORE: 2.6674
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Zombieland premiered at Fantastic Fest on September 25, 2009, and was theatrically released in the United States on October 2, by Sony Pictures Releasing. The film received positive critical reception, with praise for its screenplay, dialogue, comedy, and cast performances. It grossed $102 million worldwide, becoming the tenth-highest grossing zombie film in the U.S. until the release of World War Z (2013), and $54 million in home sales. A sequel, Zombieland: Double Tap, was released in October 2019.
+
+RETRIEVAL SCORE: 0.6046
+RERANK SCORE: 2.3813
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_4
+CLAIM: Before I Go to Sleep stars an Australian actress, producer and occasional singer.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Before I Go to Sleep is a film or television production.
+
+PASSAGE 1:
+
+Before I Go to Sleep is a 2014 mystery psychological thriller film written and directed by Rowan Joffé and based on the 2011 novel of the same name by S. J. Watson. An international co-production between the United Kingdom, the United States, France and Sweden, the film stars Nicole Kidman, Mark Strong, Colin Firth, and Anne-Marie Duff.
+
+RETRIEVAL SCORE: 0.7247
+RERANK SCORE: 7.2917
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+On 1 May 2011, Ridley Scott bought the film rights of the novel Before I Go to Sleep by S. J. Watson, and hired Rowan Joffé to direct and write the script. In February 2012 Nicole Kidman was in talks to join the film; later in May she joined to star as Christine. On 31 October 2012 Mark Strong also joined the cast of the film. According to The Hollywood Reporter on 16 November 2012, Kidman said she wanted Colin Firth to work with her again. They had already worked together in a drama, The Railway Man. On 6 February 2013, it was confirmed that Firth had joined the cast to lead with Kidman.
+
+RETRIEVAL SCORE: 0.6812
+RERANK SCORE: 1.1911
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: An Australian actress, producer, and occasional singer is involved in the production.
+
+PASSAGE 1:
+
+Nicole Mary Kidman (born 20 June 1967) is an Australian and American actress and producer. Known for her work in blockbusters and independent films across many genres, she has consistently ranked among the world's highest-paid actresses since the late 1990s. Her accolades include an Academy Award, an Actor Award, a British Academy Film Award, six Golden Globe Awards, two Primetime Emmy Awards, and a Volpi Cup.
+
+RETRIEVAL SCORE: 0.6001
+RERANK SCORE: -0.3711
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The film features segments directed by Bruno Ilogti, Alek Keshishian, Rich Lee, Ben Mor, Chris Marrs Piliero, Fatima Robinson, Colin Tilley, Nina McNeely, Chris Ullens and Jonas Åkerlund. There are appearances from Jay Hernandez, Mark Vanderloo, Kendall Jenner and many other personalities. In the "Like It Ain't Nuttin'" visual, Fergie wears a dress by Dean and Dan Caten, from Dsquared2's 2015 collection. In "Save It Til Morning", she wears a shimmery bodycon dress by Tom Ford. In "Love is Pain", the singer's standing on a pedestal wearing a sheer Francesco Scognamiglio lace gown. Styling was done by Carine Roitfeld, guided by the artistic direction of Giovanni Bianco.
+
+RETRIEVAL SCORE: 0.5288
+RERANK SCORE: -1.9523
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+On 1 May 2011, Ridley Scott bought the film rights of the novel Before I Go to Sleep by S. J. Watson, and hired Rowan Joffé to direct and write the script. In February 2012 Nicole Kidman was in talks to join the film; later in May she joined to star as Christine. On 31 October 2012 Mark Strong also joined the cast of the film. According to The Hollywood Reporter on 16 November 2012, Kidman said she wanted Colin Firth to work with her again. They had already worked together in a drama, The Railway Man. On 6 February 2013, it was confirmed that Firth had joined the cast to lead with Kidman.
+
+RETRIEVAL SCORE: 0.6991
+RERANK SCORE: -2.0502
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Australian actress, producer, and occasional singer is the star of Before I Go to Sleep.
+
+PASSAGE 1:
+
+On 1 May 2011, Ridley Scott bought the film rights of the novel Before I Go to Sleep by S. J. Watson, and hired Rowan Joffé to direct and write the script. In February 2012 Nicole Kidman was in talks to join the film; later in May she joined to star as Christine. On 31 October 2012 Mark Strong also joined the cast of the film. According to The Hollywood Reporter on 16 November 2012, Kidman said she wanted Colin Firth to work with her again. They had already worked together in a drama, The Railway Man. On 6 February 2013, it was confirmed that Firth had joined the cast to lead with Kidman.
+
+RETRIEVAL SCORE: 0.7092
+RERANK SCORE: 7.9238
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+In 2009 Watson was accepted for the first course Writing a Novel at the Faber Academy. The result was his debut, Before I Go to Sleep. He was introduced to literary agent Clare Conville on the last night of the course and she agreed to represent him. The book was published in 2011. In the same year, the rights to adapt the film for the big screen by was purchased. The film was released in 2014.
+
+RETRIEVAL SCORE: 0.6293
+RERANK SCORE: 1.8807
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Media interest in Before I Go to Sleep was considerable, and Watson himself was the subject of a profile in The Sunday Times before its UK publication, and The Wall Street Journal before its US publication. Watson has been profiled by Books+Publishing, and interviewed by Kirsty Lang on BBC Radio 4's Front Row. He was also interviewed by Simon Mayo when Before I Go to Sleep was chosen as Mayo's book club book of the month.
+
+RETRIEVAL SCORE: 0.5903
+RERANK SCORE: 1.3954
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_5
+CLAIM: Marko Dmitrović  is a player in the La Liga league.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Marko Dmitrović plays for a football club.
+
+PASSAGE 1:
+
+Marko Dmitrović (Serbian Cyrillic: Марко Дмитровић, pronounced [mâːrko dmîtroʋitɕ]; born 24 January 1992) is a Serbian professional footballer who plays for La liga club  Espanyol as a goalkeeper. He has also previously played for the Serbia national team.
+
+RETRIEVAL SCORE: 0.8932
+RERANK SCORE: 10.1770
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+On 23 June 2017, Dmitrović signed a four-year contract with SD Eibar in La Liga. He made his debut in the category on 21 August, starting in a 1–0 away victory against Málaga CF. In May 2018, Dmitrović was elected for the best player of SD Eibar for the 2017–18 season. On 21 January 2021, he scored the first goal of his career from the penalty spot in a 2–1 defeat against Atlético Madrid.
+
+RETRIEVAL SCORE: 0.7242
+RERANK SCORE: 8.0023
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+On 4 July 2021, Dmitrović was announced as a new signing on a free agent contract by Sevilla, with a deal that ran until 2025. On 23 February 2023, he was attacked by a pitch invader whilst playing away at PSV Eindhoven in the Europa League. His attacker was already banned from all stadiums by the Royal Dutch Football Association until 2026, but entered the Philips Stadion on a friend's ticket. The man was jailed for three months, then banned from the stadium for 40 years and from its surroundings for two years.
+
+RETRIEVAL SCORE: 0.7054
+RERANK SCORE: 6.0885
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+On 11 August 2024, Dmitrović joined newly-promoted Leganés on a free transfer. In a league match against Getafe on 22 September, he made a save with the tip of his fingers to deny Mauro Arambarri, which would later win the La Liga Save of the Month award for September. On 15 December, he made a crucial stop to keep out Raphinha's shot in a match against Barcelona that earned him the second accolade for December.
+
+RETRIEVAL SCORE: 0.6988
+RERANK SCORE: 4.7392
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 5:
+
+On 6 January 2015, Dmitrović signed an 18-month contract with Charlton Athletic for an undisclosed fee. He made his debut for the club on 24 January, starting in a goalless away draw against Wolverhampton Wanderers.
+
+RETRIEVAL SCORE: 0.7128
+RERANK SCORE: 3.4376
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 6:
+
+Born in Subotica, Dmitrović was a Red Star Belgrade youth graduate, being promoted to the main squad in 2010. On 3 September 2013, after not making appearances for its senior team, he moved to Nemzeti Bajnokság I club Újpest FC in Hungary. Dmitrović made his professional debut on 1 March 2014, starting in a 3–2 away loss against Budapest Honvéd FC. He finished the campaign with 12 appearances, as his side narrowly avoided relegation
+
+RETRIEVAL SCORE: 0.7373
+RERANK SCORE: 2.4291
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The football club he plays for is part of the La Liga league.
+
+PASSAGE 1:
+
+Aston Villa Football Club is a professional football club based in Aston, Birmingham, England. It was founded in 1874. Its team compete in the Premier League, the top tier of English football, and have played at their home ground, Villa Park, since 1897. Aston Villa is one of the oldest and most successful clubs in England, having won the Football League First Division seven times, the FA Cup seven times, the League Cup five times, as well as the European Cup, European Super Cup, and Europa League once. Aston Villa has been a leading English club since the 1880s, when it was a pioneer of the modern passing game. This short, slick combination passing style was introduced by Scotsman George Ramsay, who was appointed as the world's first professional football manager in 1886. The club was influential in the sport's move to professionalism in 1885, and it was a Villa director, William McGregor, who founded the world's first Football League in 1888.
+
+RETRIEVAL SCORE: 0.6362
+RERANK SCORE: 2.3410
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+La Liga is one of the most popular professional sports leagues globally, with an average attendance of 26,933 for league matches in the 2018–19 season. This is the eighth-highest of any domestic professional sports league in the world and the third-highest of any professional association football league in the world, behind fellow Big Five leagues the Premier League and the Bundesliga. La Liga is also the seventh wealthiest professional sports league in the world by revenue, after the NFL, MLB, the NBA, the Premier League, the NHL, and the Bundesliga.
+
+RETRIEVAL SCORE: 0.6571
+RERANK SCORE: 1.9613
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+The Campeonato Nacional de Liga de Primera División, commonly known as the Primera División or La Liga  , and officially known as LaLiga EA Sports for sponsorship reasons, is a professional association football league in Spain and the highest level of the Spanish football league system. It is controlled by the Liga Nacional de Fútbol Profesional and is contested by 20 teams over a 38-matchday period.
+
+RETRIEVAL SCORE: 0.6491
+RERANK SCORE: 1.8086
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_6
+CLAIM: Eatza Pizza and Your Pie were not founded in the same state .
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Eatza Pizza was founded in Colorado.
+
+PASSAGE 1:
+
+Eatza Pizza was a buffet-style restaurant chain founded in Arizona in 1997. In 2007, it was one of the largest all-buffet pizza chains in the United States, with 112 locations in 14 states and Puerto Rico.
+
+RETRIEVAL SCORE: 0.7806
+RERANK SCORE: 0.4998
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+In March 2007, Eatza Pizza was bought by International Franchise Associates. Following the purchase, the corporate headquarters was moved from Arizona to Westport, Connecticut. In July 2008, International Franchise Associates filed for Chapter 7 bankruptcy. At that time, only five Eatza Pizza locations were left.
+
+RETRIEVAL SCORE: 0.7258
+RERANK SCORE: -3.2026
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Their menu included at least 18 varieties of pizza, along with various other foods. When it was based in Scottsdale, the chain had 112 restaurants open or under development in Arizona, Alabama, California, Utah, Oregon, Washington, Idaho, Florida, Mississippi, North Carolina, Tennessee, Ohio and New Mexico, and Puerto Rico.
+
+RETRIEVAL SCORE: 0.6288
+RERANK SCORE: -3.6142
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Your Pie was founded in Georgia.
+
+PASSAGE 1:
+
+Your Pie is an American fast-casual pizza concept, that was started in Athens, Georgia in 2008 by Drew French, and operates as a restaurant franchise with 70 locations across 19 states. Your Pie has customizable 10-inch pizzas, pasta bowls, and salads. The restaurant uses brick ovens to cook their pizzas. Gelato (Italian ice cream), craft beer and wine are also available.
+
+RETRIEVAL SCORE: 0.8373
+RERANK SCORE: 8.2801
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Colorado and Georgia are different states.
+
+PASSAGE 1:
+
+Your Pie is an American fast-casual pizza concept, that was started in Athens, Georgia in 2008 by Drew French, and operates as a restaurant franchise with 70 locations across 19 states. Your Pie has customizable 10-inch pizzas, pasta bowls, and salads. The restaurant uses brick ovens to cook their pizzas. Gelato (Italian ice cream), craft beer and wine are also available.
+
+RETRIEVAL SCORE: 0.7780
+RERANK SCORE: -4.0973
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+On October 7, 2010, Band of Horses released a cover of Cee Lo Green's "Georgia" via their official website. Ben Bridwell said, "This began as a very random idea I had on my dad's patio after we watched our beloved Georgia Bulldogs football team get robbed of a win at the hands of the referees and LSU last year. This song is so nostalgic to me as my parents grew up in Atlanta and have so many family members in the great state of Georgia. It's always been a second home of sorts. We've played some great shows there as well, including our run of annual New Year's Eve shows in Atlanta from 2007–2009." The cover version Bridwell referred to is Cee Lo's version of "No One's Gonna Love You". The two tracks were released together as a 7-inch vinyl split single.
+
+RETRIEVAL SCORE: 0.5416
+RERANK SCORE: -4.7726
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+King was teaching Dracula to high school students and wondered what would happen if Old World vampires came to a small New England town. This was the germ of 'Salem's Lot, which King called "Peyton Place meets Dracula". King's mother died from uterine cancer around the time 'Salem's Lot was published. After his mother's death, King and his family moved to Boulder, Colorado. He paid a visit to the Stanley Hotel in Estes Park which provided the basis for The Shining, about an alcoholic writer and his family taking care of a hotel for the winter. It was around this time that King suspected he was an alcoholic.
+
+RETRIEVAL SCORE: 0.5265
+RERANK SCORE: -4.9012
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_7
+CLAIM: Carnegie Hall Tower is located in the same city as Staten Island.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Carnegie Hall Tower is located in New York City.
+
+PASSAGE 1:
+
+Carnegie Hall Tower is at 152 West 57th Street, between Sixth Avenue and Seventh Avenue two blocks south of Central Park, in the Midtown Manhattan neighborhood of New York City. The building's land lot covers 12,552 square feet (1,166.1 m2), has a frontage of 50 feet (15 m) along 57th Street, and is 200 feet (61 m) deep. The rear of the building, on 56th Street, is 75 feet (23 m) deep.
+
+RETRIEVAL SCORE: 0.7606
+RERANK SCORE: 10.3049
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Carnegie Hall Tower is a skyscraper at 152 West 57th Street in the Midtown Manhattan neighborhood of New York City. Completed in 1990 and designed by César Pelli, the building measures 757 feet (231 m) tall with 60 stories. Due to the presence of Carnegie Hall and the Russian Tea Room on adjacent sites, the tower is only 50 feet (15 m) wide on 57th Street, making it among the world's most slender skyscrapers at its completion.
+
+RETRIEVAL SCORE: 0.7164
+RERANK SCORE: 9.9366
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Carnegie Hall Tower contains a six-story base, above which rises the main tower. On 57th Street, the base of the building is only as tall as the original Carnegie Hall, which is seven stories high. The structure has an L-shaped plan through the 42nd floor, with a frontage of 50 feet (15 m) on the north and 75 feet (23 m) on the south. There is a single setback on the 43rd floor. Above that, the tower rises as a rectangular slab measuring 50 feet (15 m) wide and 140 feet (43 m) long. At the time of its completion, Carnegie Hall Tower was one of the world's most slender skyscrapers. As viewed from the west, Carnegie Hall Tower almost completely blocks the view of Metropolitan Tower to the east.
+
+RETRIEVAL SCORE: 0.6732
+RERANK SCORE: 6.2261
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+Carnegie Hall Tower is designed with a red-and-orange brick facade and cast-concrete decorations, both inspired by the older structure. The tower rises above a six-story base, which contains a setback from 57th Street. The structure has an L-shaped plan through the 42nd floor and a rectangular plan above that story. The superstructure is made of concrete, with a core made of two connected concrete tubes. The building was designed with 485,000 square feet (45,100 m2) for offices and 25,000 square feet (2,300 m2) for Carnegie Hall's offstage facilities. Each of the upper floors contains between 8,000 and 14,000 square feet (740 and 1,300 m2). The design was largely praised by architectural critics upon its completion.
+
+RETRIEVAL SCORE: 0.6544
+RERANK SCORE: 5.5773
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 5:
+
+Carnegie Hall Tower was designed by César Pelli and developed by the Rockrose Development Corporation. Brennan Beer Gorman was the architect of record. The tower was built by construction manager HRH Construction. In addition, Robert Rosenwasser Associates was the structural engineer, Cosentini Associates was the mechanical, electrical, and plumbing, and Mesh & Juul Inc. was the lighting engineer. Carnegie Hall Tower is 757 feet (231 m) tall and 60 stories high. As planned, it was 756 feet (230 m) tall with 59 stories.
+
+RETRIEVAL SCORE: 0.6400
+RERANK SCORE: 4.7295
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 6:
+
+The neighborhood was historically part of a former artistic hub around a two-block section of West 57th Street between Sixth Avenue and Broadway. The hub had been developed during the late 19th and early 20th centuries, following the opening of Carnegie Hall. Several buildings in the area were constructed as residences for artists and musicians, such as 130 and 140 West 57th Street, the Rodin Studios, and the Osborne Apartments, as well as the demolished Sherwood Studios and Rembrandt. In addition, the area contained the headquarters of organizations such as the American Fine Arts Society, the Lotos Club, and the American Society of Civil Engineers. By the 21st century, the artistic hub had largely been replaced with Billionaires' Row, a series of luxury skyscrapers around the southern end of Central Park. The Rembrandt Apartments, built in 1881 and demolished in 1963, had occupied the site of Carnegie Hall Tower.
+
+RETRIEVAL SCORE: 0.6084
+RERANK SCORE: 3.7983
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 7:
+
+The tower needed approval from the Landmarks Preservation Commission (LPC), which had previously designated Carnegie Hall as a city landmark; the Board of Estimate; the City Planning Commission; and Manhattan Community Board 5, whose community district included Carnegie Hall. The LPC approved the project in October 1986, and the Board of Estimate gave final approval in September 1987. An official groundbreaking ceremony took place on November 20, 1987, attended by Carnegie Hall president Isaac Stern, Carnegie Hall chairman James Wolfensohn, Rockrose president Henry Elghanayan, and mayor Ed Koch. The foundation was excavated over two and a half months; blasting for the foundation was coordinated to avoid interference with dining or concerts. The cornerstone was laid on May 13, 1988, the 98th anniversary of the cornerstone-laying of Carnegie Hall itself. The tower's foundations were completed that month, but the Russian Tea Room refused to sell either its building or its air rights. In mid-1989, Fuji Bank Ltd loaned $125 million to Rockrose for the development of Carnegie Hall Tower.
+
+RETRIEVAL SCORE: 0.6236
+RERANK SCORE: 2.2591
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Staten Island is located in New York City.
+
+PASSAGE 1:
+
+Staten Island  ( STAT-ən), coextensive with Richmond County, is the southernmost of the five boroughs and counties in New York City, New York, United States. It is situated at the southernmost point of the State of New York. The borough is separated from the adjacent state of New Jersey by the Arthur Kill and the Kill Van Kull and from the rest of New York by New York Bay.
+
+RETRIEVAL SCORE: 0.7178
+RERANK SCORE: 9.4537
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+A home to the Lenape Native Americans, the island was settled by Dutch colonists in the 17th century. It was one of the 12 original counties of New York State. Staten Island was consolidated with New York City in 1898. Almost always colloquially called 'Staten Island' historically (anglicized from the original Dutch Staaten Eylandt), it was formerly legally known as the Borough of Richmond until 1975, when its name was officially changed to Borough of Staten Island. Staten Island has sometimes been called "the forgotten borough" by inhabitants who feel neglected by the city government and the media. It has also been referred to as the "borough of parks" due to its 12,300 acres of protected parkland and over 170 parks.
+
+RETRIEVAL SCORE: 0.6498
+RERANK SCORE: 2.4963
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+In 1683, the colony of New York was divided into ten counties. As part of this process, Staten Island, along with several minor neighboring islands, was designated as Richmond County. The name derives from the title of Charles Lennox, 1st Duke of Richmond, an illegitimate son of King Charles II. In 1687 and 1688, the English divided the island into four administrative divisions based on natural features: the 5,100-acre (21 km2) manorial estate of colonial governor Thomas Dongan in the northeastern hills known as the "Lordship or Manor of Cassiltown", along with the North, South, and West divisions. These divisions later evolved into the four towns of Castleton, Northfield, Southfield, and Westfield. In 1698, the population was 727.
+
+RETRIEVAL SCORE: 0.6326
+RERANK SCORE: 1.7233
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Both Carnegie Hall Tower and Staten Island are situated in the same city.
+
+PASSAGE 1:
+
+Carnegie Hall Tower is at 152 West 57th Street, between Sixth Avenue and Seventh Avenue two blocks south of Central Park, in the Midtown Manhattan neighborhood of New York City. The building's land lot covers 12,552 square feet (1,166.1 m2), has a frontage of 50 feet (15 m) along 57th Street, and is 200 feet (61 m) deep. The rear of the building, on 56th Street, is 75 feet (23 m) deep.
+
+RETRIEVAL SCORE: 0.7304
+RERANK SCORE: 9.5086
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Staten Island  ( STAT-ən), coextensive with Richmond County, is the southernmost of the five boroughs and counties in New York City, New York, United States. It is situated at the southernmost point of the State of New York. The borough is separated from the adjacent state of New Jersey by the Arthur Kill and the Kill Van Kull and from the rest of New York by New York Bay.
+
+RETRIEVAL SCORE: 0.6860
+RERANK SCORE: 8.0195
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+A home to the Lenape Native Americans, the island was settled by Dutch colonists in the 17th century. It was one of the 12 original counties of New York State. Staten Island was consolidated with New York City in 1898. Almost always colloquially called 'Staten Island' historically (anglicized from the original Dutch Staaten Eylandt), it was formerly legally known as the Borough of Richmond until 1975, when its name was officially changed to Borough of Staten Island. Staten Island has sometimes been called "the forgotten borough" by inhabitants who feel neglected by the city government and the media. It has also been referred to as the "borough of parks" due to its 12,300 acres of protected parkland and over 170 parks.
+
+RETRIEVAL SCORE: 0.6282
+RERANK SCORE: 4.8529
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+Staten Island is the least populated New York City borough but the third largest in land area at 58.5 sq mi (152 km2); it is also the least densely populated and most suburban borough in the city. Notably, due to New York City's extreme population density, this means Staten Island's population density is still higher than that of the City of Los Angeles and its total population is larger than independent, internationally well-known American cities such as New Orleans, Miami, or St. Louis.
+
+RETRIEVAL SCORE: 0.6617
+RERANK SCORE: 4.7074
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 5:
+
+Carnegie Hall Tower is designed with a red-and-orange brick facade and cast-concrete decorations, both inspired by the older structure. The tower rises above a six-story base, which contains a setback from 57th Street. The structure has an L-shaped plan through the 42nd floor and a rectangular plan above that story. The superstructure is made of concrete, with a core made of two connected concrete tubes. The building was designed with 485,000 square feet (45,100 m2) for offices and 25,000 square feet (2,300 m2) for Carnegie Hall's offstage facilities. Each of the upper floors contains between 8,000 and 14,000 square feet (740 and 1,300 m2). The design was largely praised by architectural critics upon its completion.
+
+RETRIEVAL SCORE: 0.6339
+RERANK SCORE: 3.2310
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_8
+CLAIM: The star of the Irish film directed by Paddy Breathnach played Marcus Agrippa in the HBO drama series "Rome".
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Paddy Breathnach directed an Irish film.
+
+PASSAGE 1:
+
+Viva (2015 film), a 2015 Irish film directed by Paddy Breathnach
+
+RETRIEVAL SCORE: 0.6877
+RERANK SCORE: 6.1275
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The star of that Irish film played Marcus Agrippa in the HBO drama series "Rome".
+
+PASSAGE 1:
+
+Leech made his professional acting debut in the 1998 production of A Streetcar Named Desire, had his first major film role as Vincent Cusack in Cowboys & Angels (2003), and earned an Irish Film & Television Award nomination for his performance as Mo Chara in Man About Dog (2004). Leech also played Marcus Agrippa on the HBO historical drama series Rome (2007).
+
+RETRIEVAL SCORE: 0.6938
+RERANK SCORE: 5.5982
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+In 2007, Leech appeared in the HBO drama series Rome as Marcus Agrippa, Octavian's top soldier and friend. The film, Rewind, opened in Ireland on 25 March 2011.
+
+RETRIEVAL SCORE: 0.7346
+RERANK SCORE: 3.4981
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The HBO drama series "Rome" features a character named Marcus Agrippa.
+
+PASSAGE 1:
+
+In 2007, Leech appeared in the HBO drama series Rome as Marcus Agrippa, Octavian's top soldier and friend. The film, Rewind, opened in Ireland on 25 March 2011.
+
+RETRIEVAL SCORE: 0.7356
+RERANK SCORE: 5.4590
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Leech made his professional acting debut in the 1998 production of A Streetcar Named Desire, had his first major film role as Vincent Cusack in Cowboys & Angels (2003), and earned an Irish Film & Television Award nomination for his performance as Mo Chara in Man About Dog (2004). Leech also played Marcus Agrippa on the HBO historical drama series Rome (2007).
+
+RETRIEVAL SCORE: 0.6960
+RERANK SCORE: 4.5916
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Allen Leech as Marcus Vipsanius Agrippa (season 2), one of Octavian's chief advisors.
+
+RETRIEVAL SCORE: 0.6939
+RERANK SCORE: 3.5081
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+Rome received largely positive reviews and had a high number of viewers. It received substantial media attention from the start, becoming a ratings success for HBO and the BBC (although the numbers declined considerably in the second season) and being honoured with numerous awards, including four Emmy Awards, seven Primetime Emmy Awards, and a Visual Effects Society Award. The series ran for two seasons out of the planned five due to high production cost; much of the material for the third and fourth seasons was telescoped into the second season. The series has been praised for high detail of accuracy and scenery of its daily life, including both its Roman and Egyptian language used in the script.
+
+RETRIEVAL SCORE: 0.5875
+RERANK SCORE: 3.1087
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_9
+CLAIM: Gregg Rolie and Rob Tyner, are not a keyboardist.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Gregg Rolie is not a keyboardist.
+
+PASSAGE 1:
+
+Gregg Alan Rolie (born June 17, 1947) is an American keyboardist, singer and songwriter. Rolie served as lead singer of the bands Santana and Journey – both of which he co-founded. He also helmed rock group the Storm, performed in Ringo Starr & His All-Starr Band until 2021, and since 2001 with his Gregg Rolie Band. Rolie is a two-time inductee of the Rock and Roll Hall of Fame, having been inducted both as a member of Santana in 1998 and as a member of Journey in 2017.
+
+RETRIEVAL SCORE: 0.7620
+RERANK SCORE: 7.3825
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Keyboardist Gregg Rolie left the band following the Departure tour to start a family and undertake various solo projects. It was the second time in his career he had departed from a successful act. Keyboardist Stevie "Keys" Roseman was brought in to record the lone studio track, "The Party's Over (Hopelessly in Love)", on the band's live album Captured. Rolie suggested pianist Jonathan Cain of The Babys as his permanent replacement. With Cain's synthesizers replacing Rolie's organ, Cain had become the new member of the band.
+
+RETRIEVAL SCORE: 0.7322
+RERANK SCORE: 1.8387
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+In 1966, Rolie joined Carlos Santana and others to form the Santana Blues Band, which was later shortened simply to Santana. As a co-founding member of Santana, Rolie was part of the band's first wave of success, including an appearance at the Woodstock Music and Art Festival in 1969 and central roles in several hit albums. He was their original lead vocalist, with his voice appearing on well-known Santana songs such as "Black Magic Woman" (US #4), "Oye Como Va", "No One To Depend On" and "Evil Ways". He also became well known for his skill on the Hammond B3 organ, with solos on many of the aforementioned hits. He has song-writing credits on many tracks from this period. However, persistent differences with Carlos Santana regarding the musical direction of the band led Rolie to leave in 1972.
+
+RETRIEVAL SCORE: 0.6508
+RERANK SCORE: 0.8301
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Rob Tyner is not a keyboardist.
+
+PASSAGE 1:
+
+Robert W. Derminer (December 12, 1944 – September 18, 1991), known as Rob Tyner, was an American musician best known as the lead singer for the Detroit proto-punk band MC5. His adopted surname was in tribute to the jazz pianist McCoy Tyner. It was Tyner who issued the rallying cry of "kick out the jams, motherfuckers" at the MC5's live concerts.  Tyner had originally auditioned as the bass player, but the band felt his talents would be best used as the lead vocalist.
+
+RETRIEVAL SCORE: 0.6530
+RERANK SCORE: 2.8678
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+MC5 (also known as the Motor City Five) was an American rock band formed in Lincoln Park, Michigan, in 1963. The classic lineup consisted of vocalist Rob Tyner, guitarists Wayne Kramer and Fred "Sonic" Smith, bassist Michael Davis, and drummer Dennis Thompson. MC5 were listed by Parade as one of the best rock bands of all time and by VH1 as one of the greatest hard rock artists of all time.
+
+RETRIEVAL SCORE: 0.5910
+RERANK SCORE: 1.4019
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_10
+CLAIM: "Clydebuilt" is on the south bank of the River Clyde.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: "Clydebuilt" refers to a specific location.
+
+PASSAGE 1:
+
+The Clyde is formed by the confluence of two streams, the Daer Water (the headwaters of which are dammed to form the Daer Reservoir) and the Potrail Water. The Southern Upland Way crosses both streams before they meet at Watermeetings (grid reference NS953131) to form the River Clyde proper. At this point, the Clyde is only 10 km (6 mi) from Tweed's Well, the source of the River Tweed, and is about the same distance from Annanhead Hill, the source of the River Annan. From there, it meanders northeastward before turning to the west, where its flood plain serves as the site of many major roads in the area, then reaches the town of Lanark, where the late 17th- and early 18th-century industrialists David Dale and Robert Owen built mills and the model settlement of New Lanark on the banks of the Clyde. The mills harnessed the power of the Falls of Clyde, the most spectacular of which is Cora Linn. A hydroelectric power station still generates 11MW of electricity there today, although the mills have now become a museum and World Heritage Site.
+
+RETRIEVAL SCORE: 0.7366
+RERANK SCORE: -2.5679
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+In the 13th century, Glasgow, then still a small town, built its first bridge over the river Clyde. This was an important step in its ability to eventually grow into a city. The establishment, in the 15th century, of both the University of Glasgow and the Archdiocese of Glasgow, vastly increased the importance of the town within Scotland. From the early modern period onwards, the Clyde began to be used commercially as a trade route; trade between Glasgow and the rest of Europe became commonplace. In the centuries that followed, the Clyde became increasingly vital to both Scotland and Britain as a major trade route for exporting and importing resources.
+
+RETRIEVAL SCORE: 0.6319
+RERANK SCORE: -3.3988
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+From September 1999 to October 2010, the Scottish Maritime Museum operated Clydebuilt at Braehead, a museum which explored the history of the Clyde shipbuilding industry and the industrial development of Glasgow and the River Clyde.
+
+RETRIEVAL SCORE: 0.6738
+RERANK SCORE: -3.4016
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: This location is situated on the River Clyde.
+
+PASSAGE 1:
+
+The River Clyde (Scottish Gaelic: Abhainn Chluaidh, pronounced [ˈavɪɲ ˈxl̪ˠuəj]) is a major river of western Scotland and the third-longest in the country at about 170 kilometres (110 mi) in length. Its river network extends to 4,244 km and drains a basin of 1,903 km2, expanding to 3,854 km2 when the Clyde estuary system with the Kelvin, White Cart, Black Cart and Leven is included. Around 1.79 million people, 33.8% of Scotland's population, live within this catchment. The river rises in the Lowther Hills and flows north-west through South Lanarkshire and Glasgow before deepening into the Firth of Clyde past the Tail of the Bank off Greenock.
+
+RETRIEVAL SCORE: 0.7356
+RERANK SCORE: 7.4370
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The location is specifically on the south bank of the River Clyde.
+
+PASSAGE 1:
+
+The River Clyde (Scottish Gaelic: Abhainn Chluaidh, pronounced [ˈavɪɲ ˈxl̪ˠuəj]) is a major river of western Scotland and the third-longest in the country at about 170 kilometres (110 mi) in length. Its river network extends to 4,244 km and drains a basin of 1,903 km2, expanding to 3,854 km2 when the Clyde estuary system with the Kelvin, White Cart, Black Cart and Leven is included. Around 1.79 million people, 33.8% of Scotland's population, live within this catchment. The river rises in the Lowther Hills and flows north-west through South Lanarkshire and Glasgow before deepening into the Firth of Clyde past the Tail of the Bank off Greenock.
+
+RETRIEVAL SCORE: 0.7309
+RERANK SCORE: 3.2404
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_11
+CLAIM: Jack McFarland is the best known role of the host of the 64th Annual Tony Awards .
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Jack McFarland is a character.
+
+PASSAGE 1:
+
+Sean Patrick Hayes (born June 26, 1970) is an American actor, comedian, and producer. Known for his performances on stage and screen, he gained acclaim for his role as Jack McFarland on the NBC sitcom Will & Grace, for which he won a Primetime Emmy Award and four Actor Awards, in addition to nominations for six Golden Globe Awards.
+
+RETRIEVAL SCORE: 0.6630
+RERANK SCORE: 5.2047
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The same year, he was cast as Jack McFarland, a flamboyantly gay and frequently unemployed actor, in the NBC comedy series Will & Grace. The show became a long-running hit and Hayes' performance earned him seven consecutive Emmy Award nominations as Outstanding Supporting Actor in a Comedy Series. He won the award for his first nomination. He was also nominated for six Golden Globe Awards for his performances.
+
+RETRIEVAL SCORE: 0.6587
+RERANK SCORE: 1.6561
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The host of the 64th Annual Tony Awards portrayed Jack McFarland.
+
+PASSAGE 1:
+
+The same year, he was cast as Jack McFarland, a flamboyantly gay and frequently unemployed actor, in the NBC comedy series Will & Grace. The show became a long-running hit and Hayes' performance earned him seven consecutive Emmy Award nominations as Outstanding Supporting Actor in a Comedy Series. He won the award for his first nomination. He was also nominated for six Golden Globe Awards for his performances.
+
+RETRIEVAL SCORE: 0.6604
+RERANK SCORE: 4.0192
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Jack McFarland is the best-known role of the host of the 64th Annual Tony Awards.
+
+PASSAGE 1:
+
+Sean Patrick Hayes (born June 26, 1970) is an American actor, comedian, and producer. Known for his performances on stage and screen, he gained acclaim for his role as Jack McFarland on the NBC sitcom Will & Grace, for which he won a Primetime Emmy Award and four Actor Awards, in addition to nominations for six Golden Globe Awards.
+
+RETRIEVAL SCORE: 0.6454
+RERANK SCORE: 4.6000
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_12
+CLAIM: Martin O'Neill replaced the manager of the Aston Villa that began at Aston Villa Football Club.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Martin O'Neill was involved in a managerial change at Aston Villa.
+
+PASSAGE 1:
+
+At club level, O'Neill has managed Grantham Town, Wycombe Wanderers, Norwich City, Leicester City, Celtic, Aston Villa, Nottingham Forest and Sunderland. He guided Leicester City to the Football League Cup final three times, winning twice. As Celtic manager between 2000 and 2005, he led the club to seven trophies including three Scottish Premier League titles, and reached the 2003 UEFA Cup Final. After joining Aston Villa, he achieved three consecutive sixth-place finishes in the English Premier League, and guided them to the 2010 Football League Cup Final.
+
+RETRIEVAL SCORE: 0.7549
+RERANK SCORE: 3.7508
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+On 19 July 2006, O'Leary's contract as Aston Villa manager was terminated by mutual consent, after an investigation into a statement against Ellis allegedly given by the squad. Ellis sold the club within a few days to Randy Lerner, and Martin O'Neill was appointed as manager.
+
+RETRIEVAL SCORE: 0.8032
+RERANK SCORE: 3.4145
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Despite narrowly avoiding relegation the season before, Aston Villa's first trophy for 37 years came in the 1956–57 season when another former Villa player, Eric Houghton led the club to a then record seventh FA Cup Final win, defeating the 'Busby Babes' of Manchester United 2–1 with Northern Irish winger Peter McParland scoring both goals. The team continued to struggle for consistency in the league though, which led to Eric Houghton being sacked in December 1958. His replacement Joe Mercer could not prevent the club being relegated for only the second time in their history in 1958-59. However, under the stewardship of Mercer, Villa returned to the top-flight in 1960 as Second Divi
+
+RETRIEVAL SCORE: 0.7020
+RERANK SCORE: 3.3459
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+O'Neill was introduced as the Aston Villa manager at a press conference on 4 August 2006. At this, he stated: "It's absolutely fantastic to be back and with a club such as this. This is a fantastic challenge. I am well aware of the history of this football club. Trying to restore it to its days of former glory seems a long way away – but why not try? It is nearly 25 years since they won the European Cup but that is the dream."
+
+RETRIEVAL SCORE: 0.8339
+RERANK SCORE: 2.3962
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The manager who began at Aston Villa Football Club was replaced.
+
+PASSAGE 1:
+
+Despite narrowly avoiding relegation the season before, Aston Villa's first trophy for 37 years came in the 1956–57 season when another former Villa player, Eric Houghton led the club to a then record seventh FA Cup Final win, defeating the 'Busby Babes' of Manchester United 2–1 with Northern Irish winger Peter McParland scoring both goals. The team continued to struggle for consistency in the league though, which led to Eric Houghton being sacked in December 1958. His replacement Joe Mercer could not prevent the club being relegated for only the second time in their history in 1958-59. However, under the stewardship of Mercer, Villa returned to the top-flight in 1960 as Second Divi
+
+RETRIEVAL SCORE: 0.7109
+RERANK SCORE: 6.7871
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Aston Villa were a founding member of the Premier League in 1992, one of just three clubs to have been a founding member of both the Football League and the Premier League. Throughout the 1990s and early 2000's, Villa regularly qualified for European football, but following a period of decline after the departure of Martin O'Neill the club suffered its only relegation from the Premier League in 2015–16. After three seasons in the EFL Championship and two ownership changes, the club returned to the Premier League in 2019. Under Unai Emery, the club qualified for the UEFA Champions League for the first time since 1982–83 and won the Europa League in 2025–26.
+
+RETRIEVAL SCORE: 0.7691
+RERANK SCORE: 5.9136
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+On 19 July 2006, O'Leary's contract as Aston Villa manager was terminated by mutual consent, after an investigation into a statement against Ellis allegedly given by the squad. Ellis sold the club within a few days to Randy Lerner, and Martin O'Neill was appointed as manager.
+
+RETRIEVAL SCORE: 0.7992
+RERANK SCORE: 5.5323
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+'Wanted: manager for Aston Villa Football Club, who will be required to devote his whole time under direction of the committee. Salary £100 per annum. Applications with reference must be made not later than June 23rd to Chairman of the Committee, Aston Villa Club House, 6 Witton Road, Aston' Villa received 150 applicants for the role, but with his strong association with the club George Ramsay was the overwhelming choice of the membership. Thus on 26 June 1886, Aston Villa appointed what has been described as the world's first professional football manager. During the following season Aston Villa rose to national prominence, as the first Midlands team to win the FA Cup in 1887. Villa's captain, the powerful Scottish centre-forward Archie Hunter, became one of the game's first household names, being the first player to score in every round of the FA Cup. Aston Villa were one of the dozen teams that competed in the inaugural Football League in 1888 with one of the club's directors, William McGregor being the league's founder. Following the professionalisation of football in 1885, clubs needed regular income to pay their players' wages. Frequently friendlies were cancelled due to opponents' FA Cup or county cup matches or clubs simply failed to honour a fixture in favour of a more lucrative match elsewhere.
+
+RETRIEVAL SCORE: 0.7522
+RERANK SCORE: 3.3001
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 5:
+
+O'Neill was introduced as the Aston Villa manager at a press conference on 4 August 2006. At this, he stated: "It's absolutely fantastic to be back and with a club such as this. This is a fantastic challenge. I am well aware of the history of this football club. Trying to restore it to its days of former glory seems a long way away – but why not try? It is nearly 25 years since they won the European Cup but that is the dream."
+
+RETRIEVAL SCORE: 0.8410
+RERANK SCORE: 2.9160
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 6:
+
+On 9 August 2010, O'Neill resigned as manager of Aston Villa with immediate effect. On his departure, O'Neill said: "I have enjoyed my time at Aston Villa immensely. It's obviously a wrench to be leaving such a magnificent club." O'Neill was reportedly unhappy about the funds available for transfers, but his departure just five days before the start of the new season still came as a shock to the club and its players. Lerner issued a statement two days later, saying he and O'Neill "no longer shared a common view as to how to move forward, but the two remain good friends."
+
+RETRIEVAL SCORE: 0.7835
+RERANK SCORE: 2.1622
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Martin O'Neill was the one who replaced that manager.
+
+PASSAGE 1:
+
+On 19 July 2006, O'Leary's contract as Aston Villa manager was terminated by mutual consent, after an investigation into a statement against Ellis allegedly given by the squad. Ellis sold the club within a few days to Randy Lerner, and Martin O'Neill was appointed as manager.
+
+RETRIEVAL SCORE: 0.7987
+RERANK SCORE: 2.0240
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+O'Neill left Leicester on 1 June 2000, taking over from the team of John Barnes and Kenny Dalglish to become manager of Celtic, who had finished runners-up to Old Firm rivals Rangers in both of their previous seasons. In the season just gone, they had finished 21 points behind the champions.
+
+RETRIEVAL SCORE: 0.7301
+RERANK SCORE: 1.8608
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_13
+CLAIM: The 2014 All-Pac-12 Conference football team featured players from the team led by second-year head coach Mark Helfrich, who led his team to the conference title.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The 2014 All-Pac-12 Conference football team included players from the University of Oregon.
+
+PASSAGE 1:
+
+The 2014 Oregon Ducks football team represented the University of Oregon in the 2014 NCAA Division I FBS football season. The team was led by second-year head coach Mark Helfrich and played their home games at Autzen Stadium, in Eugene, Oregon, for the 48th straight year. They are a member of the Pac-12 Conference in the North Division.
+
+RETRIEVAL SCORE: 0.8276
+RERANK SCORE: 2.7682
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+On May 3, 2014, Oregon capped off its spring football camp with a scrimmage at Autzen Stadium that was open to the public and broadcast live on the Pac-12 Network. The Monday before the game, team captains were selected followed by a draft. Quarterback Marcus Mariota and center Hroniss Grasu captained team "Mariasu" which was coached by the offensive coordinator Scott Frost and the other offensive coaches. Defensive end Tony Washington and cornerback Ifo Ekpre-Olomu captained team "Twifo" which was coached by defensive coordinator Don Pellum and the other defensive coaches; head coach Mark Helfrich observed the game from the field.
+
+RETRIEVAL SCORE: 0.7489
+RERANK SCORE: 2.4827
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The University of Oregon was led by second-year head coach Mark Helfrich in 2014.
+
+PASSAGE 1:
+
+The 2014 Oregon Ducks football team represented the University of Oregon in the 2014 NCAA Division I FBS football season. The team was led by second-year head coach Mark Helfrich and played their home games at Autzen Stadium, in Eugene, Oregon, for the 48th straight year. They are a member of the Pac-12 Conference in the North Division.
+
+RETRIEVAL SCORE: 0.8362
+RERANK SCORE: 6.7423
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Oregon head coach Mark Helfrich returns in his second year as Oregon's head coach following what many have considered to be a disappointing debut season, even though he earned 11 wins, including a bowl game victory, something never before achieved by a first year Oregon head coach. Following the retirement of longtime defensive coordinator & outside linebackers coach Nick Aliotti at the end of the 2013 season Oregon promoted veteran inside linebackers coach and University of Oregon alumni Don Pellum to the defensive coordinator position (he would maintain the inside linebackers coach position). To fill the opening at outside linebackers coach Oregon hired former graduate assistant Erik Chinander who at the time was working for the Philadelphia Eagles.
+
+RETRIEVAL SCORE: 0.7761
+RERANK SCORE: 4.7027
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Mark Helfrich led the University of Oregon to the Pac-12 Conference title in 2014.
+
+PASSAGE 1:
+
+The 2014 Oregon Ducks football team represented the University of Oregon in the 2014 NCAA Division I FBS football season. The team was led by second-year head coach Mark Helfrich and played their home games at Autzen Stadium, in Eugene, Oregon, for the 48th straight year. They are a member of the Pac-12 Conference in the North Division.
+
+RETRIEVAL SCORE: 0.8235
+RERANK SCORE: 3.9371
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_14
+CLAIM: The historical Nimavar school in the Nimavar Bazaar, or bazar, is located in Iran.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: There is a historical school known as the Nimavar school.
+
+PASSAGE 1:
+
+Kentucky State University is located within the Frankfort city limits. KSU (also known as KYSU) is  a public historically black university and an 1890 land-grant institution.
+
+RETRIEVAL SCORE: 0.5817
+RERANK SCORE: -3.6135
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Iran, officially the Islamic Republic of Iran, historically known as Persia, is a country in West Asia. It borders Iraq to the west, Turkey, Azerbaijan, and Armenia to the northwest, the Caspian Sea to the north, Turkmenistan to the northeast, Afghanistan to the east, Pakistan to the southeast, and the Gulf of Oman and the Persian Gulf to the south. With a population of over 92 million, Iran ranks 17th globally in both geographic size and population. It is divided into five regions with 31 provinces. Tehran is the nation's capital and largest city and serves as its primary economic centre.
+
+RETRIEVAL SCORE: 0.6125
+RERANK SCORE: -3.6839
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Nimavar (Persian: نيماور) is a village in Bonab Rural District of the Central District in Zanjan County, Zanjan province, Iran.
+
+RETRIEVAL SCORE: 0.7040
+RERANK SCORE: -4.0980
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Nimavar school is located in an area called Nimavar Bazaar or bazar.
+
+PASSAGE 1:
+
+A bazaar or souk is a marketplace consisting of multiple small stalls or shops, especially in the Middle East, the Balkans, Central Asia, North Africa and South Asia. They are traditionally located in vaulted or covered streets that have doors on each end and served as a city's central marketplace.
+
+RETRIEVAL SCORE: 0.6351
+RERANK SCORE: -0.4548
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Nimavar (Persian: نيماور) is a village in Bonab Rural District of the Central District in Zanjan County, Zanjan province, Iran.
+
+RETRIEVAL SCORE: 0.7162
+RERANK SCORE: -0.8083
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+The term bazaar originates from Persian, where it referred to a town's public market district. Bazaari refers collectively to the merchants, bankers and craftsmen who work in a bazaar. The term souk comes from Arabic and refers to marketplaces in the Middle East and North Africa.
+
+RETRIEVAL SCORE: 0.6166
+RERANK SCORE: -1.5535
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Nimavar Bazaar is located in Iran.
+
+PASSAGE 1:
+
+Nimavar (Persian: نيماور) is a village in Bonab Rural District of the Central District in Zanjan County, Zanjan province, Iran.
+
+RETRIEVAL SCORE: 0.7206
+RERANK SCORE: 6.4090
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Iran, officially the Islamic Republic of Iran, historically known as Persia, is a country in West Asia. It borders Iraq to the west, Turkey, Azerbaijan, and Armenia to the northwest, the Caspian Sea to the north, Turkmenistan to the northeast, Afghanistan to the east, Pakistan to the southeast, and the Gulf of Oman and the Persian Gulf to the south. With a population of over 92 million, Iran ranks 17th globally in both geographic size and population. It is divided into five regions with 31 provinces. Tehran is the nation's capital and largest city and serves as its primary economic centre.
+
+RETRIEVAL SCORE: 0.6170
+RERANK SCORE: 2.4640
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_15
+CLAIM: Elzie Crisler Segar created the character of whom Captain Strong is a parody.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Elzie Crisler Segar created a character.
+
+PASSAGE 1:
+
+Elzie Crisler Segar (; December 8, 1894 – October 13, 1938), known by the pen name E. C. Segar, was an American cartoonist. He created Popeye in 1929, introducing the character in his comic strip Thimble Theatre.
+
+RETRIEVAL SCORE: 0.6754
+RERANK SCORE: 8.9898
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Popeye the Sailor Man is a cartoon character created by Elzie Crisler Segar, first appearing on January 17, 1929, in the daily King Features comic strip Thimble Theatre. The strip was in its tenth year when Popeye made his debut, but the one-eyed sailor quickly became the lead character, and Thimble Theatre became one of King Features' most popular properties during the early  1930s.  Popeye became the suitor of longtime Thimble Theatre star Olive Oyl, and Segar introduced new supporting characters such as adopted son Swee'Pea and friend J. Wellington Wimpy, as well as foes like the Sea Hag and Bluto.
+
+RETRIEVAL SCORE: 0.6619
+RERANK SCORE: 7.1370
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+On January 17, 1929, when Castor Oyl needed a mariner to navigate his ship to Dice Island, Castor picked up a weatherbeaten sailor named Popeye in the docks. Popeye's first line in the strip, upon being asked if he was a sailor, was "'Ja think I'm a cowboy?" It is believed Segar remembered a tough laborer named Frank "Rocky" Fiegel who was always getting in fights but also gave out candy and treats to children, including a young Segar. At first Segar intended Popeye to be a once-off character, but after large numbers of newspaper readers wrote in requesting the character's return, Segar reintroduced Popeye as a full-time regular in August 1929, eventually enabling the sailor to become the focal point of the strip. Segar initially depicted Popeye as a quarrelling antihero. Segar's storylines for the Popeye-focused Thimble Theatre drew on several fictional genres, including Westerns, pirate swashbucklers, Sports stories, and fantasy stories. Some of the other notable characters Segar created include J. Wellington Wimpy and Eugene the Jeep.
+
+RETRIEVAL SCORE: 0.6588
+RERANK SCORE: 4.4208
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+In mid-1922, Segar began to increasingly engage in lengthier (often months-long) storylines; by the end of the following year, the strip had effectively changed fully into a comedy-adventure style focusing on Ham, Olive, and Olive's ambitious-but-myopic diminutive brother Castor Oyl, initially a minor character yet arguably the protagonist of the strip by 1925. Castor and Olive's parents Cole and Nana Oyl also made frequent appearances beginning in the mid-1920s. By the late 1920s, the strip had likewise acquired a number of notable characters beyond the sphere of Ham Gravy and the Oyl family, including Castor Oyl's wife Cylinda (to whom he was married from 1926 to 1928), her wealthy, misanthropic father Mr. Lotts  and Castor's fighting cockerel Blizzard, all of whom had exited the strip by the close of 1928 (although Cylinda eventually maritally reunited with Castor under R. K. Milholland's authorship almost a century later).
+
+RETRIEVAL SCORE: 0.6231
+RERANK SCORE: 2.2252
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Captain Strong is a parody of that character.
+
+PASSAGE 1:
+
+Captain Strong is a fictional character in DC Comics, introduced in Action Comics #421 (1973) as a parody of Popeye. Created by writer Cary Bates, Strong gains superhuman strength by consuming "sauncha," a special seaweed with drug-like effects that enhance his power but cause addiction and erratic behavior. Initially using his abilities to help others, he becomes friends with Superman, unaware of his dual identity as Clark Kent. In The New 52 series, Strong reappears with Harley Quinn’s team, once again struggling with the seaweed’s effects. Later, he aids Harley’s gang in battle using his skills as a former sniper.
+
+RETRIEVAL SCORE: 0.7584
+RERANK SCORE: 9.0355
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_16
+CLAIM: The prison holding one of the two arrestees in the 18 September 2014 counter-terrorism raid opened in the year 2001.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: There was a counter-terrorism raid on 18 September 2014.
+
+PASSAGE 1:
+
+On 23 September 2014, 18-year-old Abdul Numan Haider attacked two counter-terrorism police officers with a knife outside the Victoria Police Endeavour Hills station located in Endeavour Hills, a suburb of Melbourne, Victoria, Australia. He was then shot dead.
+
+RETRIEVAL SCORE: 0.6669
+RERANK SCORE: 0.0481
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+At 2am on 29 November 1980, the day of the Queensland State election, a nitropril and fuel oil bomb was detonated with gelignite at the Iwasaki resort construction site north of Yeppoon. The blast created a seven-metre-wide crater in a block of holiday units under construction. Premier Joh Bjelke-Petersen and MP Ben Humphreys labelled the incident a terrorist attack, and a caller to Rockhampton's The Morning Bulletin newspaper claimed responsibility on behalf of the "Queensland Republican Army". The media saw the motivation behind the attack as increasing resentment over Japanese land ownership in Queensland, while Petersen claimed that it was a racist attack. Two men, Eric John Geissman and Kerry Geissman, were committed to trial on 15 May 1981. Both were found not guilty after questions were raised regarding police misconduct in the investigation, a common problem in Queensland at the time.
+
+RETRIEVAL SCORE: 0.6019
+RERANK SCORE: -0.1797
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+The designation of the 2014 Lindt Cafe siege, also known as the Sydney hostage crisis or the Martin Place siege, has been subject to debate among terrorism experts and news commentators. Initially, during the early stages of the incident, the Australian government and NSW authorities did not label the event as a terrorist attack; however, as the siege continued, NSW police authorised the engagement of the state's counterterrorism task force, treating the incident as an act of terrorism. Commentators have debated whether the perpetrator of the attack, Man Haron Monis, was in fact a terrorist and whether his actions can be classified as an act of terrorism. One terrorism expert described Monis's actions as those of a "lone-wolf terrorist ... driven by a desire for attention and to be in the spotlight." Another wrote in an opinion column that the attack "was very different from first-generation or second-generation terrorist attacks—but it was terrorism, and terrorism of a brutal and more unpredictable sort." Scott Stewart supervisor of the analysis of terrorism and security issues for Statfor said that this hostage-incident exhibits many of the elements associated with grassroots terrorism. By contrast, criminologist Mark Lauchs stated that the event "was not about religion and neither was it a terrorist attack." Media outlets have also provided conflicting designations for Monis; John Lehmann, editor of The Daily Telegraph, wrote how Monis filled the criteria of an Islamic State terrorist, while a columnist for The Guardian wrote how the designation of a terrorist is misplaced and would only serve the interests of ISIL. On 15 January 2015, Australia's Treasurer Joe Hockey declared the siege in Sydney's Martin Place as a terrorist incident for insurance purposes.
+
+RETRIEVAL SCORE: 0.6085
+RERANK SCORE: -1.8408
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Two individuals were arrested during this raid.
+
+PASSAGE 1:
+
+At 2am on 29 November 1980, the day of the Queensland State election, a nitropril and fuel oil bomb was detonated with gelignite at the Iwasaki resort construction site north of Yeppoon. The blast created a seven-metre-wide crater in a block of holiday units under construction. Premier Joh Bjelke-Petersen and MP Ben Humphreys labelled the incident a terrorist attack, and a caller to Rockhampton's The Morning Bulletin newspaper claimed responsibility on behalf of the "Queensland Republican Army". The media saw the motivation behind the attack as increasing resentment over Japanese land ownership in Queensland, while Petersen claimed that it was a racist attack. Two men, Eric John Geissman and Kerry Geissman, were committed to trial on 15 May 1981. Both were found not guilty after questions were raised regarding police misconduct in the investigation, a common problem in Queensland at the time.
+
+RETRIEVAL SCORE: 0.6009
+RERANK SCORE: 2.9138
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: One of the arrestees is being held in a prison.
+
+PASSAGE 1:
+
+On 16 July 2001, Peter James Knight, described as an "obsessive anti-abortionist" who lived alone in a makeshift camp in rural New South Wales, attacked the East Melbourne Family Planning clinic, a privately run clinic providing abortions, carrying a rifle, and large quantities of kerosene and lighters. He shot and killed a security guard at the clinic before his capture and arrest. He was charged and convicted of murder, and was sentenced to life imprisonment with a non-parole period of 23 years. Australian terrorism academic Clive Williams listed the attack amongst incidents of politically motivated violence in Australia.
+
+RETRIEVAL SCORE: 0.5907
+RERANK SCORE: -3.1971
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Opened in 2001 at a cost of A$20 million, the Super Maximum facility is located within the confines of the Goulburn Correctional Centre. Initially called the High-Risk Management Unit (HRMU, also referred to by inmates as HARM-U), it was Australia's first Supermax prison since the closure of the Katingal facility at the Long Bay Correctional Centre in 1978. The facility is the most secure prison within the NSW correctional system, and the inmates are subject to very strict daily regimes, and under intense scrutiny by security. Goulburn HRMCC has received complaints by prisoners, including the lack of natural light and fresh air; access to legal books; the use of isolation and solitary confinement; limited and enclosed exercise; self-mutilation and harsh treatment. A 2008 report by the New South Wales Ombudsman explained that there is "no doubt… that the HRMU does not provide a therapeutic environment for these inmates".
+
+RETRIEVAL SCORE: 0.6199
+RERANK SCORE: -3.2197
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Five arrested for an Islamist terrorist plot uncovered in August 2009 targeting Holsworthy Barracks—an Australian Army training area with automatic weapons. Given lengthy prison terms, the judge called them an ongoing threat to society as long as they were unrepentant of their jihadist attitudes. Connected with the Somali-based terrorist group al-Shabaab.
+
+RETRIEVAL SCORE: 0.6671
+RERANK SCORE: -3.7793
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The prison where one arrestee is being held was opened in the year 2001.
+
+PASSAGE 1:
+
+Opened in 2001 at a cost of A$20 million, the Super Maximum facility is located within the confines of the Goulburn Correctional Centre. Initially called the High-Risk Management Unit (HRMU, also referred to by inmates as HARM-U), it was Australia's first Supermax prison since the closure of the Katingal facility at the Long Bay Correctional Centre in 1978. The facility is the most secure prison within the NSW correctional system, and the inmates are subject to very strict daily regimes, and under intense scrutiny by security. Goulburn HRMCC has received complaints by prisoners, including the lack of natural light and fresh air; access to legal books; the use of isolation and solitary confinement; limited and enclosed exercise; self-mutilation and harsh treatment. A 2008 report by the New South Wales Ombudsman explained that there is "no doubt… that the HRMU does not provide a therapeutic environment for these inmates".
+
+RETRIEVAL SCORE: 0.6333
+RERANK SCORE: 2.0274
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_17
+CLAIM: The Kentucky Department of Corrections is headquarted along the Kentucky River.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Kentucky Department of Corrections has a headquarters location.
+
+PASSAGE 1:
+
+The Kentucky Department of Corrections is a state agency of the Kentucky Justice & Public Safety Cabinet that operates state-owned adult correctional facilities and provides oversight for and sets standards for county jails. They also provide training, community based services, and oversees the state's Probation & Parole Division. The agency is headquartered in the Health Services Building in Frankfort.
+
+RETRIEVAL SCORE: 0.7750
+RERANK SCORE: 8.8062
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The headquarters of the Kentucky Department of Corrections is located along a river.
+
+PASSAGE 1:
+
+Frankfort is the capital city of the U.S. state of Kentucky. It is a home rule-class city and the seat of Franklin County. As of the 2020 census, the population was 28,602, making it the 13th-largest city in Kentucky and 4th-smallest U.S. state capital by population. Located along the Kentucky River in the Upland South, Frankfort is the principal city of the Frankfort, Kentucky micropolitan area, which includes all of Franklin and Anderson counties.
+
+RETRIEVAL SCORE: 0.6479
+RERANK SCORE: 5.1875
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The river along which the headquarters is located is the Kentucky River.
+
+PASSAGE 1:
+
+Frankfort is the capital city of the U.S. state of Kentucky. It is a home rule-class city and the seat of Franklin County. As of the 2020 census, the population was 28,602, making it the 13th-largest city in Kentucky and 4th-smallest U.S. state capital by population. Located along the Kentucky River in the Upland South, Frankfort is the principal city of the Frankfort, Kentucky micropolitan area, which includes all of Franklin and Anderson counties.
+
+RETRIEVAL SCORE: 0.6606
+RERANK SCORE: 3.6228
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The main stem of the Kentucky River is formed near Beattyville in Lee County by the confluence of the North, Middle, and South Forks. The river flows generally northwest, in a highly meandering course through the Eastern Coalfield and the Daniel Boone National Forest before turning southwest north of Richmond and then north through Frankfort. It joins the Ohio River at Carrollton.
+
+RETRIEVAL SCORE: 0.6608
+RERANK SCORE: 1.2837
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_18
+CLAIM: Stephanie Caroline March is the American actress that stars in the movie "Innocesnce" and is best known for her role as Alexandra Cabot in a long-running NBC series.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Stephanie Caroline March is an American actress.
+
+PASSAGE 1:
+
+Stephanie Caroline March (born July 23, 1974) is an American actress and activist. She is known for playing Alexandra Cabot in the NBC crime drama series Law & Order: Special Victims Unit (2000–2018) and its spinoff media. She is also recognized for her activism towards abuse victims, education, and women's rights.
+
+RETRIEVAL SCORE: 0.8336
+RERANK SCORE: 10.3062
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+March has appeared in the films Head of State (2003), Mr. & Mrs. Smith (2005), Falling for Grace (2006), The Treatment (2006), Jesse Stone: Night Passage (2006), Confessions of a Shopaholic (2009), and Origin (2023). She also executive produced and starred in the independent film The Social Ones (2019). Her continued television roles include Carol Blanton on the Adult Swim miniseries Neon Joe, Werewolf Hunter (2015), Debora Green in the Lifetime film A House on Fire (2021), and Akira on the superhero series Naomi (2022), and Angelica Wyatt in Amazon Prime's miniseries Shelter (2023).
+
+RETRIEVAL SCORE: 0.6204
+RERANK SCORE: 6.1630
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+She gained acclaim for her roles as a devious weather forecaster in Gus Van Sant's crime dramedy To Die For (1995), an unsatisfied wife in Stanley Kubrick's erotic thriller Eyes Wide Shut (1999), a woman hiding from mobsters in Lars von Trier's drama Dogville (2003), a preacher's daughter in Anthony Minghella's period war drama Cold Mountain (2003), and a widow confronted with a shocking discovery in Jonathan Glazer's psychological drama Birth (2004). She also starred in the romantic western Far and Away (1992), the superhero film Batman Forever (1995), the romantic comedy Practical Magic (1998), the gothic horror film The Others (2001), the sci-fi comedy film The Stepford Wives (2004), and the adventure drama Australia, and the musical Nine (2009). She then portrayed Grace Kelly in the biopic Grace of Monaco (2014) and an evil taxidermist in the comedy Paddington (2014).
+
+RETRIEVAL SCORE: 0.5881
+RERANK SCORE: 5.2978
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+In 1997, March made her screen debut in an episode of the CBS series Early Edition. In 1999, March moved to New York and made her Broadway debut in a production of Arthur Miller's Death of a Salesman with Brian Dennehy. She later co-starred in the television film based on the play.
+
+RETRIEVAL SCORE: 0.5967
+RERANK SCORE: 3.0874
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: She stars in the movie "Innocence."
+
+PASSAGE 1:
+
+Innocence is a 2013 American horror drama film directed by Hilary Brougher, who co-wrote the film with Tristine Skyler. The movie is based on the 2000 novel of the same name by Jane Mendelsohn. It had its world premiere on October 26, 2013, at the Austin Film Festival and received a limited theatrical release in the United States on September 5, 2014. The movie stars Sophie Curtis, Kelly Reilly, Graham Phillips, Linus Roache, Sarah Sutherland and Stephanie March.
+
+RETRIEVAL SCORE: 0.6642
+RERANK SCORE: 8.0175
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: She is best known for her role as Alexandra Cabot in a long-running NBC series.
+
+PASSAGE 1:
+
+Stephanie Caroline March (born July 23, 1974) is an American actress and activist. She is known for playing Alexandra Cabot in the NBC crime drama series Law & Order: Special Victims Unit (2000–2018) and its spinoff media. She is also recognized for her activism towards abuse victims, education, and women's rights.
+
+RETRIEVAL SCORE: 0.8392
+RERANK SCORE: 7.2175
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The unit did not receive a full-time assistant district attorney until season two, when Alexandra Cabot (Stephanie March) was assigned to work with the detectives. After Cabot enters the Witness Protection Program after almost being killed in a hit in season five, she was replaced by Casey Novak (Diane Neal), who remained as the ADA until the end of season nine, when she was censured for violating due process while trying to bring a rapist cop (the same one that Lake would end up murdering) to justice. Kim Greylek (Michaela McManus) became the permanent ADA in the season ten premiere, until Cabot made a return midway through that season when Greylek returned to the Justice Department in Washington, D.C. Cabot remained the ADA through the second half of season 10, and most of season 11.
+
+RETRIEVAL SCORE: 0.6882
+RERANK SCORE: 4.5386
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+March is best known for her role as Assistant District Attorney Alexandra Cabot on the NBC crime legal drama series Law & Order: Special Victims Unit, who she played as a main character from 2000 to 2003, and reprised in recurring appearances on the show until 2018. On landing the role, March told People magazine "I'm not sure that when I got the job, I intended for this to happen, but once I had the job, I became pretty deliberate about it because the subject matter I found disturbing and compelling. It was just not something I could put away when I came home at night from work. So, I became quite deliberate in my choices of how I wanted to participate and how I wanted to use my voice." The character of Cabot and March's work has earned widespread acclaim, and is often considered one of the best characters and acting performances in the Law & Order series. In 2003, at the 8th Golden Satellite Awards, she and her Law & Order: Special Victims Unit co-stars were nominated for the Satellite Award for Best Television Series – Drama.
+
+RETRIEVAL SCORE: 0.7147
+RERANK SCORE: 3.7284
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+Alexandra "Alex" Cabot is a fictional character within the Law & Order universe portrayed by Stephanie March. She is a primary character in Law & Order: Special Victims Unit and Conviction.
+
+RETRIEVAL SCORE: 0.7717
+RERANK SCORE: 2.5583
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_19
+CLAIM: The person who has a wider scope of profession between José Echegaray and Graham Swift is José Echegaray.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: José Echegaray and Graham Swift are both professionals in their respective fields.
+
+PASSAGE 1:
+
+José Echegaray y Eizaguirre (19 April 1832 – 14 September 1916) was a Spanish civil engineer, mathematician, statesman, and one of the leading Spanish dramatists of the last quarter of the 19th century. He was awarded the 1904 Nobel Prize in Literature "in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama".
+
+RETRIEVAL SCORE: 0.6705
+RERANK SCORE: 6.1381
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Graham Colin Swift FRSL (born 4 May 1949) is an English novelist, poet and short story writer.
+
+RETRIEVAL SCORE: 0.6366
+RERANK SCORE: 1.5954
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+José Echegaray maintained constant activity until his death on 14 September 1916 in Madrid. His extensive work did not stop growing in his old age: in the final stage of his life he wrote 25 or 30 mathematical physics volumes. At the age of 83 he commented: I cannot die, because if I am going to write my mathematical physics encyclopedia, I need at least 25 more years.
+
+RETRIEVAL SCORE: 0.6057
+RERANK SCORE: 1.0574
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The scope of José Echegaray's profession is broader than that of Graham Swift.
+
+PASSAGE 1:
+
+José Echegaray y Eizaguirre (19 April 1832 – 14 September 1916) was a Spanish civil engineer, mathematician, statesman, and one of the leading Spanish dramatists of the last quarter of the 19th century. He was awarded the 1904 Nobel Prize in Literature "in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama".
+
+RETRIEVAL SCORE: 0.6711
+RERANK SCORE: 1.2310
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Graham Colin Swift FRSL (born 4 May 1949) is an English novelist, poet and short story writer.
+
+RETRIEVAL SCORE: 0.6229
+RERANK SCORE: 0.4300
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+From 1967, Swift continued his education at Queens' College, Cambridge, having won another scholarship, At Cambridge he was for a brief time editor of college journal Solstice. He graduated from Cambridge with a BA (a First) in 1970. According to the Encyclopædia Britannica, Swift completed an MA at the same institution in 1975, although – according to a detailed 2003 profile in The Guardian – he spent the years between 1970 and 1973 at the University of York.
+
+RETRIEVAL SCORE: 0.5514
+RERANK SCORE: -0.6656
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Therefore, the person with the wider scope of profession is José Echegaray.
+
+PASSAGE 1:
+
+José Echegaray y Eizaguirre (19 April 1832 – 14 September 1916) was a Spanish civil engineer, mathematician, statesman, and one of the leading Spanish dramatists of the last quarter of the 19th century. He was awarded the 1904 Nobel Prize in Literature "in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama".
+
+RETRIEVAL SCORE: 0.6718
+RERANK SCORE: 6.9265
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_20
+CLAIM: Sian Gibson co-wrote the British sitcom Peter Kay's Car Share, set around a supermarket and car share scheme.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Sian Gibson is a writer.
+
+PASSAGE 1:
+
+Sian Gibson (née Foulkes; born 1976) is a Welsh comedy actress and television writer. She co-wrote and co-starred in the sitcom Peter Kay's Car Share, alongside Kay, for which she won the 2016 BAFTA TV Award for Best Scripted Comedy and the National Television Award for Best Comedy.
+
+RETRIEVAL SCORE: 0.8645
+RERANK SCORE: 9.5349
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The British sitcom Peter Kay's Car Share was written by Sian Gibson.
+
+PASSAGE 1:
+
+Peter Kay's Car Share is a British sitcom set around supermarket assistant manager John Redmond (Peter Kay) and promotions rep Kayleigh Kitson (Sian Gibson), and their participation in a company car-sharing scheme.
+
+RETRIEVAL SCORE: 0.8512
+RERANK SCORE: 8.4733
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Sian Gibson (née Foulkes; born 1976) is a Welsh comedy actress and television writer. She co-wrote and co-starred in the sitcom Peter Kay's Car Share, alongside Kay, for which she won the 2016 BAFTA TV Award for Best Scripted Comedy and the National Television Award for Best Comedy.
+
+RETRIEVAL SCORE: 0.8498
+RERANK SCORE: 6.5607
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+As well as Car Share's successful viewing figures, the show brought a series of accolades for Gibson herself. As co-writer alongside Kay, Coleman and Reid, she won a BAFTA, National Television Award, Broadcast Award, and Broadcasting Press Guild Award. The quartet were also nominated for a pair of Royal Television Society Awards.
+
+RETRIEVAL SCORE: 0.7266
+RERANK SCORE: 2.3693
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Peter Kay's Car Share is a British sitcom.
+
+PASSAGE 1:
+
+Peter Kay's Car Share is a British sitcom set around supermarket assistant manager John Redmond (Peter Kay) and promotions rep Kayleigh Kitson (Sian Gibson), and their participation in a company car-sharing scheme.
+
+RETRIEVAL SCORE: 0.8669
+RERANK SCORE: 8.9522
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+In December 2015, Kay confirmed a second and supposedly final series had been commissioned. It began airing on 11 April 2017. Filming locations for the second series included: Blair Drummond Safari Park, Bury, Burnley, Nelson, Wirral and Southport. Peter Kay's Car Share won Best Comedy at the 2016, 2018 and 2019 National Television Awards, and the BAFTA TV Awards for Best Male Comedy Performance and Best Scripted Comedy at the 2016 BAFTA TV Awards.
+
+RETRIEVAL SCORE: 0.7512
+RERANK SCORE: 1.3925
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Meanwhile, in 2013, Kay had received the script that became Peter Kay's Car Share from Paul Coleman and Tim Reid. Although Kay loved the idea, he initially had no intention of appearing in the series.
+
+RETRIEVAL SCORE: 0.7688
+RERANK SCORE: 1.2486
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The sitcom Peter Kay's Car Share is set around a supermarket and car share scheme.
+
+PASSAGE 1:
+
+Peter Kay's Car Share is a British sitcom set around supermarket assistant manager John Redmond (Peter Kay) and promotions rep Kayleigh Kitson (Sian Gibson), and their participation in a company car-sharing scheme.
+
+RETRIEVAL SCORE: 0.8638
+RERANK SCORE: 7.0541
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The series focuses on supermarket assistant manager John Redmond (Kay) and promotions rep Kayleigh Kitson (Gibson), who are participating in their work's car-sharing scheme.
+
+RETRIEVAL SCORE: 0.7029
+RERANK SCORE: 1.7243
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_21
+CLAIM: Smith worked on the series The Handmaid's Tale that is based on a novel by Margaret Atwood.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Smith worked on the series The Handmaid's Tale.
+
+PASSAGE 1:
+
+The Handmaid's Tale is an American dystopian television series created by Bruce Miller, based on the 1985 novel The Handmaid's Tale by Canadian author Margaret Atwood. The series was ordered by the streaming service Hulu as a straight-to-series order of ten episodes, for which production began in late 2016. The plot features a dystopia following a Second American Civil War wherein a theonomic, totalitarian society subjects fertile women, called "Handmaids", to child-bearing slavery.
+
+RETRIEVAL SCORE: 0.7242
+RERANK SCORE: 2.7251
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Margaret Eleanor Atwood (born November 18, 1939) is a Canadian novelist, poet, literary critic, and inventor. Since 1961, she has published 18 books of poetry, 18 novels, 11 books of nonfiction, nine collections of short fiction, eight children's books, two graphic novels, and a number of small press editions of both poetry and fiction. Her best-known work is the 1985 dystopian novel The Handmaid's Tale. Atwood has won numerous awards and honors for her writing, including two Booker Prizes, the Arthur C. Clarke Award, the Order of Canada, the Franz Kafka Prize, the Prince of Asturias Award for literature, and the National Book Critics and PEN Center USA Lifetime Achievement Awards. A number of her works have been adapted for film and television.
+
+RETRIEVAL SCORE: 0.7382
+RERANK SCORE: 1.5100
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Atwood's literary reputation continued to rise in the 1980s with the publication of Bodily Harm (1981); The Handmaid's Tale (1985), winner of the Arthur C. Clarke Award and 1985 Governor General's Award and finalist for the 1986 Booker Prize; and Cat's Eye (1988), finalist for both the 1988 Governor General's Award and the 1989 Booker Prize. Despite her distaste for literary labels, Atwood has since conceded to referring to The Handmaid's Tale as a work of science fiction or, more precisely, speculative fiction. As she has repeatedly noted, "There's a precedent in real life for everything in the book. I decided not to put anything in that somebody somewhere hadn't already done."
+
+RETRIEVAL SCORE: 0.6981
+RERANK SCORE: -0.0192
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Handmaid's Tale is based on a novel by Margaret Atwood.
+
+PASSAGE 1:
+
+The Handmaid's Tale is an American dystopian television series created by Bruce Miller, based on the 1985 novel The Handmaid's Tale by Canadian author Margaret Atwood. The series was ordered by the streaming service Hulu as a straight-to-series order of ten episodes, for which production began in late 2016. The plot features a dystopia following a Second American Civil War wherein a theonomic, totalitarian society subjects fertile women, called "Handmaids", to child-bearing slavery.
+
+RETRIEVAL SCORE: 0.7260
+RERANK SCORE: 10.2963
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Margaret Eleanor Atwood (born November 18, 1939) is a Canadian novelist, poet, literary critic, and inventor. Since 1961, she has published 18 books of poetry, 18 novels, 11 books of nonfiction, nine collections of short fiction, eight children's books, two graphic novels, and a number of small press editions of both poetry and fiction. Her best-known work is the 1985 dystopian novel The Handmaid's Tale. Atwood has won numerous awards and honors for her writing, including two Booker Prizes, the Arthur C. Clarke Award, the Order of Canada, the Franz Kafka Prize, the Prince of Asturias Award for literature, and the National Book Critics and PEN Center USA Lifetime Achievement Awards. A number of her works have been adapted for film and television.
+
+RETRIEVAL SCORE: 0.7498
+RERANK SCORE: 9.2617
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Atwood's literary reputation continued to rise in the 1980s with the publication of Bodily Harm (1981); The Handmaid's Tale (1985), winner of the Arthur C. Clarke Award and 1985 Governor General's Award and finalist for the 1986 Booker Prize; and Cat's Eye (1988), finalist for both the 1988 Governor General's Award and the 1989 Booker Prize. Despite her distaste for literary labels, Atwood has since conceded to referring to The Handmaid's Tale as a work of science fiction or, more precisely, speculative fiction. As she has repeatedly noted, "There's a precedent in real life for everything in the book. I decided not to put anything in that somebody somewhere hadn't already done."
+
+RETRIEVAL SCORE: 0.7149
+RERANK SCORE: 5.0187
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+Atwood's reputation as a writer continued to grow with the publication of the novels The Robber Bride (1993), finalist for the 1994 Governor General's Award and shortlisted for the James Tiptree Jr. Award, and Alias Grace (1996), winner of the 1996 Giller Prize, finalist for the 1996 Booker Prize, finalist for the 1996 Governor General's Award, and shortlisted for the 1997 Orange Prize for Fiction. Although vastly different in context and form, both novels use female characters to question good and evil and morality through their portrayal of female villains. As Atwood noted about The Robber Bride, "I'm not making a case for evil behavior, but unless you have some women characters portrayed as evil characters, you're not playing with a full range." The Robber Bride takes place in contemporary Toronto, while Alias Grace is a work of historical fiction detailing the 1843 murders of Thomas Kinnear and his housekeeper Nancy Montgomery.
+
+RETRIEVAL SCORE: 0.6469
+RERANK SCORE: 4.6929
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 5:
+
+Atwood's works encompass a variety of themes including gender and identity, religion and myth, the power of language, climate change, and power politics. Many of her poems are inspired by myths and fairy tales which interested her from a very early age.
+
+RETRIEVAL SCORE: 0.6735
+RERANK SCORE: 3.6607
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 6:
+
+Atwood's first book of poetry, Double Persephone, was published as a pamphlet by John Robert Colombo's Hawkshead Press in 1961, and won the E. J. Pratt Medal. While continuing to write, Atwood was a lecturer in English at the University of British Columbia, Vancouver, from 1964 to 1965, Instructor in English at the Sir George Williams University in Montreal from 1967 to 1968, and taught at the University of Alberta in Edmonton from 1969 to 1970. In 1966, The Circle Game was published, winning the Governor General's Award. This collection was followed by three other small press collections of poetry: Kaleidoscopes Baroque: a poem, Cranbrook Academy of Art (1965); Talismans for Children, Cranbrook Academy of Art (1965); and Speeches for Doctor Frankenstein, Cranbrook Academy of Art (1966); as well as The Animals in That Country (1968). Atwood's first novel, The Edible Woman, was published in 1969. As a social satire of North American consumerism, many critics have often cited the novel as an early example of the feminist concerns found in many of Atwood's works.
+
+RETRIEVAL SCORE: 0.6282
+RERANK SCORE: 2.4140
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 7:
+
+Atwood taught at York University in Toronto from 1971 to 1972 and was a writer in residence at the University of Toronto during the 1972/1973 academic year. Atwood published six collections of poetry over the course of the decade: The Journals of Susanna Moodie (1970), Procedures for Underground (1970), Power Politics (1971), You Are Happy (1974), Selected Poems 1965–1975 (1976), and Two-Headed Poems (1978). Atwood also published three novels during this time: Surfacing (1972); Lady Oracle (1976); and Life Before Man (1979), which was a finalist for the Governor General's Award. Surfacing, Lady Oracle, and Life Before Man, like The Edible Woman, explore identity and social constructions of gender as they relate to topics such as nationhood and sexual politics. In particular, Surfacing, along with her first non-fiction monograph, Survival: A Thematic Guide to Canadian Literature (1972), helped establish Atwood as an important and emerging voice in Canadian literature. In 1977 Atwood published her first short story collection, Dancing Girls, which was the winner of the St. Lawrence Award for Fiction and the award of The Periodical Distributors of Canada for Short Fiction.
+
+RETRIEVAL SCORE: 0.6152
+RERANK SCORE: 2.3552
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_22
+CLAIM: The Potomac River runs along the neighborhood where Ashley Estates Kavanaugh's wedding was held.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Ashley Estates is a neighborhood where Kavanaugh's wedding was held.
+
+PASSAGE 1:
+
+Ashley Estes Kavanaugh is an American public official and former political aide. She is married to Supreme Court Justice Brett Kavanaugh.
+
+RETRIEVAL SCORE: 0.7515
+RERANK SCORE: 3.3682
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Kavanaugh's wedding was held in a neighborhood located near the Potomac River.
+
+PASSAGE 1:
+
+The Potomac River ( ) is in the Mid-Atlantic region of the United States and flows from the Potomac Highlands in West Virginia to Chesapeake Bay in Maryland. It is 405 miles (652 km) long, with a drainage area of 14,700 square miles (38,000 km2), and is the fourth-largest river along the East Coast of the United States. More than 6 million people live within its watershed.
+
+RETRIEVAL SCORE: 0.7014
+RERANK SCORE: 1.0509
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+In 2004, she married fellow West Wing staff member Brett Kavanaugh. Both President Bush and First Lady Laura Bush attended the wedding ceremony in Georgetown, Washington, D.C.
+
+RETRIEVAL SCORE: 0.7107
+RERANK SCORE: -1.0088
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Ashley Estes Kavanaugh is an American public official and former political aide. She is married to Supreme Court Justice Brett Kavanaugh.
+
+RETRIEVAL SCORE: 0.7296
+RERANK SCORE: -1.3033
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Potomac River runs along the neighborhood of Ashley Estates.
+
+PASSAGE 1:
+
+The Potomac River ( ) is in the Mid-Atlantic region of the United States and flows from the Potomac Highlands in West Virginia to Chesapeake Bay in Maryland. It is 405 miles (652 km) long, with a drainage area of 14,700 square miles (38,000 km2), and is the fourth-largest river along the East Coast of the United States. More than 6 million people live within its watershed.
+
+RETRIEVAL SCORE: 0.7073
+RERANK SCORE: 4.5041
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_23
+CLAIM: The Swan of Catania was taught by the Italian composer Giovanni Furno.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Giovanni Furno was an Italian composer.
+
+PASSAGE 1:
+
+Giovanni Furno (Capua, January 1, 1748 – Naples , June 20, 1837) was an Italian composer and famous music teacher. Among his students were Vincenzo Bellini and Saverio Mercadante. He was unanimously considered the best teacher in Naples. His primer on partimenti, called Easy, short, and plain method of the first and essential rules for the accompaniment of unfigured partimenti was an extremely popular textbook and was reprinted many times.
+
+RETRIEVAL SCORE: 0.7858
+RERANK SCORE: 10.3037
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Born to a musical family in Sicily, he distinguished himself early and earned a scholarship to study under several noted musicians at Naples' Real Collegio di Musica. There he absorbed elements of the Neapolitan School's style and was inspired by performances of Donizetti's and Rossini's operas, among others, in more modern idioms. He wrote his first opera, Adelson e Salvini (1825), for the conservatory, and his next, Bianca e Fernando (1826), on a Teatro di San Carlo-affiliated commission for promising students. He also became close friends with his peer and first biographer, Francesco Florimo.
+
+RETRIEVAL SCORE: 0.6209
+RERANK SCORE: 9.5334
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Giovanni Furno taught someone known as the Swan of Catania.
+
+PASSAGE 1:
+
+Giovanni Furno (Capua, January 1, 1748 – Naples , June 20, 1837) was an Italian composer and famous music teacher. Among his students were Vincenzo Bellini and Saverio Mercadante. He was unanimously considered the best teacher in Naples. His primer on partimenti, called Easy, short, and plain method of the first and essential rules for the accompaniment of unfigured partimenti was an extremely popular textbook and was reprinted many times.
+
+RETRIEVAL SCORE: 0.7795
+RERANK SCORE: 5.1454
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The focus of study was on the masters of the Neapolitan school and the orchestral works of Haydn and Mozart, with the emphasis put upon the Italian classical era composers such as Pergolesi and Paisiello, rather than the "modern-day" approaches of composers such as Rossini. The young student's first teacher was Giovanni Furno, with whom "he studied exercises in harmony and accompaniment"; another, from whom he learned counterpoint, was the composer of over 50 operas, Giacomo Tritto, but whom he found to be "old fashioned and doctrinaire". However, the artistic director of the school was the opera composer, Niccolò Antonio Zingarelli.
+
+RETRIEVAL SCORE: 0.6948
+RERANK SCORE: 2.9000
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Swan of Catania is a person who was taught by an Italian composer.
+
+PASSAGE 1:
+
+Born to a musical family in Sicily, he distinguished himself early and earned a scholarship to study under several noted musicians at Naples' Real Collegio di Musica. There he absorbed elements of the Neapolitan School's style and was inspired by performances of Donizetti's and Rossini's operas, among others, in more modern idioms. He wrote his first opera, Adelson e Salvini (1825), for the conservatory, and his next, Bianca e Fernando (1826), on a Teatro di San Carlo-affiliated commission for promising students. He also became close friends with his peer and first biographer, Francesco Florimo.
+
+RETRIEVAL SCORE: 0.6208
+RERANK SCORE: 3.3090
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_24
+CLAIM: Jimmy Garcia lost by unanimous decision to a professional boxer that challenged for the WBO lightweight title in 1995.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Jimmy Garcia lost a boxing match.
+
+PASSAGE 1:
+
+In 1997, he fought what almost turned into another controversial fight when he challenged Azumah Nelson in a title bout for the WBC & Lineal super featherweight titles, in Corpus Christi, Texas. Ahead on all scorecards at the end of round seven, he was hit in his throat by a Nelson punch after the bell. He needed some time to recuperate from the illegal late hit, and WBC President José Sulaiman came to his corner and informed him that if he could not continue he would be declared winner by disqualification. Hernández told Sulaiman something along the lines of I want to win it like real champions do, and he went back to the fight at the beginning of round eight. The fight ended after twelve rounds and Hernández won the Super featherweight titles by defeating Nelson with a split decision victory.
+
+RETRIEVAL SCORE: 0.6587
+RERANK SCORE: 1.2803
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+On September 9, the encounter between Hernández and de la Hoya took place in Las Vegas. Hernández lost for the first time in his career, retiring from the fight at the end of the sixth round, his nose bloody: He returned to his corner, but without sitting down motioned to his team that he did not want to continue the fight. Reportedly, he had come to the fight with a nose previously injured in a sparring session. Up until the fight's end, the judges had de la Hoya holding a lead on all three scorecards. After the loss Hernández took some brief time off but by 1996 he was back inside the ring, winning two bouts that year.
+
+RETRIEVAL SCORE: 0.6238
+RERANK SCORE: 0.7445
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Defending on April 26, 1993, once again in Inglewood against former world featherweight champion Raúl Pérez, Hernández had to settle for a first round technical draw. This was the first, and so far only, world title fight in which no punches were landed. Right after the initial bell, Perez headbutted Hernández, and Perez bled profusely from an arterial vein on his forehead. The referee summoned the ring doctor, who decided the fight should be stopped as Perez required immediate surgery. In the June 28 rematch later that year, Hernández retained the world title by a knockout in round eight. Hernandez then closed the year by defeating Harold Warren by decision to once again keep his title. In 1994, Hernandez retained the title twice, including a victory over Jimmy Garcia, (who would die later after a fight with Gabriel Ruelas). By the end of 1994, Hernández was clamoring for a world title fight against crosstown rival and WBO lightweight champion Oscar De La Hoya.
+
+RETRIEVAL SCORE: 0.7029
+RERANK SCORE: -0.9977
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The match was decided by unanimous decision.
+
+PASSAGE 1:
+
+On May 7, he got a rematch with Nelson. Leija became the WBC super featherweight champion when he defeated Nelson by a twelve-round unanimous decision in Las Vegas.
+
+RETRIEVAL SCORE: 0.6866
+RERANK SCORE: -1.8005
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+On September 9, the encounter between Hernández and de la Hoya took place in Las Vegas. Hernández lost for the first time in his career, retiring from the fight at the end of the sixth round, his nose bloody: He returned to his corner, but without sitting down motioned to his team that he did not want to continue the fight. Reportedly, he had come to the fight with a nose previously injured in a sparring session. Up until the fight's end, the judges had de la Hoya holding a lead on all three scorecards. After the loss Hernández took some brief time off but by 1996 he was back inside the ring, winning two bouts that year.
+
+RETRIEVAL SCORE: 0.6271
+RERANK SCORE: -2.1765
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+After a second-round knockout victory over Troy Crain, Leija fought Nelson for the fourth time. In what was supposed to be Nelson's final career bout, Leija defeated Nelson by a twelve-round unanimous decision on July 11, 1998 (Nelson would later have a one-fight comeback against Jeff Fenech).
+
+RETRIEVAL SCORE: 0.6475
+RERANK SCORE: -2.2837
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Jimmy Garcia's opponent was a professional boxer.
+
+PASSAGE 1:
+
+In 1994 he was able to capture the title by outpointing Jesse James Leija. He defended the belt twice, including an 11th-round TKO of Jimmy Garcia of Colombia, who later died from his injuries. Ruelas contemplated retirement after Garcia's death, however, he decided to continue, promising to donate some of his earnings to the Garcia family. Ruelas later reflected that he was never the same fighter following that incident. His fight with Garcia was an undercard to his brother's (Rafael Ruelas) lost title fight with Oscar De La Hoya. Ruelas lost his title in a rematch to Nelson in 1995, via TKO in the 5th. In 1997 he took on hard-hitting Arturo Gatti for the IBF Super Featherweight Title but was TKO'd in the 5th. The fifth round of this bout was chosen as The Ring magazine Round of the Year for 1997. The fight itself was also named "Fight of the Year" by the same magazine.
+
+RETRIEVAL SCORE: 0.7133
+RERANK SCORE: 1.3230
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Defending on April 26, 1993, once again in Inglewood against former world featherweight champion Raúl Pérez, Hernández had to settle for a first round technical draw. This was the first, and so far only, world title fight in which no punches were landed. Right after the initial bell, Perez headbutted Hernández, and Perez bled profusely from an arterial vein on his forehead. The referee summoned the ring doctor, who decided the fight should be stopped as Perez required immediate surgery. In the June 28 rematch later that year, Hernández retained the world title by a knockout in round eight. Hernandez then closed the year by defeating Harold Warren by decision to once again keep his title. In 1994, Hernandez retained the title twice, including a victory over Jimmy Garcia, (who would die later after a fight with Gabriel Ruelas). By the end of 1994, Hernández was clamoring for a world title fight against crosstown rival and WBO lightweight champion Oscar De La Hoya.
+
+RETRIEVAL SCORE: 0.7018
+RERANK SCORE: 0.9346
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+On September 9, the encounter between Hernández and de la Hoya took place in Las Vegas. Hernández lost for the first time in his career, retiring from the fight at the end of the sixth round, his nose bloody: He returned to his corner, but without sitting down motioned to his team that he did not want to continue the fight. Reportedly, he had come to the fight with a nose previously injured in a sparring session. Up until the fight's end, the judges had de la Hoya holding a lead on all three scorecards. After the loss Hernández took some brief time off but by 1996 he was back inside the ring, winning two bouts that year.
+
+RETRIEVAL SCORE: 0.6130
+RERANK SCORE: -0.1356
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The opponent challenged for the WBO lightweight title.
+
+PASSAGE 1:
+
+Defending on April 26, 1993, once again in Inglewood against former world featherweight champion Raúl Pérez, Hernández had to settle for a first round technical draw. This was the first, and so far only, world title fight in which no punches were landed. Right after the initial bell, Perez headbutted Hernández, and Perez bled profusely from an arterial vein on his forehead. The referee summoned the ring doctor, who decided the fight should be stopped as Perez required immediate surgery. In the June 28 rematch later that year, Hernández retained the world title by a knockout in round eight. Hernandez then closed the year by defeating Harold Warren by decision to once again keep his title. In 1994, Hernandez retained the title twice, including a victory over Jimmy Garcia, (who would die later after a fight with Gabriel Ruelas). By the end of 1994, Hernández was clamoring for a world title fight against crosstown rival and WBO lightweight champion Oscar De La Hoya.
+
+RETRIEVAL SCORE: 0.7185
+RERANK SCORE: 1.9797
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Genaro Hernández (May 10, 1966 – June 7, 2011) was a Mexican-American professional boxer who competed from 1984 to 1998. Nicknamed "Chicanito" Hernandez, he went on to become a two-time super featherweight world champion, having held the WBA title from 1991 to 1995, and the WBC and lineal titles from 1997 to 1998. Additionally, he challenged for the WBO lightweight title in 1995.
+
+RETRIEVAL SCORE: 0.6948
+RERANK SCORE: 1.0542
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Leija rebounded with two wins, including one over Jeff Mayweather, and then, on December 15, 1995, he received a chance at becoming world champion for the second time, when he challenged Oscar De La Hoya for De La Hoya's WBO lightweight title, at Madison Square Garden. He lost by second-round knockout.
+
+RETRIEVAL SCORE: 0.7341
+RERANK SCORE: 0.5573
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The challenge for the WBO lightweight title occurred in 1995.
+
+PASSAGE 1:
+
+Genaro Hernández (May 10, 1966 – June 7, 2011) was a Mexican-American professional boxer who competed from 1984 to 1998. Nicknamed "Chicanito" Hernandez, he went on to become a two-time super featherweight world champion, having held the WBA title from 1991 to 1995, and the WBC and lineal titles from 1997 to 1998. Additionally, he challenged for the WBO lightweight title in 1995.
+
+RETRIEVAL SCORE: 0.6972
+RERANK SCORE: 3.5341
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Leija rebounded with two wins, including one over Jeff Mayweather, and then, on December 15, 1995, he received a chance at becoming world champion for the second time, when he challenged Oscar De La Hoya for De La Hoya's WBO lightweight title, at Madison Square Garden. He lost by second-round knockout.
+
+RETRIEVAL SCORE: 0.7444
+RERANK SCORE: 2.4736
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_25
+CLAIM: The French singer-songwriter, musician, actress and model, who's live album is Divinidylle Tour, was born on 22 December 1972.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The person in question is a French singer-songwriter, musician, actress, and model.
+
+PASSAGE 1:
+
+Born and raised in Ajaccio, Corsica, Alizée's first public appearance was her winning performance in the talent show Graines de star in 1999. While collaborating with Mylène Farmer and Laurent Boutonnat, she followed it with a series of albums that attained popularity by pushing the boundaries of lyrical content in mainstream popular music and imagery in her music videos, which became a fixture on NRJ, MTV, Virgin Radio, Europe 1, among others. Throughout her career, many of her songs have been in top 25 hit lists on the record charts, including "Moi... Lolita", "L'Alizé", "J'en ai marre!", "Gourmandises", "Mademoiselle Juliette", her cover version of "La Isla Bonita", "Parler Tout Bas", "Les collines (Never Leave You)" and "À cause de l'automne".
+
+RETRIEVAL SCORE: 0.6009
+RERANK SCORE: -5.2912
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+"Moi... Lolita" became her most successful to date. It enjoyed success throughout most of Europe and parts of East Asia, reaching number one in several countries. The associated music video portrayed Alizée as an impoverished rustic teen visiting a dance club in the city with her little sister, pursued by a young man who had lent them the bus fare to get there, but whose romantic interest in her she never returned. The song was later used in the UK trailer of the 2006 film, A Good Year, and was a part of the film's soundtrack. The single was from her debut album, Gourmandises, released in 2000. The album, written by Farmer and composed by Boutonnat, sold over 788,000 copies in France – it reached Platinum status in just three months. In 2001, the album was launched internationally and Alizée became the highest-selling female French singer ever. The album went on to sell over two million copies worldwide. Farmer and Boutonnat kept a tight rein how the album was marketed and controlled the image in which Alizée was portrayed. In the meantime, Alizée gave very few interviews, and even when she did, they did not stretch beyond 20 minutes per journalist. Neither did she agree to any photoshoots.
+
+RETRIEVAL SCORE: 0.5897
+RERANK SCORE: -5.6420
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Another track from the album, "Fifty-Sixty", was leaked two months before the album was released. Though the song was not mentioned by name, the leak was confirmed in a press release which revealed the title and release schedule of the album. "Fifty-Sixty" later launched as the second single from the album in February 2008. The lyric of "Fifty-Sixty" tells, in personal and metaphorical manner, of a young model under the guidance of Andy Warhol, possibly inspired by real-life story of Edie Sedgwick. The song ends with a reiteration of how she foolishly believed Warhol thought her the most beautiful model of all. Three music videos were released for the single, one for the album version of the song and the other two for two remixes. An Alizée website, Psychedeclips.com, was dedicated to the video series, the first of which was released on 5 May 2008.
+
+RETRIEVAL SCORE: 0.5912
+RERANK SCORE: -5.6532
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The person released a live album titled Divinidylle Tour.
+
+PASSAGE 1:
+
+Divinidylle Tour is the third live album by singer Vanessa Paradis. The album was recorded during her Divinidylle Tour and was also released with a DVD which documented the tour and Paradis' promotion of the album. The DVD won a Victoires de la Musique award for Best DVD Musical of the year.
+
+RETRIEVAL SCORE: 0.7463
+RERANK SCORE: 6.1871
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The person was born on 22 December 1972.
+
+PASSAGE 1:
+
+Gregg Alan Rolie (born June 17, 1947) is an American keyboardist, singer and songwriter. Rolie served as lead singer of the bands Santana and Journey – both of which he co-founded. He also helmed rock group the Storm, performed in Ringo Starr & His All-Starr Band until 2021, and since 2001 with his Gregg Rolie Band. Rolie is a two-time inductee of the Rock and Roll Hall of Fame, having been inducted both as a member of Santana in 1998 and as a member of Journey in 2017.
+
+RETRIEVAL SCORE: 0.5757
+RERANK SCORE: -2.3238
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Double Dutchess is the second studio album by American singer Fergie. It was released on September 22, 2017. The album is the singer's first to be released under her own imprint, Dutchess Music, in a partnership with Retrofuture Productions and BMG Rights Management, and first since her solo debut, The Dutchess (2006). Promotion for the album began with the release of the album's first single "M.I.L.F. $" in July 2016, followed by the release of "Life Goes On" in November that same year. "You Already Know" was released as the third single on September 12, 2017. The album includes collaborations with Nicki Minaj, YG, Rick Ross, and Fergie's son Axl Jack.
+
+RETRIEVAL SCORE: 0.5864
+RERANK SCORE: -2.9418
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Divinidylle is the fifth studio album by French singer Vanessa Paradis, released on 27 August 2007 by Barclay. It was recorded between November 2005 and June 2007. Critical reception was favourable, with AllMusic suggesting that it was "likely Paradis' best album yet". The artwork for the album was designed by American actor Johnny Depp, Paradis' partner at the time.
+
+RETRIEVAL SCORE: 0.7148
+RERANK SCORE: -3.1029
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_26
+CLAIM: Superdrag and Collective Soul are both rock bands.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Superdrag is a rock band.
+
+PASSAGE 1:
+
+Superdrag is an American alternative rock band from Knoxville, Tennessee, United States. They had a hit single in 1996, "Sucked Out", from their album Regretfully Yours. The original lineup reunited in 2007, releasing a full-length album in 2009: Industry Giants. The same lineup reunited again in 2021 & 2025.
+
+RETRIEVAL SCORE: 0.7579
+RERANK SCORE: 9.2964
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+With the absence of a major label or producer to influence their sound—although Raskulinecz was originally committed to the project, he had just signed on to produce an album for Foo Fighters in Los Angeles—Superdrag continued to evolve at their own pace, and in 2002 Last Call for Vitriol once again redefined the band's sound. Some of the songs moved toward a heavier, more alternative sound, while others were of pure Americana influence. Brandon Fisher had left the band prior to the release of In the Valley of Dying Stars, and Mic Harrison had eventually taken his place, adding a much more Americana feel to the guitar style.  Prior to Harrison's arrival, guitarist William Tyler toured with the band.
+
+RETRIEVAL SCORE: 0.6460
+RERANK SCORE: 3.0184
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Superdrag had its roots in the early 1990s when Knoxville guitar player Brandon Fisher began dating the cousin of John Davis. Davis began playing the drums in Brandon's band, The Used (not to be confused with the Utah-based band), along with Tom Pappas.
+
+RETRIEVAL SCORE: 0.7155
+RERANK SCORE: 2.8607
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Collective Soul is a rock band.
+
+PASSAGE 1:
+
+Collective Soul is an American rock band originally from Stockbridge, Georgia. Now based in Atlanta, the group consists of the brothers Ed (lead vocalist) and Dean Roland (rhythm guitarist), Will Turpin (bassist), Johnny Rabb (drummer), and Jesse Triplett (lead guitarist). Formed in 1992, the original lineup consisted of the Roland brothers, bassist David Neal, guitarist Ross Childress, and drummer Shane Evans. Collective Soul released their Hints Allegations and Things Left Unsaid album on the independent label Rising Storm Records in 1993. The band went from obscurity to popularity that year after the album's lead single "Shine" received regional radio play. Around the same time, Turpin replaced Neal on bass. The album was then re-released in 1994 by the major label Atlantic Records; thus, "Shine" became a national hit as it peaked at No. 1 on the Mainstream Rock and No. 4 on the Mainstream Top 40 charts.
+
+RETRIEVAL SCORE: 0.7462
+RERANK SCORE: 10.3057
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Collective Soul released their eighth studio album on August 25, 2009, with Roadrunner Records, a subsidiary of their previous label Atlantic Records. It was officially another self-titled album but was also named Rabbit to differentiate it from the band's 1995 self-titled release. The album debuted at No. 24 on the Billboard 200. The first single was "Staring Down" and the second single was "Welcome All Again". "Staring Down" charted at No. 18 on the Adult Top 40 chart. The third single, "You", also charted briefly on the Adult Top 40.
+
+RETRIEVAL SCORE: 0.6254
+RERANK SCORE: 3.8874
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Collective Soul took a break from touring and had only played a handful of dates throughout 1998. They had instead focused on recording. The band's fourth album was 1999's platinum certified Dosage. The first single "Heavy" set a new high mark for 15 weeks at No. 1 on the Mainstream Rock chart. Singles such as "Run", "No More, No Less", and "Tremble for My Beloved" gained notable positions on the rock charts as well. The album was produced by Anthony J. Resta, known for his work with Duran Duran and others. The band also performed at the Woodstock 1999 festival.
+
+RETRIEVAL SCORE: 0.6242
+RERANK SCORE: 3.5752
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+The band released Blender in 2000. It was the final album with their most well-known lineup as lead guitarist Childress left the band in 2001. Overall, the band's first five albums all received RIAA certifications. Collective Soul established their own label, El Music Group (which was later renamed to Fuzze-Flex Records), prior to releasing Youth in 2004. Original drummer Evans then departed from the band at the end of 2005. Collective Soul released five additional albums between 2005 and 2023: Afterwords (2007), Rabbit (2009), See What You Started by Continuing (2015), Blood (2019), and Vibrating (2022). The band then released their first double album in 2024, Here to Eternity. The band's 13th album, Touch and Go, was released in 2026.
+
+RETRIEVAL SCORE: 0.6513
+RERANK SCORE: 2.3017
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 5:
+
+In 2004, Collective Soul created their independent label El Music Group, which allowed the band greater control over the production and distribution of their music. In November of that year, they released their sixth studio album, Youth, which debuted at No. 66 on the Billboard 200. Due to personal issues, additional drum tracks on the album were by session musician Ryan Hoyle, who would play a more prominent place in the band increasingly. "Counting the Days" was the first and most successful single, as it peaked at No. 8 on the Mainstream Rock chart. The second single "Better Now" received significant airplay on the Adult Top 40 chart as it peaked at No. 9 and was used in commercials for the cereal Special K. The third single "How Do You Love" peaked at No. 16 on the Adult Top 40 chart. Overall, the resultant US and Canadian tours lasted over two years.
+
+RETRIEVAL SCORE: 0.6292
+RERANK SCORE: 2.1891
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_27
+CLAIM: The Burlington Mall is a large, two-story, indoor shopping mall complex located off Route 3 and Route 128 in Burlington, Massachusetts, the mall is one of many shopping venues in the Middlesex County area, including Square One Mall, a 115 store shopping mall located along US Route 1 (Broadway) between Main Street and Essex Street in Saugus, Massachusetts.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Burlington Mall is a large, two-story, indoor shopping mall complex.
+
+PASSAGE 1:
+
+Burlington Mall may refer to the following shopping malls:
+
+RETRIEVAL SCORE: 0.7926
+RERANK SCORE: 3.8150
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Burlington Mall is located off Route 3 and Route 128 in Burlington, Massachusetts.
+
+PASSAGE 1:
+
+Burlington Mall (Massachusetts) in Burlington, Massachusetts, U.S.
+
+RETRIEVAL SCORE: 0.8458
+RERANK SCORE: 7.5746
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Burlington Mall is one of many shopping venues in the Middlesex County area.
+
+PASSAGE 1:
+
+Burlington Mall may refer to the following shopping malls:
+
+RETRIEVAL SCORE: 0.7929
+RERANK SCORE: 2.6102
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Square One Mall is a 115 store shopping mall located along US Route 1 (Broadway) between Main Street and Essex Street in Saugus, Massachusetts.
+
+PASSAGE 1:
+
+Burlington Mall may refer to the following shopping malls:
+
+RETRIEVAL SCORE: 0.7751
+RERANK SCORE: -3.9707
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The area is known for its shopping centre of the same name, which was rebranded as Intu Braehead in 2013 and kept that name until 2020. The rebranding was done as part of a corporate rebranding exercise by Capital Shopping Centres plc, which itself was renamed as Intu Properties PLC.
+
+RETRIEVAL SCORE: 0.5773
+RERANK SCORE: -4.1540
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Frankfort is the capital city of the U.S. state of Kentucky. It is a home rule-class city and the seat of Franklin County. As of the 2020 census, the population was 28,602, making it the 13th-largest city in Kentucky and 4th-smallest U.S. state capital by population. Located along the Kentucky River in the Upland South, Frankfort is the principal city of the Frankfort, Kentucky micropolitan area, which includes all of Franklin and Anderson counties.
+
+RETRIEVAL SCORE: 0.5535
+RERANK SCORE: -7.1884
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_28
+CLAIM: Pablo Jose Ozuna is the cousin of a Dominican professional baseball left fielder who made his MLB debut in 2013.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Pablo Jose Ozuna has a cousin who is a professional baseball player from the Dominican Republic.
+
+PASSAGE 1:
+
+Pablo José Ozuna (born August 25, 1974) is a Dominican former professional baseball utility player. During his major league career, he played for the Florida Marlins (2000, 2002), the Colorado Rockies (2003), the Chicago White Sox (2005–2008), and the Los Angeles Dodgers (2008). He is the cousin of current Pittsburgh Pirates designated hitter Marcell Ozuna.
+
+RETRIEVAL SCORE: 0.8953
+RERANK SCORE: 10.3062
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Ozuna is married to Genesis Guzman. As of May 2017, the couple have three children.
+
+RETRIEVAL SCORE: 0.7170
+RERANK SCORE: 4.5172
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Marcell Ozuna Idelfonso was born in Santo Domingo, Dominican Republic. His father is a former painter, and his mother is a housekeeper. He has one brother and two sisters. He is the cousin of former MLB player Pablo Ozuna.
+
+RETRIEVAL SCORE: 0.7877
+RERANK SCORE: 4.1100
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: This cousin plays the position of left fielder.
+
+PASSAGE 1:
+
+On December 14, 2017, the Marlins traded Ozuna to the St. Louis Cardinals for Sandy Alcántara, Magneuris Sierra, Zac Gallen, and Daniel Castano. On January 12, 2018, it was announced that the Cardinals and Ozuna reached agreement on a one-year, $9 million contract. Prior to the 2018 season, Mike Petriello of MLB.com rated Ozuna the best left fielder in the major leagues, opining him as "a strong fielder," and averaging the 12th-highest exit velocity [91 miles per hour (146 km/h)] over the prior three seasons of all hitters with at least 1,000 plate appearances.
+
+RETRIEVAL SCORE: 0.7194
+RERANK SCORE: 1.6499
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Pablo José Ozuna (born August 25, 1974) is a Dominican former professional baseball utility player. During his major league career, he played for the Florida Marlins (2000, 2002), the Colorado Rockies (2003), the Chicago White Sox (2005–2008), and the Los Angeles Dodgers (2008). He is the cousin of current Pittsburgh Pirates designated hitter Marcell Ozuna.
+
+RETRIEVAL SCORE: 0.8979
+RERANK SCORE: -0.8113
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+Ozuna was signed by the Marlins as an amateur free agent in 2008. He is a three-time MLB All-Star (2016, 2017, 2024), a two-time Silver Slugger (2017, 2020) and Gold Glove winner in 2017, his breakout season. That year, he finished fourth in the National League (NL) in batting average (.312), and third in home runs (37) and runs batted in (124). Following the 2017 season, the Marlins traded Ozuna to the St. Louis Cardinals. In 2020 he led the NL in both home runs and RBIs.
+
+RETRIEVAL SCORE: 0.7086
+RERANK SCORE: -1.5640
+PASSAGE_TYPE: Irrelevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: This cousin made his Major League Baseball (MLB) debut in 2013.
+
+PASSAGE 1:
+
+Marcell Ozuna Idelfonso (born November 12, 1990), nicknamed "the Big Bear", is a Dominican professional baseball designated hitter and outfielder for the Pittsburgh Pirates of Major League Baseball (MLB). He has previously played in MLB for the Miami Marlins, St. Louis Cardinals, and Atlanta Braves. He made his MLB debut in 2013 with the Marlins.
+
+RETRIEVAL SCORE: 0.7167
+RERANK SCORE: 3.5640
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_29
+CLAIM: Judge Aaron Persky rendered the verdict in People v. Turner case  filed in Santa Clara County Superior Court.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Judge Aaron Persky is a judge in Santa Clara County Superior Court.
+
+PASSAGE 1:
+
+Michael Aaron Persky (born March 7, 1962) is an American attorney and former judge of the Santa Clara County Superior Court from 2003 to 2018.
+
+RETRIEVAL SCORE: 0.8450
+RERANK SCORE: 7.2336
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+In June 2016, Persky was elected without opposition for another six-year term on the bench. The vast majority of Santa Clara County judges—25 in total—ran unopposed in 2016.
+
+RETRIEVAL SCORE: 0.7725
+RERANK SCORE: 1.4514
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The People v. Turner case was filed in Santa Clara County Superior Court.
+
+PASSAGE 1:
+
+Turner was initially indicted on five charges: two for rape, two for felony sexual assault, and one for attempted rape, although the two rape charges were later withdrawn. On February 2, 2015, Turner pleaded not guilty to all of the charges. The trial concluded on March 30, 2016, with Turner convicted of three charges of felony sexual assault. On June 2, 2016, Santa Clara County Superior Court Judge Aaron Persky sentenced Turner to six months in jail followed by three years of probation. Additionally, Turner was obliged to register as a sex offender for life and to complete a rehabilitation program for sex offenders.
+
+RETRIEVAL SCORE: 0.7247
+RERANK SCORE: 4.9421
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+People v. Turner, formally The People of the State of California v. Brock Allen Turner (2015), was a criminal case in which Brock Allen Turner was convicted by jury trial of three counts of felony sexual assault.
+
+RETRIEVAL SCORE: 0.7264
+RERANK SCORE: 4.3302
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Judge Aaron Persky rendered the verdict in the People v. Turner case.
+
+PASSAGE 1:
+
+Turner was initially indicted on five charges: two for rape, two for felony sexual assault, and one for attempted rape, although the two rape charges were later withdrawn. On February 2, 2015, Turner pleaded not guilty to all of the charges. The trial concluded on March 30, 2016, with Turner convicted of three charges of felony sexual assault. On June 2, 2016, Santa Clara County Superior Court Judge Aaron Persky sentenced Turner to six months in jail followed by three years of probation. Additionally, Turner was obliged to register as a sex offender for life and to complete a rehabilitation program for sex offenders.
+
+RETRIEVAL SCORE: 0.7150
+RERANK SCORE: 4.0906
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+In 2016, Persky gained national attention after his ruling in the case People v. Turner, in which he sentenced Stanford University student Brock Turner to six months in jail for the sexual assault and attempted rape of an unconscious 22-year-old woman, Chanel Miller, using the sentence recommended by the Santa Clara County Probation Department. The sentence led to public outrage and was criticized by prosecutors and victims' rights advocates as being influenced by race, gender, and class bias. However, the California Commission on Judicial Performance found that there was not clear and convincing evidence of wrongdoing in their investigation of the case. Nonetheless, in the June 2018 primary elections, voters overwhelmingly recalled Persky, with 61.51% in favor, making Persky the first judge in California to be recalled since 1932.
+
+RETRIEVAL SCORE: 0.7860
+RERANK SCORE: 3.3376
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+On June 2, 2016, Judge Aaron Persky sentenced Turner to six months in the Santa Clara County jail followed by three years of probation. After three months in jail, Turner was released on September 2, 2016. He is permanently registered as a sex offender and was obligated to participate in a sex offender rehabilitation program.
+
+RETRIEVAL SCORE: 0.7809
+RERANK SCORE: 2.2429
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+In 2016, Persky received international media attention and widespread criticism for sentencing Brock Allen Turner, a 20-year-old Stanford student convicted of three felony counts of sexual assault, to six months in jail and three years of probation. The statutory maximum sentence was fourteen years; prosecutors sought a six-year term, while the Santa Clara County Probation Department, in its presentence investigation report, recommended a six-month term in county jail, and the defense asked for a four-month term in county jail. During sentencing, Persky said he considered the factors noted by the Probation Office and the "severe impact" of imprisonment on the defendant's life. Following the controversy, the Associated Press analyzed 20 cases where Persky had passed sentences since January 2015 and found that Persky had followed the sentencing recommendation of the probation department every time.
+
+RETRIEVAL SCORE: 0.7039
+RERANK SCORE: 2.1803
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+====================================================================================================
+
+CLAIM ID: claim_30
+CLAIM: Both the Battle of Saipan and the Battle of Manila were fought by American forces.
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Battle of Saipan was fought by American forces.
+
+PASSAGE 1:
+
+The Battle of Saipan was an amphibious assault launched by the United States against the Empire of Japan during the Pacific campaign of World War II between 15 June and 9 July 1944. The initial invasion triggered the Battle of the Philippine Sea, which effectively destroyed Japanese carrier-based airpower, and the battle resulted in the American capture of the island. Its occupation put the major cities of the Japanese home islands within the range of B-29 bombers, making them vulnerable to strategic bombing by the United States Army Air Forces. It also precipitated the resignation of Hideki Tōjō, the prime minister of Japan.
+
+RETRIEVAL SCORE: 0.8043
+RERANK SCORE: 9.9565
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+Saipan was the first objective in Operation Forager, the campaign to occupy the Mariana Islands that got underway at the same time the Allies were invading France in Operation Overlord. After a two-day naval bombardment, the U.S. 2nd Marine Division, 4th Marine Division, and the Army's 27th Infantry Division, commanded by Lieutenant General Holland Smith, landed on the island and defeated the 43rd Infantry Division of the Imperial Japanese Army, commanded by Lieutenant General Yoshitsugu Saitō. Organized resistance ended when at least 3,000 Japanese soldiers died in a mass gyokusai attack, and afterward about 1,000 civilians committed suicide.
+
+RETRIEVAL SCORE: 0.7256
+RERANK SCORE: 6.7150
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 3:
+
+The capture of Saipan pierced the Japanese inner defense perimeter, and forced the Japanese government to inform its citizens for the first time that the war was not going well. The battle claimed more than 46,000 military casualties and at least 8,000 civilian deaths. The high percentage of casualties suffered during the battle influenced American planning for future assaults, including the projected invasion of Japan.
+
+RETRIEVAL SCORE: 0.7360
+RERANK SCORE: 3.0126
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+PASSAGE 4:
+
+Saipan was the first island during the Pacific War where the United States forces encountered a substantial Japanese civilian population, and the first where U. S. Marines fought around urban areas. About 26,000 to 28,000 civilians lived on the island, primarily serving the sugar industry. Most of them were Japanese subjects, primarily from Okinawa and Korea; a minority was Chamorro people. The largest towns on the island were the administrative center of Garapan, which had a population of 10,000, Charan Kanoa, and Tanapag. They were on the western coast of the island, which was where the best landing beaches for an invasion were located.
+
+RETRIEVAL SCORE: 0.7207
+RERANK SCORE: 2.7809
+PASSAGE_TYPE: Weakly Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: The Battle of Manila was fought by American forces.
+
+PASSAGE 1:
+
+The Battle of Manila (3 February – 3 March  1945) was a major battle during the Philippine campaign of 1944–45, during the Second World War. It was fought by forces from both the United States and the Philippines against Japanese troops in Manila, the capital city of the Philippines. The month-long battle, which resulted in the death of at least 100,000 civilians and the complete devastation of the city, was the scene of the worst urban fighting fought by American forces in the Pacific theater. During the battle, Japanese forces committed mass murder against Filipino civilians, while American firepower also killed many people. The fierce resistance of Japanese troops entrenched in many of the city's landmarks, along with the usage of massed artillery barrages by American forces to dislodge them, destroyed much of Manila's architectural and cultural heritage dating back to the city's founding. Often referred to as "the Stalingrad of Asia", the battle is widely considered to be one of the most destructive urban battles ever fought, as well as the single largest urban battle ever fought by American forces.
+
+RETRIEVAL SCORE: 0.7649
+RERANK SCORE: 10.3058
+PASSAGE_TYPE: Highly Relevant
+------------------------------------------------------------
+
+PASSAGE 2:
+
+The battle caused Manila to become one of the most devastated capital cities of the Second World War, alongside Berlin and Warsaw. The Allied victory contributed greatly to ending almost three years of Japanese military occupation in the Philippines (1942–1945). Manila's capture was seen as General Douglas MacArthur's key to victory in the campaign to liberate the islands, although heavy fighting continued in Luzon (and elsewhere in the Philippines) until the end of the war in August 1945. It is, to date, the last battle fought within Manila.
+
+RETRIEVAL SCORE: 0.7145
+RERANK SCORE: 3.0704
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+SUBCLAIM: Both battles were fought by American forces.
+
+PASSAGE 1:
+
+On 31 January, the Eighth United States Army of Lt. Gen. Robert L. Eichelberger, including the 187th and 188th Glider Infantry Regiments of Col. Robert H. Soule and components of the U.S. 11th Airborne Division under Maj. Gen. Joseph Swing, landed unopposed at Nasugbu in southern Luzon and began moving north toward Manila. Meanwhile, the 11th Airborne's 511th Regimental Combat Team, commanded by Col. Orin D. "Hard Rock" Haugen, parachuted onto Tagaytay Ridge on 3 February. On 10 February, the 11th Airborne Division came under the command of the Sixth Army, and seized Fort William McKinley on 17 February
+
+RETRIEVAL SCORE: 0.6425
+RERANK SCORE: 3.2903
+PASSAGE_TYPE: Relevant
+------------------------------------------------------------

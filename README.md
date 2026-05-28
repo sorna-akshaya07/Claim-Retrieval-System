@@ -73,3 +73,9 @@ Output: verification_output.txt
 | Stage 2 | `BAAI/bge-reranker-base` | Passage reranking |
 | Stage 3 | `BAAI/bge-reranker-base` + `cross-encoder/nli-deberta-v3-small` | Hard negative filtering |
 | Stage 4 | `cross-encoder/nli-deberta-v3-small` | NLI verification |
+
+
+## Commit History
+
+> Note: Some files were committed together in early stages.
+> Each stage is independently implemented and documented.

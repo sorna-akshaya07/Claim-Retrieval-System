@@ -64,18 +64,20 @@ Otherwise
     
 Output: verification_output.txt
 
-Structure:
+## Project Structure
 
-├── stage1_dense_retriever.py     # Stage 1 — Dense Retrieval
-├── stage2_reranker.py            # Stage 2 — Reranking
-├── crosscheck_hardadver.py       # Stage 3 — Hard Negative Elimination
-├── stage4_verification.py        # Stage 4 — NLI Verification
-├── output1.txt                   # Claim decomposition input
-├── stage1_output.txt             # Stage 1 output
-├── stage2_output.txt             # Stage 2 output
-├── hard_adver_output.txt         # Stage 3 output
-├── verification_output.txt       # Final verification output
-└── requirements.txt              # Dependencies
+| File | Description |
+|------|-------------|
+| `stage1_dense_retriever.py` | Stage 1 — Dense Retrieval |
+| `stage2_reranker.py` | Stage 2 — Reranking |
+| `crosscheck_hardadver.py` | Stage 3 — Hard Negative Elimination |
+| `stage4_verification.py` | Stage 4 — NLI Verification |
+| `output1.txt` | Claim decomposition input |
+| `stage1_output.txt` | Stage 1 output |
+| `stage2_output.txt` | Stage 2 output |
+| `hard_adver_output.txt` | Stage 3 output |
+| `verification_output.txt` | Final verification output |
+| `requirements.txt` | Dependencies |
 
 ## Models Used
 
@@ -85,3 +87,9 @@ Structure:
 | Stage 2 | `BAAI/bge-reranker-base` | Passage reranking |
 | Stage 3 | `BAAI/bge-reranker-base` + `cross-encoder/nli-deberta-v3-small` | Hard negative filtering |
 | Stage 4 | `cross-encoder/nli-deberta-v3-small` | NLI verification |
+
+
+## Commit History
+
+> Note: Some files were committed together in early stages.
+> Each stage is independently implemented and documented.

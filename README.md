@@ -36,18 +36,32 @@ Runs NLI on each passage against the subclaim
 Labels each passage as SUPPORTED, REFUTED, or NEI
 Subclaim verdict using majority vote:
 
-support >= 2, refute = 0 → SUPPORTED
-refute >= 2 → REFUTED
-refute >= 1, support = 0 → REFUTED
-tie → REFUTED (conservative)
-else → NOT ENOUGH INFO
+support > refute and support >= 1
+    → SUPPORTED
+
+refute > support and refute >= 1
+    → REFUTED
+
+support = refute
+    → NOT ENOUGH INFO
+
+no evidence
+    → NOT ENOUGH INFO
 
 
 Final claim verdict:
+Any subclaim REFUTED
+    → FINAL CLAIM = REFUTED
 
-Any subclaim REFUTED → REFUTED
-All subclaims SUPPORTED → SUPPORTED
-Otherwise → NOT ENOUGH INFO
+All subclaims SUPPORTED
+    → FINAL CLAIM = SUPPORTED
+
+No subclaims available
+    → FINAL CLAIM = NOT ENOUGH INFO
+
+Otherwise
+    → FINAL CLAIM = NOT ENOUGH INFO
+    
 Output: verification_output.txt
 
 Structure:

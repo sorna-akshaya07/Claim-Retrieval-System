@@ -27,7 +27,7 @@ PASSAGE 3:
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Jamal Fincher Jones (born October 15, 1977 or 1978), known professionally as Pol
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -95,11 +95,11 @@ Many critics noted how the single was a change in genre from Fergie's previous s
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
-FINAL CLAIM VERDICT: NOT ENOUGH INFO
+FINAL CLAIM VERDICT: SUPPORTED
 
 
 ====================================================================================================
@@ -168,7 +168,7 @@ Kubrick made his directorial debut in 1951 with the documentary short Day of the
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -199,7 +199,7 @@ Stephen King is an American author of contemporary horror, thriller, science fic
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
@@ -289,7 +289,7 @@ The Harrier is  cheerful, sweet-tempered,  tolerant of people, and it is excelle
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -360,7 +360,7 @@ VERDICT: SUPPORTED
 
 ============================================================
 
-FINAL CLAIM VERDICT: NOT ENOUGH INFO
+FINAL CLAIM VERDICT: SUPPORTED
 
 
 ====================================================================================================
@@ -435,7 +435,7 @@ Zombieland premiered at Fantastic Fest on September 25, 2009, and was theatrical
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
@@ -464,7 +464,7 @@ On 1 May 2011, Ridley Scott bought the film rights of the novel Before I Go to S
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -592,11 +592,11 @@ The Campeonato Nacional de Liga de Primera División, commonly known as the Prim
 NLI VERDICT: SUPPORTED
 ------------------------------------------------------------
 
-VERDICT: REFUTED
+VERDICT: NOT ENOUGH INFO
 
 ============================================================
 
-FINAL CLAIM VERDICT: REFUTED
+FINAL CLAIM VERDICT: NOT ENOUGH INFO
 
 
 ====================================================================================================
@@ -749,7 +749,7 @@ In 1683, the colony of New York was divided into ten counties. As part of this p
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -809,7 +809,7 @@ Viva (2015 film), a 2015 Irish film directed by Paddy Breathnach
 NLI VERDICT: SUPPORTED
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -1003,7 +1003,7 @@ The same year, he was cast as Jack McFarland, a flamboyantly gay and frequently 
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -1132,11 +1132,11 @@ O'Neill left Leicester on 1 June 2000, taking over from the team of John Barnes 
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
-FINAL CLAIM VERDICT: NOT ENOUGH INFO
+FINAL CLAIM VERDICT: SUPPORTED
 
 
 ====================================================================================================
@@ -1180,7 +1180,7 @@ Oregon head coach Mark Helfrich returns in his second year as Oregon's head coac
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -1272,7 +1272,7 @@ Iran, officially the Islamic Republic of Iran, historically known as Persia, is 
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
@@ -1326,11 +1326,11 @@ Captain Strong is a fictional character in DC Comics, introduced in Action Comic
 NLI VERDICT: SUPPORTED
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
-FINAL CLAIM VERDICT: NOT ENOUGH INFO
+FINAL CLAIM VERDICT: SUPPORTED
 
 
 ====================================================================================================
@@ -1435,7 +1435,7 @@ The Kentucky Department of Corrections is a state agency of the Kentucky Justice
 NLI VERDICT: SUPPORTED
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -1508,7 +1508,7 @@ In 1997, March made her screen debut in an episode of the CBS series Early Editi
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -1521,7 +1521,7 @@ Innocence is a 2013 American horror drama film directed by Hilary Brougher, who 
 NLI VERDICT: SUPPORTED
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -1552,11 +1552,11 @@ Alexandra "Alex" Cabot is a fictional character within the Law & Order universe 
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
-FINAL CLAIM VERDICT: NOT ENOUGH INFO
+FINAL CLAIM VERDICT: SUPPORTED
 
 
 ====================================================================================================
@@ -1648,7 +1648,7 @@ Sian Gibson (née Foulkes; born 1976) is a Welsh comedy actress and television w
 NLI VERDICT: SUPPORTED
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -1698,7 +1698,7 @@ Meanwhile, in 2013, Kay had received the script that became Peter Kay's Car Shar
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -1717,11 +1717,11 @@ The series focuses on supermarket assistant manager John Redmond (Kay) and promo
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
-FINAL CLAIM VERDICT: NOT ENOUGH INFO
+FINAL CLAIM VERDICT: SUPPORTED
 
 
 ====================================================================================================
@@ -1849,7 +1849,7 @@ Ashley Estes Kavanaugh is an American public official and former political aide.
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -1891,7 +1891,7 @@ Born to a musical family in Sicily, he distinguished himself early and earned a 
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -2052,7 +2052,7 @@ Leija rebounded with two wins, including one over Jeff Mayweather, and then, on 
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
@@ -2100,7 +2100,7 @@ Divinidylle Tour is the third live album by singer Vanessa Paradis. The album wa
 NLI VERDICT: SUPPORTED
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -2160,7 +2160,7 @@ Superdrag had its roots in the early 1990s when Knoxville guitar player Brandon 
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -2197,11 +2197,11 @@ In 2004, Collective Soul created their independent label El Music Group, which a
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 ============================================================
 
-FINAL CLAIM VERDICT: NOT ENOUGH INFO
+FINAL CLAIM VERDICT: SUPPORTED
 
 
 ====================================================================================================
@@ -2373,7 +2373,7 @@ In June 2016, Persky was elected without opposition for another six-year term on
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 
@@ -2483,7 +2483,7 @@ The battle caused Manila to become one of the most devastated capital cities of 
 NLI VERDICT: NEI
 ------------------------------------------------------------
 
-VERDICT: NOT ENOUGH INFO
+VERDICT: SUPPORTED
 
 --------------------------------------------------------------------------------
 

@@ -136,49 +136,51 @@ with open(output_file, "w", encoding="utf-8") as out:
                 else:
                     nei_count += 1
 
-            # MAJORITY VOTE
+            # MAJORITY VOTE for subclaim
             total = support_count + refute_count + nei_count
 
             if total == 0:
-                final_subclaim_verdict = "NOT ENOUGH INFO"
 
-            elif refute_count >= 2:
-                final_subclaim_verdict = "REFUTED"
+                     final_subclaim_verdict = "NOT ENOUGH INFO"
 
-            elif support_count >= 2 and refute_count == 0:
-                final_subclaim_verdict = "SUPPORTED"
+            elif support_count > refute_count and support_count >= 1:
 
-            elif support_count >= 2 and refute_count == 1:
-                final_subclaim_verdict = "SUPPORTED"
+                     final_subclaim_verdict = "SUPPORTED"
 
-            elif support_count == refute_count and support_count >= 1:
-                final_subclaim_verdict = "REFUTED"
+            elif refute_count > support_count and refute_count >= 1:
 
-            elif refute_count >= 1 and support_count == 0:
-                final_subclaim_verdict = "REFUTED"
+                     final_subclaim_verdict = "REFUTED"
 
             else:
-                final_subclaim_verdict = "NOT ENOUGH INFO"
+
+                    final_subclaim_verdict = "NOT ENOUGH INFO"
 
             subclaim_verdicts.append(final_subclaim_verdict)
 
             out.write(f"\nVERDICT: {final_subclaim_verdict}\n")
             print("FINAL SUBCLAIM VERDICT:", final_subclaim_verdict)
 
-        # FINAL CLAIM VERDICT
+        # FINAL CLAIM VERDICT (based on subclaims)
         supported_count = subclaim_verdicts.count("SUPPORTED")
         refuted_count   = subclaim_verdicts.count("REFUTED")
         total_subclaims = len(subclaim_verdicts)
 
         if total_subclaims == 0:
-            final_claim_verdict = "NOT ENOUGH INFO"
-        elif refuted_count >= 1:
-            final_claim_verdict = "REFUTED"
-        elif supported_count == total_subclaims:
-            final_claim_verdict = "SUPPORTED"
-        else:
-            final_claim_verdict = "NOT ENOUGH INFO"
 
+                final_claim_verdict = "NOT ENOUGH INFO"
+
+        elif refuted_count >= 1:
+
+                 final_claim_verdict = "REFUTED"
+
+        elif supported_count == total_subclaims:
+
+                final_claim_verdict = "SUPPORTED"
+
+        else:
+
+                final_claim_verdict = "NOT ENOUGH INFO"
+                
         out.write("\n")
         out.write("=" * 60)
         out.write("\n\n")
